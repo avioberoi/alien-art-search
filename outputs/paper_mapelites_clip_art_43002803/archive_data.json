@@ -1,0 +1,1379 @@
+{
+  "config": {
+    "grid_size": 15,
+    "iterations": 5000,
+    "auto_axes": true,
+    "use_art_prompts": true,
+    "embedding_model": "clip"
+  },
+  "stats": {
+    "coverage": 0.38222222222222224,
+    "num_elites": 86,
+    "novelty_mean": 0.2967330472067345
+  },
+  "elites": [
+    {
+      "cell": [
+        14,
+        5
+      ],
+      "prompt": "a painting of a landscape",
+      "novelty": 1.0,
+      "iteration": 0,
+      "theta": {
+        "seed": 692720,
+        "cfg_scale": 6.783677093699261,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0000.png"
+    },
+    {
+      "cell": [
+        13,
+        6
+      ],
+      "prompt": "a romantic painting of a stormy sea",
+      "novelty": 0.27008309960365295,
+      "iteration": 5,
+      "theta": {
+        "seed": 940242,
+        "cfg_scale": 6.783677093699261,
+        "steps": 20,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0005.png"
+    },
+    {
+      "cell": [
+        6,
+        5
+      ],
+      "prompt": "classical a market square with rocky shore, as a panoramic view",
+      "novelty": 0.3575860559940338,
+      "iteration": 1779,
+      "theta": {
+        "seed": 938625,
+        "cfg_scale": 8.757256450530981,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1779.png"
+    },
+    {
+      "cell": [
+        1,
+        14
+      ],
+      "prompt": "a painting of a river valley",
+      "novelty": 0.16121067106723785,
+      "iteration": 3,
+      "theta": {
+        "seed": 162561,
+        "cfg_scale": 6.783677093699261,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0003.png"
+    },
+    {
+      "cell": [
+        13,
+        8
+      ],
+      "prompt": "an impressionist landscape with trees",
+      "novelty": 0.2856111526489258,
+      "iteration": 4,
+      "theta": {
+        "seed": 175703,
+        "cfg_scale": 6.783677093699261,
+        "steps": 20,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0004.png"
+    },
+    {
+      "cell": [
+        12,
+        0
+      ],
+      "prompt": "a pastoral scene with meadows",
+      "novelty": 0.2479972094297409,
+      "iteration": 6,
+      "theta": {
+        "seed": 267881,
+        "cfg_scale": 6.783677093699261,
+        "steps": 20,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0006.png"
+    },
+    {
+      "cell": [
+        7,
+        5
+      ],
+      "prompt": "a table setting with rocky shore, as a panoramic view",
+      "novelty": 0.3742518424987793,
+      "iteration": 440,
+      "theta": {
+        "seed": 648911,
+        "cfg_scale": 7.073295734660393,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0440.png"
+    },
+    {
+      "cell": [
+        8,
+        13
+      ],
+      "prompt": "a pastoral scene with meadows, with layered planes",
+      "novelty": 0.23363691568374634,
+      "iteration": 8,
+      "theta": {
+        "seed": 940044,
+        "cfg_scale": 5.593516872128684,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0008.png"
+    },
+    {
+      "cell": [
+        6,
+        4
+      ],
+      "prompt": "a table setting with rocky shore, as a panoramic view, with strong diagonal lines",
+      "novelty": 0.376747727394104,
+      "iteration": 499,
+      "theta": {
+        "seed": 275324,
+        "cfg_scale": 9.732199512264703,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0499.png"
+    },
+    {
+      "cell": [
+        6,
+        6
+      ],
+      "prompt": "a self-portrait with rocky shore, with soft diffused light",
+      "novelty": 0.3166638910770416,
+      "iteration": 1755,
+      "theta": {
+        "seed": 382400,
+        "cfg_scale": 10.5611142408329,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1755.png"
+    },
+    {
+      "cell": [
+        13,
+        13
+      ],
+      "prompt": "a romantic painting of a stormy sea, in morning mist",
+      "novelty": 0.24766305088996887,
+      "iteration": 11,
+      "theta": {
+        "seed": 476437,
+        "cfg_scale": 5.593516872128684,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0011.png"
+    },
+    {
+      "cell": [
+        11,
+        13
+      ],
+      "prompt": "tranquil painting blending city skyline and portrait",
+      "novelty": 0.27740955352783203,
+      "iteration": 12,
+      "theta": {
+        "seed": 920614,
+        "cfg_scale": 5.593516872128684,
+        "steps": 30,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0012.png"
+    },
+    {
+      "cell": [
+        2,
+        7
+      ],
+      "prompt": "a painting of a quiet village",
+      "novelty": 0.2191298007965088,
+      "iteration": 13,
+      "theta": {
+        "seed": 80676,
+        "cfg_scale": 5.593516872128684,
+        "steps": 30,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0013.png"
+    },
+    {
+      "cell": [
+        14,
+        7
+      ],
+      "prompt": "an impressionist landscape with trees, tempera",
+      "novelty": 0.22624997794628143,
+      "iteration": 14,
+      "theta": {
+        "seed": 594542,
+        "cfg_scale": 5.593516872128684,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0014.png"
+    },
+    {
+      "cell": [
+        0,
+        5
+      ],
+      "prompt": "a painting of autumn trees by a lake, symbolism",
+      "novelty": 0.2184092253446579,
+      "iteration": 15,
+      "theta": {
+        "seed": 576929,
+        "cfg_scale": 5.593516872128684,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0015.png"
+    },
+    {
+      "cell": [
+        13,
+        3
+      ],
+      "prompt": "an intimate landscape with trees",
+      "novelty": 0.1695074588060379,
+      "iteration": 16,
+      "theta": {
+        "seed": 753011,
+        "cfg_scale": 6.718332592650299,
+        "steps": 25,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0016.png"
+    },
+    {
+      "cell": [
+        5,
+        10
+      ],
+      "prompt": "a painting of autumn castle ruins by a lake, symbolism",
+      "novelty": 0.1786195933818817,
+      "iteration": 17,
+      "theta": {
+        "seed": 575377,
+        "cfg_scale": 6.718332592650299,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0017.png"
+    },
+    {
+      "cell": [
+        12,
+        13
+      ],
+      "prompt": "a painting of a forest clearing, a romantic painting of a stormy sea",
+      "novelty": 0.15172187983989716,
+      "iteration": 19,
+      "theta": {
+        "seed": 606543,
+        "cfg_scale": 6.718332592650299,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0019.png"
+    },
+    {
+      "cell": [
+        4,
+        7
+      ],
+      "prompt": "ethereal painting blending still life and harbor view, gouache",
+      "novelty": 0.2669169008731842,
+      "iteration": 639,
+      "theta": {
+        "seed": 970954,
+        "cfg_scale": 9.297602355489868,
+        "steps": 20,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0639.png"
+    },
+    {
+      "cell": [
+        5,
+        7
+      ],
+      "prompt": "mysterious a market square with rocky shore, as a panoramic view",
+      "novelty": 0.3288414478302002,
+      "iteration": 1446,
+      "theta": {
+        "seed": 272802,
+        "cfg_scale": 5.330906266563511,
+        "steps": 20,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1446.png"
+    },
+    {
+      "cell": [
+        3,
+        7
+      ],
+      "prompt": "muted painting blending water reflection and pastoral meadow",
+      "novelty": 0.13280043005943298,
+      "iteration": 22,
+      "theta": {
+        "seed": 141758,
+        "cfg_scale": 6.718332592650299,
+        "steps": 25,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0022.png"
+    },
+    {
+      "cell": [
+        7,
+        6
+      ],
+      "prompt": "dreamlike painting blending portrait and garden scene",
+      "novelty": 0.29696160554885864,
+      "iteration": 1833,
+      "theta": {
+        "seed": 151346,
+        "cfg_scale": 8.413725784825708,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1833.png"
+    },
+    {
+      "cell": [
+        6,
+        7
+      ],
+      "prompt": "a painting of a self-portrait",
+      "novelty": 0.36793380975723267,
+      "iteration": 1384,
+      "theta": {
+        "seed": 645800,
+        "cfg_scale": 6.781458826851436,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1384.png"
+    },
+    {
+      "cell": [
+        5,
+        6
+      ],
+      "prompt": "a intimate scene with meadows",
+      "novelty": 0.39625802636146545,
+      "iteration": 1035,
+      "theta": {
+        "seed": 703915,
+        "cfg_scale": 6.294612368007806,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1035.png"
+    },
+    {
+      "cell": [
+        7,
+        7
+      ],
+      "prompt": "ethereal painting blending self-portrait and forest clearing",
+      "novelty": 0.366449773311615,
+      "iteration": 1227,
+      "theta": {
+        "seed": 382272,
+        "cfg_scale": 11.041264058606826,
+        "steps": 20,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1227.png"
+    },
+    {
+      "cell": [
+        5,
+        5
+      ],
+      "prompt": "a market square with rocky shore, as a panoramic view",
+      "novelty": 0.35733407735824585,
+      "iteration": 760,
+      "theta": {
+        "seed": 552076,
+        "cfg_scale": 9.340604283700449,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0760.png"
+    },
+    {
+      "cell": [
+        4,
+        6
+      ],
+      "prompt": "delicate painting blending cathedral interior and clouds in afternoon light",
+      "novelty": 0.2897995710372925,
+      "iteration": 982,
+      "theta": {
+        "seed": 293059,
+        "cfg_scale": 10.735713944789538,
+        "steps": 25,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0982.png"
+    },
+    {
+      "cell": [
+        8,
+        3
+      ],
+      "prompt": "a painting of a group portrait, a painting of a sunset over mountains",
+      "novelty": 0.2883487045764923,
+      "iteration": 80,
+      "theta": {
+        "seed": 191932,
+        "cfg_scale": 9.643126085798901,
+        "steps": 30,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0080.png"
+    },
+    {
+      "cell": [
+        9,
+        6
+      ],
+      "prompt": "emerging a self-portrait with rocky shore, with soft diffused light, in intimate close-up, in soft fog, expressionism",
+      "novelty": 0.3720121383666992,
+      "iteration": 3435,
+      "theta": {
+        "seed": 539480,
+        "cfg_scale": 9.570975698207237,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3435.png"
+    },
+    {
+      "cell": [
+        9,
+        4
+      ],
+      "prompt": "remarkably a intimate scene with meadows",
+      "novelty": 0.4219159483909607,
+      "iteration": 4654,
+      "theta": {
+        "seed": 590219,
+        "cfg_scale": 10.153734664911882,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4654.png"
+    },
+    {
+      "cell": [
+        10,
+        5
+      ],
+      "prompt": "strikingly remarkably a intimate scene with meadows",
+      "novelty": 0.38118207454681396,
+      "iteration": 4679,
+      "theta": {
+        "seed": 618384,
+        "cfg_scale": 8.26508870270633,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4679.png"
+    },
+    {
+      "cell": [
+        8,
+        4
+      ],
+      "prompt": "ethereal painting blending self-portrait and forest clearing, romanticism",
+      "novelty": 0.30340051651000977,
+      "iteration": 3694,
+      "theta": {
+        "seed": 360981,
+        "cfg_scale": 6.565626915397495,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3694.png"
+    },
+    {
+      "cell": [
+        9,
+        5
+      ],
+      "prompt": "deeply a intimate scene with meadows, with sublime awe, pre-raphaelite",
+      "novelty": 0.43170565366744995,
+      "iteration": 3845,
+      "theta": {
+        "seed": 432134,
+        "cfg_scale": 7.641141697740713,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3845.png"
+    },
+    {
+      "cell": [
+        9,
+        3
+      ],
+      "prompt": "golden painting blending group portrait and orchard, with intimate tenderness, impressionism",
+      "novelty": 0.3076581358909607,
+      "iteration": 4803,
+      "theta": {
+        "seed": 729865,
+        "cfg_scale": 9.856977868377399,
+        "steps": 20,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4803.png"
+    },
+    {
+      "cell": [
+        8,
+        6
+      ],
+      "prompt": "pastoral a self-portrait with rocky shore, with soft diffused light, in intimate close-up, in soft fog, expressionism",
+      "novelty": 0.3340839743614197,
+      "iteration": 2419,
+      "theta": {
+        "seed": 101612,
+        "cfg_scale": 9.29143392032267,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2419.png"
+    },
+    {
+      "cell": [
+        7,
+        4
+      ],
+      "prompt": "an impressionist fruit arrangement with trees, tempera, with romantic grandeur",
+      "novelty": 0.22347941994667053,
+      "iteration": 111,
+      "theta": {
+        "seed": 566024,
+        "cfg_scale": 5.480949649922844,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0111.png"
+    },
+    {
+      "cell": [
+        8,
+        7
+      ],
+      "prompt": "golden painting blending group portrait and orchard, with intimate tenderness",
+      "novelty": 0.37908315658569336,
+      "iteration": 3084,
+      "theta": {
+        "seed": 921867,
+        "cfg_scale": 8.65936037003562,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3084.png"
+    },
+    {
+      "cell": [
+        7,
+        8
+      ],
+      "prompt": "ethereal painting blending self-portrait and river valley",
+      "novelty": 0.22473475337028503,
+      "iteration": 294,
+      "theta": {
+        "seed": 431596,
+        "cfg_scale": 8.003534100424089,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0294.png"
+    },
+    {
+      "cell": [
+        8,
+        8
+      ],
+      "prompt": "a painting of a group portrait, a painting of a sunset over mountains, under clear blue skies, renaissance",
+      "novelty": 0.28678688406944275,
+      "iteration": 3165,
+      "theta": {
+        "seed": 83145,
+        "cfg_scale": 9.333670488653004,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3165.png"
+    },
+    {
+      "cell": [
+        6,
+        8
+      ],
+      "prompt": "a painting of a group portrait, a painting of a sunset over mountains, in the style of Renoir",
+      "novelty": 0.33232131600379944,
+      "iteration": 328,
+      "theta": {
+        "seed": 80738,
+        "cfg_scale": 11.465262272559261,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0328.png"
+    },
+    {
+      "cell": [
+        6,
+        9
+      ],
+      "prompt": "intensely a painting of a forest clearing, a romantic painting of a stormy sea, expressionism",
+      "novelty": 0.14673757553100586,
+      "iteration": 365,
+      "theta": {
+        "seed": 357160,
+        "cfg_scale": 7.761672434115557,
+        "steps": 30,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0365.png"
+    },
+    {
+      "cell": [
+        8,
+        9
+      ],
+      "prompt": "extraordinarily a intimate scene with meadows, in gentle rain",
+      "novelty": 0.3052821159362793,
+      "iteration": 2019,
+      "theta": {
+        "seed": 79335,
+        "cfg_scale": 5.248113011098674,
+        "steps": 25,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2019.png"
+    },
+    {
+      "cell": [
+        5,
+        9
+      ],
+      "prompt": "a classical landscape with ruins, in silvery morning mist, with snow falling",
+      "novelty": 0.18263864517211914,
+      "iteration": 415,
+      "theta": {
+        "seed": 779835,
+        "cfg_scale": 11.101945332670788,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0415.png"
+    },
+    {
+      "cell": [
+        7,
+        9
+      ],
+      "prompt": "an impressionist landscape with trees, with cool blue shadows, after the storm, with serene stillness",
+      "novelty": 0.20482905209064484,
+      "iteration": 213,
+      "theta": {
+        "seed": 715967,
+        "cfg_scale": 11.392413278216942,
+        "steps": 30,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0213.png"
+    },
+    {
+      "cell": [
+        7,
+        10
+      ],
+      "prompt": "a painting of autumn trees by a lake, barbizon school",
+      "novelty": 0.1608947515487671,
+      "iteration": 177,
+      "theta": {
+        "seed": 615599,
+        "cfg_scale": 11.839142669651196,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0177.png"
+    },
+    {
+      "cell": [
+        5,
+        8
+      ],
+      "prompt": "bold painting blending self-portrait and river valley",
+      "novelty": 0.24245305359363556,
+      "iteration": 1329,
+      "theta": {
+        "seed": 718148,
+        "cfg_scale": 6.4834078113028,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1329.png"
+    },
+    {
+      "cell": [
+        9,
+        7
+      ],
+      "prompt": "golden painting blending group portrait and cathedral interior, with soft diffused light",
+      "novelty": 0.3540586531162262,
+      "iteration": 2238,
+      "theta": {
+        "seed": 989187,
+        "cfg_scale": 11.968496817449989,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2238.png"
+    },
+    {
+      "cell": [
+        9,
+        9
+      ],
+      "prompt": "a painting of a group portrait, a painting of a sunset over mountains, in the style of Renoir, with sublime awe",
+      "novelty": 0.25734472274780273,
+      "iteration": 2443,
+      "theta": {
+        "seed": 644316,
+        "cfg_scale": 10.869062406952871,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2443.png"
+    },
+    {
+      "cell": [
+        9,
+        8
+      ],
+      "prompt": "pastoral a self-portrait with rocky shore, with soft diffused light",
+      "novelty": 0.35880061984062195,
+      "iteration": 3229,
+      "theta": {
+        "seed": 287188,
+        "cfg_scale": 10.020605681524287,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3229.png"
+    },
+    {
+      "cell": [
+        8,
+        10
+      ],
+      "prompt": "serene painting blending portrait and water reflection",
+      "novelty": 0.15448911488056183,
+      "iteration": 248,
+      "theta": {
+        "seed": 303025,
+        "cfg_scale": 6.589835449598791,
+        "steps": 20,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0248.png"
+    },
+    {
+      "cell": [
+        9,
+        10
+      ],
+      "prompt": "a painting of a still life",
+      "novelty": 0.17015200853347778,
+      "iteration": 3182,
+      "theta": {
+        "seed": 433201,
+        "cfg_scale": 11.940778544589186,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3182.png"
+    },
+    {
+      "cell": [
+        4,
+        8
+      ],
+      "prompt": "a painting of a forest clearing, a romantic painting of a stormy sea, in the style of Turner",
+      "novelty": 0.16324783861637115,
+      "iteration": 407,
+      "theta": {
+        "seed": 834235,
+        "cfg_scale": 6.205914211559713,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0407.png"
+    },
+    {
+      "cell": [
+        3,
+        6
+      ],
+      "prompt": "a misty morning harbor view",
+      "novelty": 0.26242855191230774,
+      "iteration": 470,
+      "theta": {
+        "seed": 328338,
+        "cfg_scale": 6.881707296797814,
+        "steps": 20,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0470.png"
+    },
+    {
+      "cell": [
+        5,
+        4
+      ],
+      "prompt": "bold painting blending self-portrait and river valley, fresco style",
+      "novelty": 0.37202686071395874,
+      "iteration": 3909,
+      "theta": {
+        "seed": 599679,
+        "cfg_scale": 5.593545725156236,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3909.png"
+    },
+    {
+      "cell": [
+        4,
+        5
+      ],
+      "prompt": "a painting of a self-portrait, in the style of Caspar David Friedrich",
+      "novelty": 0.3457026481628418,
+      "iteration": 3918,
+      "theta": {
+        "seed": 322731,
+        "cfg_scale": 5.317713574272355,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3918.png"
+    },
+    {
+      "cell": [
+        3,
+        4
+      ],
+      "prompt": "a table setting with rocky shore, in the style of Monet",
+      "novelty": 0.28765788674354553,
+      "iteration": 682,
+      "theta": {
+        "seed": 997315,
+        "cfg_scale": 10.450931527994825,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0682.png"
+    },
+    {
+      "cell": [
+        4,
+        4
+      ],
+      "prompt": "a market square with rocky shore, as a panoramic view, after the storm",
+      "novelty": 0.3838077187538147,
+      "iteration": 931,
+      "theta": {
+        "seed": 835198,
+        "cfg_scale": 7.05703825134952,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0931.png"
+    },
+    {
+      "cell": [
+        4,
+        3
+      ],
+      "prompt": "melancholic painting blending portrait and castle ruins",
+      "novelty": 0.24498891830444336,
+      "iteration": 619,
+      "theta": {
+        "seed": 314253,
+        "cfg_scale": 8.70769370749547,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0619.png"
+    },
+    {
+      "cell": [
+        3,
+        5
+      ],
+      "prompt": "delicate painting blending cathedral interior and clouds, with threatening clouds",
+      "novelty": 0.28438758850097656,
+      "iteration": 707,
+      "theta": {
+        "seed": 758041,
+        "cfg_scale": 5.780915876760929,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0707.png"
+    },
+    {
+      "cell": [
+        5,
+        3
+      ],
+      "prompt": "a market square with rocky shore, as a panoramic view, as a panoramic view",
+      "novelty": 0.24849386513233185,
+      "iteration": 4042,
+      "theta": {
+        "seed": 655117,
+        "cfg_scale": 7.2396920396664655,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4042.png"
+    },
+    {
+      "cell": [
+        8,
+        5
+      ],
+      "prompt": "pastoral a self-portrait with rocky shore, with soft diffused light",
+      "novelty": 0.39024975895881653,
+      "iteration": 1902,
+      "theta": {
+        "seed": 264972,
+        "cfg_scale": 6.438408025285607,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1902.png"
+    },
+    {
+      "cell": [
+        10,
+        6
+      ],
+      "prompt": "pastoral a self-portrait with rocky shore, with soft diffused light, with gathering clouds",
+      "novelty": 0.4028680920600891,
+      "iteration": 3630,
+      "theta": {
+        "seed": 379328,
+        "cfg_scale": 7.578246613222555,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3630.png"
+    },
+    {
+      "cell": [
+        10,
+        7
+      ],
+      "prompt": "deeply a intimate scene with meadows, with mysterious depth",
+      "novelty": 0.42340612411499023,
+      "iteration": 3475,
+      "theta": {
+        "seed": 353867,
+        "cfg_scale": 8.052432372070854,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3475.png"
+    },
+    {
+      "cell": [
+        11,
+        5
+      ],
+      "prompt": "deeply a intimate scene with meadows, with bold stillness",
+      "novelty": 0.42288026213645935,
+      "iteration": 3702,
+      "theta": {
+        "seed": 470027,
+        "cfg_scale": 11.447064550054963,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3702.png"
+    },
+    {
+      "cell": [
+        10,
+        8
+      ],
+      "prompt": "a painting of a group portrait, a painting of a sunset over mountains, under clear blue skies",
+      "novelty": 0.46736764907836914,
+      "iteration": 2266,
+      "theta": {
+        "seed": 898441,
+        "cfg_scale": 9.336257917723078,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2266.png"
+    },
+    {
+      "cell": [
+        11,
+        7
+      ],
+      "prompt": "vast a market square with rocky shore, as a panoramic view, expressionism",
+      "novelty": 0.30610391497612,
+      "iteration": 2195,
+      "theta": {
+        "seed": 441630,
+        "cfg_scale": 9.724192867895361,
+        "steps": 25,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2195.png"
+    },
+    {
+      "cell": [
+        10,
+        9
+      ],
+      "prompt": "delicate a self-portrait with rocky shore, with soft diffused light, in intimate close-up, in soft fog, expressionism",
+      "novelty": 0.3173062205314636,
+      "iteration": 3197,
+      "theta": {
+        "seed": 220208,
+        "cfg_scale": 9.246226100779307,
+        "steps": 20,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3197.png"
+    },
+    {
+      "cell": [
+        11,
+        8
+      ],
+      "prompt": "deeply a intimate scene with meadows, with serene stillness",
+      "novelty": 0.2682552635669708,
+      "iteration": 2451,
+      "theta": {
+        "seed": 480826,
+        "cfg_scale": 6.7180315499457866,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2451.png"
+    },
+    {
+      "cell": [
+        11,
+        6
+      ],
+      "prompt": "a market square with rocky shore, as a panoramic view, with atmospheric haze",
+      "novelty": 0.2738367021083832,
+      "iteration": 2960,
+      "theta": {
+        "seed": 675090,
+        "cfg_scale": 6.816717954714559,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2960.png"
+    },
+    {
+      "cell": [
+        12,
+        7
+      ],
+      "prompt": "mysterious a market square with rocky shore, as a panoramic view, with strong diagonal lines",
+      "novelty": 0.257093608379364,
+      "iteration": 3473,
+      "theta": {
+        "seed": 884749,
+        "cfg_scale": 8.052432372070854,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3473.png"
+    },
+    {
+      "cell": [
+        12,
+        6
+      ],
+      "prompt": "a market square with rocky shore, as a panoramic view, with atmospheric haze, with snow falling",
+      "novelty": 0.26532989740371704,
+      "iteration": 3761,
+      "theta": {
+        "seed": 539507,
+        "cfg_scale": 9.029284643816286,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3761.png"
+    },
+    {
+      "cell": [
+        10,
+        10
+      ],
+      "prompt": "a market square with rocky shore, as a panoramic view, with dramatic haze, with melancholic beauty",
+      "novelty": 0.2812889814376831,
+      "iteration": 3190,
+      "theta": {
+        "seed": 700189,
+        "cfg_scale": 10.124065350037977,
+        "steps": 25,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3190.png"
+    },
+    {
+      "cell": [
+        10,
+        4
+      ],
+      "prompt": "deeply a intimate scene with meadows, with sublime awe",
+      "novelty": 0.40594568848609924,
+      "iteration": 3813,
+      "theta": {
+        "seed": 322852,
+        "cfg_scale": 5.885416884993576,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3813.png"
+    },
+    {
+      "cell": [
+        11,
+        4
+      ],
+      "prompt": "deeply a intimate scene with meadows, with serene stillness",
+      "novelty": 0.36880579590797424,
+      "iteration": 4286,
+      "theta": {
+        "seed": 494734,
+        "cfg_scale": 6.649648720225343,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4286.png"
+    },
+    {
+      "cell": [
+        12,
+        4
+      ],
+      "prompt": "quiet painting blending portrait and flowers",
+      "novelty": 0.250789612531662,
+      "iteration": 3696,
+      "theta": {
+        "seed": 520791,
+        "cfg_scale": 11.447064550054963,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3696.png"
+    },
+    {
+      "cell": [
+        12,
+        5
+      ],
+      "prompt": "mysterious a market square with rocky shore, as a panoramic view, in gentle rain",
+      "novelty": 0.2580636143684387,
+      "iteration": 4446,
+      "theta": {
+        "seed": 527999,
+        "cfg_scale": 11.416098173916467,
+        "steps": 25,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4446.png"
+    },
+    {
+      "cell": [
+        10,
+        3
+      ],
+      "prompt": "strikingly remarkably a intimate scene with meadows, ink wash",
+      "novelty": 0.39352545142173767,
+      "iteration": 4706,
+      "theta": {
+        "seed": 636386,
+        "cfg_scale": 8.67664034274677,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4706.png"
+    },
+    {
+      "cell": [
+        2,
+        4
+      ],
+      "prompt": "dreamlike a painting of a garden in bloom",
+      "novelty": 0.09279663115739822,
+      "iteration": 3865,
+      "theta": {
+        "seed": 657411,
+        "cfg_scale": 10.777440221101788,
+        "steps": 20,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3865.png"
+    },
+    {
+      "cell": [
+        2,
+        5
+      ],
+      "prompt": "pastoral a painting of a self-portrait",
+      "novelty": 0.27942323684692383,
+      "iteration": 3946,
+      "theta": {
+        "seed": 444815,
+        "cfg_scale": 5.2628333572121875,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3946.png"
+    },
+    {
+      "cell": [
+        3,
+        3
+      ],
+      "prompt": "a bold scene with meadows",
+      "novelty": 0.259122371673584,
+      "iteration": 3940,
+      "theta": {
+        "seed": 716721,
+        "cfg_scale": 8.463198753296291,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3940.png"
+    },
+    {
+      "cell": [
+        1,
+        6
+      ],
+      "prompt": "strikingly delicate painting blending flowers and clouds",
+      "novelty": 0.09966776520013809,
+      "iteration": 4020,
+      "theta": {
+        "seed": 887493,
+        "cfg_scale": 7.565331899206445,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4020.png"
+    },
+    {
+      "cell": [
+        12,
+        3
+      ],
+      "prompt": "deeply a intimate scene with meadows, with sublime awe",
+      "novelty": 0.3755766749382019,
+      "iteration": 4653,
+      "theta": {
+        "seed": 72201,
+        "cfg_scale": 10.153734664911882,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4653.png"
+    },
+    {
+      "cell": [
+        11,
+        3
+      ],
+      "prompt": "intimate painting blending self-portrait and autumn forest",
+      "novelty": 0.30354535579681396,
+      "iteration": 4448,
+      "theta": {
+        "seed": 526289,
+        "cfg_scale": 5.861879571380205,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4448.png"
+    },
+    {
+      "cell": [
+        10,
+        2
+      ],
+      "prompt": "mysterious painting blending group portrait and orchard, with intimate tenderness, impressionism",
+      "novelty": 0.23879952728748322,
+      "iteration": 4951,
+      "theta": {
+        "seed": 480522,
+        "cfg_scale": 9.752045745664265,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4951.png"
+    },
+    {
+      "cell": [
+        11,
+        2
+      ],
+      "prompt": "pastoral a self-portrait with rocky shore, with soft diffused light, with gathering clouds, as a panoramic view",
+      "novelty": 0.3135456442832947,
+      "iteration": 4659,
+      "theta": {
+        "seed": 767218,
+        "cfg_scale": 10.291679563393373,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4659.png"
+    },
+    {
+      "cell": [
+        9,
+        2
+      ],
+      "prompt": "deeply a intimate scene with meadows, with serene stillness, pre-raphaelite",
+      "novelty": 0.27051860094070435,
+      "iteration": 4612,
+      "theta": {
+        "seed": 826408,
+        "cfg_scale": 9.721668360576679,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4612.png"
+    }
+  ]
+}

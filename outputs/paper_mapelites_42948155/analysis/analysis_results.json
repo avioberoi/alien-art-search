@@ -1,0 +1,56 @@
+{
+  "config": {
+    "grid_size": 15,
+    "iterations": 5000,
+    "auto_axes": true
+  },
+  "evolution": {
+    "num_cells_filled": 207,
+    "iteration_distribution": {
+      "early_quartile": 125.5,
+      "median": 397.0,
+      "late_quartile": 2108.0,
+      "max": 4994
+    },
+    "novelty_iteration_correlation": -0.1214934416133195,
+    "avg_novelty_early": 0.5567214406520418,
+    "avg_novelty_late": 0.5333509195882541
+  },
+  "illumination": {
+    "avg_knn_distance_mean": 0.42781636118888855,
+    "avg_knn_distance_std": 0.17145560681819916,
+    "median_distance_percentile": 90.2,
+    "pct_above_75": 72.17391304347827,
+    "pct_above_90": 50.43478260869565
+  },
+  "offmanifold": {
+    "mahalanobis_mean": 35.53306198120117,
+    "mahalanobis_std": 9.470569610595703,
+    "reconstruction_error_mean": 0.08702224493026733,
+    "knn_distance_mean": 0.42781636118888855,
+    "pct_high_mahal": 62.60869565217392
+  },
+  "correlations": {
+    "novelty_vs_mahalanobis": -0.1143816040317432,
+    "novelty_vs_knn_distance": -0.1850917052910111,
+    "novelty_vs_reconstruction_error": -0.13533670993713043
+  },
+  "top_alien_indices": [
+    36,
+    28,
+    53,
+    56,
+    42,
+    11,
+    26,
+    2,
+    92,
+    89,
+    33,
+    108,
+    14,
+    32,
+    62,
+    57
+  ]
+}

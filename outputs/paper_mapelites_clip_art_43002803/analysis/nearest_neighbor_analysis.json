@@ -1,0 +1,666 @@
+{
+  "most_novel": [
+    {
+      "idx": 0,
+      "novelty": 1.0,
+      "prompt": "a painting of a landscape",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0000.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 27176,
+          "distance": 0.10400199890136719,
+          "style": "23"
+        },
+        {
+          "ref_idx": 38385,
+          "distance": 0.11178731918334961,
+          "style": "21"
+        },
+        {
+          "ref_idx": 24356,
+          "distance": 0.11370968818664551,
+          "style": "21"
+        },
+        {
+          "ref_idx": 38653,
+          "distance": 0.11373591423034668,
+          "style": "21"
+        },
+        {
+          "ref_idx": 44163,
+          "distance": 0.11859124898910522,
+          "style": "4"
+        }
+      ]
+    },
+    {
+      "idx": 15,
+      "novelty": 0.2883487045764923,
+      "prompt": "a painting of a group portrait, a painting of a sunset over mountains",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0080.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 80873,
+          "distance": 0.14065062999725342,
+          "style": "19"
+        },
+        {
+          "ref_idx": 29649,
+          "distance": 0.14930009841918945,
+          "style": "19"
+        },
+        {
+          "ref_idx": 50172,
+          "distance": 0.1569097638130188,
+          "style": "19"
+        },
+        {
+          "ref_idx": 49175,
+          "distance": 0.15712028741836548,
+          "style": "0"
+        },
+        {
+          "ref_idx": 58114,
+          "distance": 0.15786850452423096,
+          "style": "20"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "novelty": 0.2856111526489258,
+      "prompt": "an impressionist landscape with trees",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0004.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 22431,
+          "distance": 0.11108964681625366,
+          "style": "20"
+        },
+        {
+          "ref_idx": 611,
+          "distance": 0.13611739873886108,
+          "style": "12"
+        },
+        {
+          "ref_idx": 13455,
+          "distance": 0.13881951570510864,
+          "style": "12"
+        },
+        {
+          "ref_idx": 34510,
+          "distance": 0.142478346824646,
+          "style": "12"
+        },
+        {
+          "ref_idx": 19913,
+          "distance": 0.14255887269973755,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "novelty": 0.27740955352783203,
+      "prompt": "tranquil painting blending city skyline and portrait",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0012.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 80873,
+          "distance": 0.19142389297485352,
+          "style": "19"
+        },
+        {
+          "ref_idx": 72967,
+          "distance": 0.1986737847328186,
+          "style": "19"
+        },
+        {
+          "ref_idx": 29649,
+          "distance": 0.21005547046661377,
+          "style": "19"
+        },
+        {
+          "ref_idx": 43087,
+          "distance": 0.21106499433517456,
+          "style": "5"
+        },
+        {
+          "ref_idx": 81032,
+          "distance": 0.21167057752609253,
+          "style": "7"
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "novelty": 0.27008309960365295,
+      "prompt": "a romantic painting of a stormy sea",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0005.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 3439,
+          "distance": 0.07843911647796631,
+          "style": "23"
+        },
+        {
+          "ref_idx": 11211,
+          "distance": 0.08312731981277466,
+          "style": "23"
+        },
+        {
+          "ref_idx": 7693,
+          "distance": 0.08356982469558716,
+          "style": "23"
+        },
+        {
+          "ref_idx": 313,
+          "distance": 0.09019201993942261,
+          "style": "23"
+        },
+        {
+          "ref_idx": 7013,
+          "distance": 0.09111124277114868,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "novelty": 0.2479972094297409,
+      "prompt": "a pastoral scene with meadows",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0006.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 27176,
+          "distance": 0.1543292999267578,
+          "style": "23"
+        },
+        {
+          "ref_idx": 54868,
+          "distance": 0.1601617932319641,
+          "style": "23"
+        },
+        {
+          "ref_idx": 38653,
+          "distance": 0.16180837154388428,
+          "style": "21"
+        },
+        {
+          "ref_idx": 70406,
+          "distance": 0.17406868934631348,
+          "style": "23"
+        },
+        {
+          "ref_idx": 47460,
+          "distance": 0.1743503212928772,
+          "style": "22"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "novelty": 0.24766305088996887,
+      "prompt": "a romantic painting of a stormy sea, in morning mist",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0011.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 12481,
+          "distance": 0.07447868585586548,
+          "style": "23"
+        },
+        {
+          "ref_idx": 3439,
+          "distance": 0.07476294040679932,
+          "style": "23"
+        },
+        {
+          "ref_idx": 9163,
+          "distance": 0.07980960607528687,
+          "style": "23"
+        },
+        {
+          "ref_idx": 5998,
+          "distance": 0.08470427989959717,
+          "style": "23"
+        },
+        {
+          "ref_idx": 4479,
+          "distance": 0.08495795726776123,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "novelty": 0.23363691568374634,
+      "prompt": "a pastoral scene with meadows, with layered planes",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0008.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 54058,
+          "distance": 0.09413081407546997,
+          "style": "22"
+        },
+        {
+          "ref_idx": 72094,
+          "distance": 0.10087966918945312,
+          "style": "4"
+        },
+        {
+          "ref_idx": 55463,
+          "distance": 0.11079108715057373,
+          "style": "22"
+        },
+        {
+          "ref_idx": 52214,
+          "distance": 0.1108694076538086,
+          "style": "4"
+        },
+        {
+          "ref_idx": 24179,
+          "distance": 0.11100131273269653,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "novelty": 0.22624997794628143,
+      "prompt": "an impressionist landscape with trees, tempera",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0014.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 59678,
+          "distance": 0.11142683029174805,
+          "style": "12"
+        },
+        {
+          "ref_idx": 27193,
+          "distance": 0.11298662424087524,
+          "style": "20"
+        },
+        {
+          "ref_idx": 29189,
+          "distance": 0.11943721771240234,
+          "style": "12"
+        },
+        {
+          "ref_idx": 3201,
+          "distance": 0.12067008018493652,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59112,
+          "distance": 0.12068015336990356,
+          "style": "20"
+        }
+      ]
+    },
+    {
+      "idx": 17,
+      "novelty": 0.22473475337028503,
+      "prompt": "ethereal painting blending self-portrait and river valley",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0294.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 58723,
+          "distance": 0.15040379762649536,
+          "style": "12"
+        },
+        {
+          "ref_idx": 19383,
+          "distance": 0.16954833269119263,
+          "style": "12"
+        },
+        {
+          "ref_idx": 6651,
+          "distance": 0.17010271549224854,
+          "style": "21"
+        },
+        {
+          "ref_idx": 50615,
+          "distance": 0.1706451177597046,
+          "style": "6"
+        },
+        {
+          "ref_idx": 25100,
+          "distance": 0.17093080282211304,
+          "style": "6"
+        }
+      ]
+    }
+  ],
+  "least_novel": [
+    {
+      "idx": 8,
+      "novelty": 0.2191298007965088,
+      "prompt": "a painting of a quiet village",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0013.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 41019,
+          "distance": 0.15092366933822632,
+          "style": "12"
+        },
+        {
+          "ref_idx": 73548,
+          "distance": 0.16071945428848267,
+          "style": "21"
+        },
+        {
+          "ref_idx": 38653,
+          "distance": 0.1613936424255371,
+          "style": "21"
+        },
+        {
+          "ref_idx": 39253,
+          "distance": 0.1664603352546692,
+          "style": "12"
+        },
+        {
+          "ref_idx": 3377,
+          "distance": 0.16846609115600586,
+          "style": "9"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "novelty": 0.2184092253446579,
+      "prompt": "a painting of autumn trees by a lake, symbolism",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0015.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 60640,
+          "distance": 0.1075509786605835,
+          "style": "23"
+        },
+        {
+          "ref_idx": 52467,
+          "distance": 0.11022913455963135,
+          "style": "23"
+        },
+        {
+          "ref_idx": 11398,
+          "distance": 0.11396408081054688,
+          "style": "21"
+        },
+        {
+          "ref_idx": 38364,
+          "distance": 0.1145857572555542,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59240,
+          "distance": 0.11652451753616333,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 18,
+      "novelty": 0.20482905209064484,
+      "prompt": "an impressionist landscape with trees, with cool blue shadows, after the storm, with serene stillness",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0213.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 70345,
+          "distance": 0.09360826015472412,
+          "style": "23"
+        },
+        {
+          "ref_idx": 72753,
+          "distance": 0.0947919487953186,
+          "style": "23"
+        },
+        {
+          "ref_idx": 68388,
+          "distance": 0.09840637445449829,
+          "style": "23"
+        },
+        {
+          "ref_idx": 3439,
+          "distance": 0.09958869218826294,
+          "style": "23"
+        },
+        {
+          "ref_idx": 80395,
+          "distance": 0.09981518983840942,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 12,
+      "novelty": 0.1786195933818817,
+      "prompt": "a painting of autumn castle ruins by a lake, symbolism",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0017.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 28788,
+          "distance": 0.11009347438812256,
+          "style": "20"
+        },
+        {
+          "ref_idx": 35584,
+          "distance": 0.1197289228439331,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59240,
+          "distance": 0.13359183073043823,
+          "style": "23"
+        },
+        {
+          "ref_idx": 46562,
+          "distance": 0.13746803998947144,
+          "style": "21"
+        },
+        {
+          "ref_idx": 25978,
+          "distance": 0.1382516622543335,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "novelty": 0.1695074588060379,
+      "prompt": "an intimate landscape with trees",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0016.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 39253,
+          "distance": 0.08669078350067139,
+          "style": "12"
+        },
+        {
+          "ref_idx": 17833,
+          "distance": 0.09350603818893433,
+          "style": "21"
+        },
+        {
+          "ref_idx": 13070,
+          "distance": 0.09463119506835938,
+          "style": "21"
+        },
+        {
+          "ref_idx": 71508,
+          "distance": 0.09632635116577148,
+          "style": "21"
+        },
+        {
+          "ref_idx": 380,
+          "distance": 0.09788656234741211,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "novelty": 0.16121067106723785,
+      "prompt": "a painting of a river valley",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0003.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 19070,
+          "distance": 0.130989670753479,
+          "style": "12"
+        },
+        {
+          "ref_idx": 71358,
+          "distance": 0.13168305158615112,
+          "style": "15"
+        },
+        {
+          "ref_idx": 45273,
+          "distance": 0.1332021951675415,
+          "style": "20"
+        },
+        {
+          "ref_idx": 50932,
+          "distance": 0.13464802503585815,
+          "style": "10"
+        },
+        {
+          "ref_idx": 51460,
+          "distance": 0.13580286502838135,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 19,
+      "novelty": 0.1608947515487671,
+      "prompt": "a painting of autumn trees by a lake, barbizon school",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0177.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 60617,
+          "distance": 0.2665591835975647,
+          "style": "23"
+        },
+        {
+          "ref_idx": 60830,
+          "distance": 0.2773721218109131,
+          "style": "22"
+        },
+        {
+          "ref_idx": 24063,
+          "distance": 0.28179746866226196,
+          "style": "22"
+        },
+        {
+          "ref_idx": 60659,
+          "distance": 0.2827388048171997,
+          "style": "20"
+        },
+        {
+          "ref_idx": 51061,
+          "distance": 0.2942749857902527,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 20,
+      "novelty": 0.15448911488056183,
+      "prompt": "serene painting blending portrait and water reflection",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0248.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 26591,
+          "distance": 0.1870059370994568,
+          "style": "12"
+        },
+        {
+          "ref_idx": 59192,
+          "distance": 0.188043475151062,
+          "style": "20"
+        },
+        {
+          "ref_idx": 61122,
+          "distance": 0.19092756509780884,
+          "style": "21"
+        },
+        {
+          "ref_idx": 43102,
+          "distance": 0.19815754890441895,
+          "style": "12"
+        },
+        {
+          "ref_idx": 9892,
+          "distance": 0.20210421085357666,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 13,
+      "novelty": 0.15172187983989716,
+      "prompt": "a painting of a forest clearing, a romantic painting of a stormy sea",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0019.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 17841,
+          "distance": 0.08814066648483276,
+          "style": "21"
+        },
+        {
+          "ref_idx": 40591,
+          "distance": 0.08927357196807861,
+          "style": "23"
+        },
+        {
+          "ref_idx": 29010,
+          "distance": 0.09024769067764282,
+          "style": "21"
+        },
+        {
+          "ref_idx": 22553,
+          "distance": 0.09610557556152344,
+          "style": "23"
+        },
+        {
+          "ref_idx": 40220,
+          "distance": 0.09696835279464722,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 14,
+      "novelty": 0.13280043005943298,
+      "prompt": "muted painting blending water reflection and pastoral meadow",
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0022.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 28788,
+          "distance": 0.07954257726669312,
+          "style": "20"
+        },
+        {
+          "ref_idx": 51460,
+          "distance": 0.08382272720336914,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59850,
+          "distance": 0.09142130613327026,
+          "style": "20"
+        },
+        {
+          "ref_idx": 36928,
+          "distance": 0.1004565954208374,
+          "style": "6"
+        },
+        {
+          "ref_idx": 60366,
+          "distance": 0.10062181949615479,
+          "style": "12"
+        }
+      ]
+    }
+  ]
+}

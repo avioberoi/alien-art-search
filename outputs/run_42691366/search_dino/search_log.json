@@ -1,0 +1,2022 @@
+{
+  "config": {
+    "base_prompt": "abstract alien landscape, surreal, otherworldly",
+    "num_samples": 200,
+    "seed_range": [
+      0,
+      1000000
+    ],
+    "cfg_scale_range": [
+      3.0,
+      15.0
+    ],
+    "steps_options": [
+      20,
+      25,
+      30,
+      40
+    ]
+  },
+  "results": [
+    {
+      "index": 0,
+      "theta": {
+        "seed": 433015,
+        "cfg_scale": 8.266541277024627,
+        "steps": 40
+      },
+      "novelty": 1.0,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0000_n1.000.png"
+    },
+    {
+      "index": 1,
+      "theta": {
+        "seed": 858597,
+        "cfg_scale": 8.266541277024627,
+        "steps": 40
+      },
+      "novelty": 1.0,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0001_n1.000.png"
+    },
+    {
+      "index": 2,
+      "theta": {
+        "seed": 85945,
+        "cfg_scale": 8.266541277024627,
+        "steps": 40
+      },
+      "novelty": 1.0,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0002_n1.000.png"
+    },
+    {
+      "index": 3,
+      "theta": {
+        "seed": 697368,
+        "cfg_scale": 8.266541277024627,
+        "steps": 40
+      },
+      "novelty": 1.0,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0003_n1.000.png"
+    },
+    {
+      "index": 4,
+      "theta": {
+        "seed": 735752,
+        "cfg_scale": 14.707468219641072,
+        "steps": 20
+      },
+      "novelty": 0.3565210700035095,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0004_n0.357.png"
+    },
+    {
+      "index": 5,
+      "theta": {
+        "seed": 761139,
+        "cfg_scale": 14.707468219641072,
+        "steps": 20
+      },
+      "novelty": 0.5536062121391296,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0005_n0.554.png"
+    },
+    {
+      "index": 6,
+      "theta": {
+        "seed": 717477,
+        "cfg_scale": 14.707468219641072,
+        "steps": 20
+      },
+      "novelty": 0.5158431529998779,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0006_n0.516.png"
+    },
+    {
+      "index": 7,
+      "theta": {
+        "seed": 786064,
+        "cfg_scale": 14.707468219641072,
+        "steps": 20
+      },
+      "novelty": 0.4566155672073364,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0007_n0.457.png"
+    },
+    {
+      "index": 8,
+      "theta": {
+        "seed": 500351,
+        "cfg_scale": 8.404631254746805,
+        "steps": 20
+      },
+      "novelty": 0.2973549962043762,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0008_n0.297.png"
+    },
+    {
+      "index": 9,
+      "theta": {
+        "seed": 370798,
+        "cfg_scale": 8.404631254746805,
+        "steps": 20
+      },
+      "novelty": 0.45438820123672485,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0009_n0.454.png"
+    },
+    {
+      "index": 10,
+      "theta": {
+        "seed": 182549,
+        "cfg_scale": 8.404631254746805,
+        "steps": 20
+      },
+      "novelty": 0.5128442645072937,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0010_n0.513.png"
+    },
+    {
+      "index": 11,
+      "theta": {
+        "seed": 926764,
+        "cfg_scale": 8.404631254746805,
+        "steps": 20
+      },
+      "novelty": 0.407503604888916,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0011_n0.408.png"
+    },
+    {
+      "index": 12,
+      "theta": {
+        "seed": 545429,
+        "cfg_scale": 12.87313935924996,
+        "steps": 30
+      },
+      "novelty": 0.5128276348114014,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0012_n0.513.png"
+    },
+    {
+      "index": 13,
+      "theta": {
+        "seed": 443414,
+        "cfg_scale": 12.87313935924996,
+        "steps": 30
+      },
+      "novelty": 0.39199012517929077,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0013_n0.392.png"
+    },
+    {
+      "index": 14,
+      "theta": {
+        "seed": 450459,
+        "cfg_scale": 12.87313935924996,
+        "steps": 30
+      },
+      "novelty": 0.36488866806030273,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0014_n0.365.png"
+    },
+    {
+      "index": 15,
+      "theta": {
+        "seed": 227238,
+        "cfg_scale": 12.87313935924996,
+        "steps": 30
+      },
+      "novelty": 0.3920263648033142,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0015_n0.392.png"
+    },
+    {
+      "index": 16,
+      "theta": {
+        "seed": 858291,
+        "cfg_scale": 3.765807073250104,
+        "steps": 30
+      },
+      "novelty": 0.4863223433494568,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0016_n0.486.png"
+    },
+    {
+      "index": 17,
+      "theta": {
+        "seed": 827631,
+        "cfg_scale": 3.765807073250104,
+        "steps": 30
+      },
+      "novelty": 0.4640007019042969,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0017_n0.464.png"
+    },
+    {
+      "index": 18,
+      "theta": {
+        "seed": 276759,
+        "cfg_scale": 3.765807073250104,
+        "steps": 30
+      },
+      "novelty": 0.35852551460266113,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0018_n0.359.png"
+    },
+    {
+      "index": 19,
+      "theta": {
+        "seed": 631664,
+        "cfg_scale": 3.765807073250104,
+        "steps": 30
+      },
+      "novelty": 0.3877052068710327,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0019_n0.388.png"
+    },
+    {
+      "index": 20,
+      "theta": {
+        "seed": 67920,
+        "cfg_scale": 7.25431161755842,
+        "steps": 40
+      },
+      "novelty": 0.396434485912323,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0020_n0.396.png"
+    },
+    {
+      "index": 21,
+      "theta": {
+        "seed": 970698,
+        "cfg_scale": 7.25431161755842,
+        "steps": 40
+      },
+      "novelty": 0.3010191321372986,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0021_n0.301.png"
+    },
+    {
+      "index": 22,
+      "theta": {
+        "seed": 445687,
+        "cfg_scale": 7.25431161755842,
+        "steps": 40
+      },
+      "novelty": 0.432525634765625,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0022_n0.433.png"
+    },
+    {
+      "index": 23,
+      "theta": {
+        "seed": 893121,
+        "cfg_scale": 7.25431161755842,
+        "steps": 40
+      },
+      "novelty": 0.3886873126029968,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0023_n0.389.png"
+    },
+    {
+      "index": 24,
+      "theta": {
+        "seed": 363906,
+        "cfg_scale": 5.335664494223611,
+        "steps": 40
+      },
+      "novelty": 0.6838029026985168,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0024_n0.684.png"
+    },
+    {
+      "index": 25,
+      "theta": {
+        "seed": 466721,
+        "cfg_scale": 5.335664494223611,
+        "steps": 40
+      },
+      "novelty": 0.2812854051589966,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0025_n0.281.png"
+    },
+    {
+      "index": 26,
+      "theta": {
+        "seed": 497791,
+        "cfg_scale": 5.335664494223611,
+        "steps": 40
+      },
+      "novelty": 0.29458558559417725,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0026_n0.295.png"
+    },
+    {
+      "index": 27,
+      "theta": {
+        "seed": 43803,
+        "cfg_scale": 5.335664494223611,
+        "steps": 40
+      },
+      "novelty": 0.46352291107177734,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0027_n0.464.png"
+    },
+    {
+      "index": 28,
+      "theta": {
+        "seed": 922527,
+        "cfg_scale": 11.196587438909456,
+        "steps": 20
+      },
+      "novelty": 0.5041658282279968,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0028_n0.504.png"
+    },
+    {
+      "index": 29,
+      "theta": {
+        "seed": 744762,
+        "cfg_scale": 11.196587438909456,
+        "steps": 20
+      },
+      "novelty": 0.5655269026756287,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0029_n0.566.png"
+    },
+    {
+      "index": 30,
+      "theta": {
+        "seed": 366642,
+        "cfg_scale": 11.196587438909456,
+        "steps": 20
+      },
+      "novelty": 0.2750518321990967,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0030_n0.275.png"
+    },
+    {
+      "index": 31,
+      "theta": {
+        "seed": 967509,
+        "cfg_scale": 11.196587438909456,
+        "steps": 20
+      },
+      "novelty": 0.45465564727783203,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0031_n0.455.png"
+    },
+    {
+      "index": 32,
+      "theta": {
+        "seed": 76343,
+        "cfg_scale": 7.445516472418427,
+        "steps": 25
+      },
+      "novelty": 0.3830328583717346,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0032_n0.383.png"
+    },
+    {
+      "index": 33,
+      "theta": {
+        "seed": 469555,
+        "cfg_scale": 7.445516472418427,
+        "steps": 25
+      },
+      "novelty": 0.3672601580619812,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0033_n0.367.png"
+    },
+    {
+      "index": 34,
+      "theta": {
+        "seed": 795679,
+        "cfg_scale": 7.445516472418427,
+        "steps": 25
+      },
+      "novelty": 0.37278592586517334,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0034_n0.373.png"
+    },
+    {
+      "index": 35,
+      "theta": {
+        "seed": 189471,
+        "cfg_scale": 7.445516472418427,
+        "steps": 25
+      },
+      "novelty": 0.3760279417037964,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0035_n0.376.png"
+    },
+    {
+      "index": 36,
+      "theta": {
+        "seed": 330196,
+        "cfg_scale": 8.708459114711205,
+        "steps": 20
+      },
+      "novelty": 0.34109950065612793,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0036_n0.341.png"
+    },
+    {
+      "index": 37,
+      "theta": {
+        "seed": 226909,
+        "cfg_scale": 8.708459114711205,
+        "steps": 20
+      },
+      "novelty": 0.3988596200942993,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0037_n0.399.png"
+    },
+    {
+      "index": 38,
+      "theta": {
+        "seed": 564499,
+        "cfg_scale": 8.708459114711205,
+        "steps": 20
+      },
+      "novelty": 0.4594593048095703,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0038_n0.459.png"
+    },
+    {
+      "index": 39,
+      "theta": {
+        "seed": 669813,
+        "cfg_scale": 8.708459114711205,
+        "steps": 20
+      },
+      "novelty": 0.30761826038360596,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0039_n0.308.png"
+    },
+    {
+      "index": 40,
+      "theta": {
+        "seed": 629764,
+        "cfg_scale": 12.992138352694049,
+        "steps": 25
+      },
+      "novelty": 0.2616819739341736,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0040_n0.262.png"
+    },
+    {
+      "index": 41,
+      "theta": {
+        "seed": 700265,
+        "cfg_scale": 12.992138352694049,
+        "steps": 25
+      },
+      "novelty": 0.33912473917007446,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0041_n0.339.png"
+    },
+    {
+      "index": 42,
+      "theta": {
+        "seed": 97226,
+        "cfg_scale": 12.992138352694049,
+        "steps": 25
+      },
+      "novelty": 0.4172019362449646,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0042_n0.417.png"
+    },
+    {
+      "index": 43,
+      "theta": {
+        "seed": 312366,
+        "cfg_scale": 12.992138352694049,
+        "steps": 25
+      },
+      "novelty": 0.38445979356765747,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0043_n0.384.png"
+    },
+    {
+      "index": 44,
+      "theta": {
+        "seed": 841691,
+        "cfg_scale": 12.657172289961622,
+        "steps": 40
+      },
+      "novelty": 0.3317323923110962,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0044_n0.332.png"
+    },
+    {
+      "index": 45,
+      "theta": {
+        "seed": 387478,
+        "cfg_scale": 12.657172289961622,
+        "steps": 40
+      },
+      "novelty": 0.5503103733062744,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0045_n0.550.png"
+    },
+    {
+      "index": 46,
+      "theta": {
+        "seed": 898087,
+        "cfg_scale": 12.657172289961622,
+        "steps": 40
+      },
+      "novelty": 0.47866326570510864,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0046_n0.479.png"
+    },
+    {
+      "index": 47,
+      "theta": {
+        "seed": 288328,
+        "cfg_scale": 12.657172289961622,
+        "steps": 40
+      },
+      "novelty": 0.421525239944458,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0047_n0.422.png"
+    },
+    {
+      "index": 48,
+      "theta": {
+        "seed": 832736,
+        "cfg_scale": 4.677029803311718,
+        "steps": 30
+      },
+      "novelty": 0.3046451807022095,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0048_n0.305.png"
+    },
+    {
+      "index": 49,
+      "theta": {
+        "seed": 199908,
+        "cfg_scale": 4.677029803311718,
+        "steps": 30
+      },
+      "novelty": 0.41644322872161865,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0049_n0.416.png"
+    },
+    {
+      "index": 50,
+      "theta": {
+        "seed": 804899,
+        "cfg_scale": 4.677029803311718,
+        "steps": 30
+      },
+      "novelty": 0.2674592137336731,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0050_n0.267.png"
+    },
+    {
+      "index": 51,
+      "theta": {
+        "seed": 7362,
+        "cfg_scale": 4.677029803311718,
+        "steps": 30
+      },
+      "novelty": 0.22767817974090576,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0051_n0.228.png"
+    },
+    {
+      "index": 52,
+      "theta": {
+        "seed": 471567,
+        "cfg_scale": 10.978210279104385,
+        "steps": 40
+      },
+      "novelty": 0.24010181427001953,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0052_n0.240.png"
+    },
+    {
+      "index": 53,
+      "theta": {
+        "seed": 705165,
+        "cfg_scale": 10.978210279104385,
+        "steps": 40
+      },
+      "novelty": 0.26872730255126953,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0053_n0.269.png"
+    },
+    {
+      "index": 54,
+      "theta": {
+        "seed": 277121,
+        "cfg_scale": 10.978210279104385,
+        "steps": 40
+      },
+      "novelty": 0.44315385818481445,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0054_n0.443.png"
+    },
+    {
+      "index": 55,
+      "theta": {
+        "seed": 780729,
+        "cfg_scale": 10.978210279104385,
+        "steps": 40
+      },
+      "novelty": 0.24480408430099487,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0055_n0.245.png"
+    },
+    {
+      "index": 56,
+      "theta": {
+        "seed": 37262,
+        "cfg_scale": 9.824894351434725,
+        "steps": 25
+      },
+      "novelty": 0.3671877980232239,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0056_n0.367.png"
+    },
+    {
+      "index": 57,
+      "theta": {
+        "seed": 139796,
+        "cfg_scale": 9.824894351434725,
+        "steps": 25
+      },
+      "novelty": 0.4987257122993469,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0057_n0.499.png"
+    },
+    {
+      "index": 58,
+      "theta": {
+        "seed": 245481,
+        "cfg_scale": 9.824894351434725,
+        "steps": 25
+      },
+      "novelty": 0.4046128988265991,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0058_n0.405.png"
+    },
+    {
+      "index": 59,
+      "theta": {
+        "seed": 114530,
+        "cfg_scale": 9.824894351434725,
+        "steps": 25
+      },
+      "novelty": 0.37665116786956787,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0059_n0.377.png"
+    },
+    {
+      "index": 60,
+      "theta": {
+        "seed": 855080,
+        "cfg_scale": 8.65315447371759,
+        "steps": 30
+      },
+      "novelty": 0.403617799282074,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0060_n0.404.png"
+    },
+    {
+      "index": 61,
+      "theta": {
+        "seed": 565236,
+        "cfg_scale": 8.65315447371759,
+        "steps": 30
+      },
+      "novelty": 0.42111849784851074,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0061_n0.421.png"
+    },
+    {
+      "index": 62,
+      "theta": {
+        "seed": 79197,
+        "cfg_scale": 8.65315447371759,
+        "steps": 30
+      },
+      "novelty": 0.3974655866622925,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0062_n0.397.png"
+    },
+    {
+      "index": 63,
+      "theta": {
+        "seed": 764998,
+        "cfg_scale": 8.65315447371759,
+        "steps": 30
+      },
+      "novelty": 0.3388102054595947,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0063_n0.339.png"
+    },
+    {
+      "index": 64,
+      "theta": {
+        "seed": 90566,
+        "cfg_scale": 9.64295280789595,
+        "steps": 30
+      },
+      "novelty": 0.4526599049568176,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0064_n0.453.png"
+    },
+    {
+      "index": 65,
+      "theta": {
+        "seed": 559207,
+        "cfg_scale": 9.64295280789595,
+        "steps": 30
+      },
+      "novelty": 0.4346691370010376,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0065_n0.435.png"
+    },
+    {
+      "index": 66,
+      "theta": {
+        "seed": 794912,
+        "cfg_scale": 9.64295280789595,
+        "steps": 30
+      },
+      "novelty": 0.3085702657699585,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0066_n0.309.png"
+    },
+    {
+      "index": 67,
+      "theta": {
+        "seed": 303950,
+        "cfg_scale": 9.64295280789595,
+        "steps": 30
+      },
+      "novelty": 0.32733380794525146,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0067_n0.327.png"
+    },
+    {
+      "index": 68,
+      "theta": {
+        "seed": 982738,
+        "cfg_scale": 8.240608670788347,
+        "steps": 20
+      },
+      "novelty": 0.28983205556869507,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0068_n0.290.png"
+    },
+    {
+      "index": 69,
+      "theta": {
+        "seed": 214584,
+        "cfg_scale": 8.240608670788347,
+        "steps": 20
+      },
+      "novelty": 0.4160116910934448,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0069_n0.416.png"
+    },
+    {
+      "index": 70,
+      "theta": {
+        "seed": 276548,
+        "cfg_scale": 8.240608670788347,
+        "steps": 20
+      },
+      "novelty": 0.24781256914138794,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0070_n0.248.png"
+    },
+    {
+      "index": 71,
+      "theta": {
+        "seed": 408528,
+        "cfg_scale": 8.240608670788347,
+        "steps": 20
+      },
+      "novelty": 0.4192943572998047,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0071_n0.419.png"
+    },
+    {
+      "index": 72,
+      "theta": {
+        "seed": 821674,
+        "cfg_scale": 5.807273830384089,
+        "steps": 40
+      },
+      "novelty": 0.5087720155715942,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0072_n0.509.png"
+    },
+    {
+      "index": 73,
+      "theta": {
+        "seed": 58302,
+        "cfg_scale": 5.807273830384089,
+        "steps": 40
+      },
+      "novelty": 0.44690775871276855,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0073_n0.447.png"
+    },
+    {
+      "index": 74,
+      "theta": {
+        "seed": 855670,
+        "cfg_scale": 5.807273830384089,
+        "steps": 40
+      },
+      "novelty": 0.4262152910232544,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0074_n0.426.png"
+    },
+    {
+      "index": 75,
+      "theta": {
+        "seed": 281383,
+        "cfg_scale": 5.807273830384089,
+        "steps": 40
+      },
+      "novelty": 0.2850554585456848,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0075_n0.285.png"
+    },
+    {
+      "index": 76,
+      "theta": {
+        "seed": 126280,
+        "cfg_scale": 10.94299817672274,
+        "steps": 25
+      },
+      "novelty": 0.24858325719833374,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0076_n0.249.png"
+    },
+    {
+      "index": 77,
+      "theta": {
+        "seed": 557032,
+        "cfg_scale": 10.94299817672274,
+        "steps": 25
+      },
+      "novelty": 0.38624560832977295,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0077_n0.386.png"
+    },
+    {
+      "index": 78,
+      "theta": {
+        "seed": 505015,
+        "cfg_scale": 10.94299817672274,
+        "steps": 25
+      },
+      "novelty": 0.3277878761291504,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0078_n0.328.png"
+    },
+    {
+      "index": 79,
+      "theta": {
+        "seed": 783898,
+        "cfg_scale": 10.94299817672274,
+        "steps": 25
+      },
+      "novelty": 0.39867210388183594,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0079_n0.399.png"
+    },
+    {
+      "index": 80,
+      "theta": {
+        "seed": 417958,
+        "cfg_scale": 7.876642337280846,
+        "steps": 30
+      },
+      "novelty": 0.43672287464141846,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0080_n0.437.png"
+    },
+    {
+      "index": 81,
+      "theta": {
+        "seed": 814020,
+        "cfg_scale": 7.876642337280846,
+        "steps": 30
+      },
+      "novelty": 0.2864786386489868,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0081_n0.286.png"
+    },
+    {
+      "index": 82,
+      "theta": {
+        "seed": 321215,
+        "cfg_scale": 7.876642337280846,
+        "steps": 30
+      },
+      "novelty": 0.375622034072876,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0082_n0.376.png"
+    },
+    {
+      "index": 83,
+      "theta": {
+        "seed": 166972,
+        "cfg_scale": 7.876642337280846,
+        "steps": 30
+      },
+      "novelty": 0.44308793544769287,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0083_n0.443.png"
+    },
+    {
+      "index": 84,
+      "theta": {
+        "seed": 771552,
+        "cfg_scale": 4.0805743293077015,
+        "steps": 20
+      },
+      "novelty": 0.42793601751327515,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0084_n0.428.png"
+    },
+    {
+      "index": 85,
+      "theta": {
+        "seed": 722359,
+        "cfg_scale": 4.0805743293077015,
+        "steps": 20
+      },
+      "novelty": 0.3094521760940552,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0085_n0.309.png"
+    },
+    {
+      "index": 86,
+      "theta": {
+        "seed": 696770,
+        "cfg_scale": 4.0805743293077015,
+        "steps": 20
+      },
+      "novelty": 0.5196679830551147,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0086_n0.520.png"
+    },
+    {
+      "index": 87,
+      "theta": {
+        "seed": 461877,
+        "cfg_scale": 4.0805743293077015,
+        "steps": 20
+      },
+      "novelty": 0.32016050815582275,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0087_n0.320.png"
+    },
+    {
+      "index": 88,
+      "theta": {
+        "seed": 938051,
+        "cfg_scale": 9.012537301240362,
+        "steps": 20
+      },
+      "novelty": 0.3895423412322998,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0088_n0.390.png"
+    },
+    {
+      "index": 89,
+      "theta": {
+        "seed": 152312,
+        "cfg_scale": 9.012537301240362,
+        "steps": 20
+      },
+      "novelty": 0.34800052642822266,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0089_n0.348.png"
+    },
+    {
+      "index": 90,
+      "theta": {
+        "seed": 497330,
+        "cfg_scale": 9.012537301240362,
+        "steps": 20
+      },
+      "novelty": 0.43199390172958374,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0090_n0.432.png"
+    },
+    {
+      "index": 91,
+      "theta": {
+        "seed": 696320,
+        "cfg_scale": 9.012537301240362,
+        "steps": 20
+      },
+      "novelty": 0.26377129554748535,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0091_n0.264.png"
+    },
+    {
+      "index": 92,
+      "theta": {
+        "seed": 238766,
+        "cfg_scale": 7.57225471315779,
+        "steps": 25
+      },
+      "novelty": 0.3449092507362366,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0092_n0.345.png"
+    },
+    {
+      "index": 93,
+      "theta": {
+        "seed": 301512,
+        "cfg_scale": 7.57225471315779,
+        "steps": 25
+      },
+      "novelty": 0.33328676223754883,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0093_n0.333.png"
+    },
+    {
+      "index": 94,
+      "theta": {
+        "seed": 683700,
+        "cfg_scale": 7.57225471315779,
+        "steps": 25
+      },
+      "novelty": 0.2998657822608948,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0094_n0.300.png"
+    },
+    {
+      "index": 95,
+      "theta": {
+        "seed": 630282,
+        "cfg_scale": 7.57225471315779,
+        "steps": 25
+      },
+      "novelty": 0.2603784203529358,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0095_n0.260.png"
+    },
+    {
+      "index": 96,
+      "theta": {
+        "seed": 342590,
+        "cfg_scale": 4.051799031793212,
+        "steps": 25
+      },
+      "novelty": 0.23767006397247314,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0096_n0.238.png"
+    },
+    {
+      "index": 97,
+      "theta": {
+        "seed": 118005,
+        "cfg_scale": 4.051799031793212,
+        "steps": 25
+      },
+      "novelty": 0.31443488597869873,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0097_n0.314.png"
+    },
+    {
+      "index": 98,
+      "theta": {
+        "seed": 338943,
+        "cfg_scale": 4.051799031793212,
+        "steps": 25
+      },
+      "novelty": 0.3623603582382202,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0098_n0.362.png"
+    },
+    {
+      "index": 99,
+      "theta": {
+        "seed": 961897,
+        "cfg_scale": 4.051799031793212,
+        "steps": 25
+      },
+      "novelty": 0.362739622592926,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0099_n0.363.png"
+    },
+    {
+      "index": 100,
+      "theta": {
+        "seed": 457417,
+        "cfg_scale": 11.396485605728994,
+        "steps": 40
+      },
+      "novelty": 0.35997819900512695,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0100_n0.360.png"
+    },
+    {
+      "index": 101,
+      "theta": {
+        "seed": 265869,
+        "cfg_scale": 11.396485605728994,
+        "steps": 40
+      },
+      "novelty": 0.38072824478149414,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0101_n0.381.png"
+    },
+    {
+      "index": 102,
+      "theta": {
+        "seed": 764229,
+        "cfg_scale": 11.396485605728994,
+        "steps": 40
+      },
+      "novelty": 0.41336488723754883,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0102_n0.413.png"
+    },
+    {
+      "index": 103,
+      "theta": {
+        "seed": 969176,
+        "cfg_scale": 11.396485605728994,
+        "steps": 40
+      },
+      "novelty": 0.33991408348083496,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0103_n0.340.png"
+    },
+    {
+      "index": 104,
+      "theta": {
+        "seed": 789006,
+        "cfg_scale": 11.602682269907948,
+        "steps": 40
+      },
+      "novelty": 0.35280221700668335,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0104_n0.353.png"
+    },
+    {
+      "index": 105,
+      "theta": {
+        "seed": 449361,
+        "cfg_scale": 11.602682269907948,
+        "steps": 40
+      },
+      "novelty": 0.3015958070755005,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0105_n0.302.png"
+    },
+    {
+      "index": 106,
+      "theta": {
+        "seed": 736919,
+        "cfg_scale": 11.602682269907948,
+        "steps": 40
+      },
+      "novelty": 0.3097548484802246,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0106_n0.310.png"
+    },
+    {
+      "index": 107,
+      "theta": {
+        "seed": 272241,
+        "cfg_scale": 11.602682269907948,
+        "steps": 40
+      },
+      "novelty": 0.28730690479278564,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0107_n0.287.png"
+    },
+    {
+      "index": 108,
+      "theta": {
+        "seed": 127576,
+        "cfg_scale": 13.8312287585261,
+        "steps": 20
+      },
+      "novelty": 0.29617857933044434,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0108_n0.296.png"
+    },
+    {
+      "index": 109,
+      "theta": {
+        "seed": 455776,
+        "cfg_scale": 13.8312287585261,
+        "steps": 20
+      },
+      "novelty": 0.40483003854751587,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0109_n0.405.png"
+    },
+    {
+      "index": 110,
+      "theta": {
+        "seed": 704032,
+        "cfg_scale": 13.8312287585261,
+        "steps": 20
+      },
+      "novelty": 0.34225499629974365,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0110_n0.342.png"
+    },
+    {
+      "index": 111,
+      "theta": {
+        "seed": 202363,
+        "cfg_scale": 13.8312287585261,
+        "steps": 20
+      },
+      "novelty": 0.3933783173561096,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0111_n0.393.png"
+    },
+    {
+      "index": 112,
+      "theta": {
+        "seed": 546907,
+        "cfg_scale": 9.950634827302752,
+        "steps": 25
+      },
+      "novelty": 0.3025681972503662,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0112_n0.303.png"
+    },
+    {
+      "index": 113,
+      "theta": {
+        "seed": 176772,
+        "cfg_scale": 9.950634827302752,
+        "steps": 25
+      },
+      "novelty": 0.36424320936203003,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0113_n0.364.png"
+    },
+    {
+      "index": 114,
+      "theta": {
+        "seed": 463205,
+        "cfg_scale": 9.950634827302752,
+        "steps": 25
+      },
+      "novelty": 0.25754207372665405,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0114_n0.258.png"
+    },
+    {
+      "index": 115,
+      "theta": {
+        "seed": 856614,
+        "cfg_scale": 9.950634827302752,
+        "steps": 25
+      },
+      "novelty": 0.41967737674713135,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0115_n0.420.png"
+    },
+    {
+      "index": 116,
+      "theta": {
+        "seed": 663298,
+        "cfg_scale": 11.633555471411242,
+        "steps": 40
+      },
+      "novelty": 0.38032621145248413,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0116_n0.380.png"
+    },
+    {
+      "index": 117,
+      "theta": {
+        "seed": 432093,
+        "cfg_scale": 11.633555471411242,
+        "steps": 40
+      },
+      "novelty": 0.2691500186920166,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0117_n0.269.png"
+    },
+    {
+      "index": 118,
+      "theta": {
+        "seed": 308667,
+        "cfg_scale": 11.633555471411242,
+        "steps": 40
+      },
+      "novelty": 0.24616456031799316,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0118_n0.246.png"
+    },
+    {
+      "index": 119,
+      "theta": {
+        "seed": 627308,
+        "cfg_scale": 11.633555471411242,
+        "steps": 40
+      },
+      "novelty": 0.23898977041244507,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0119_n0.239.png"
+    },
+    {
+      "index": 120,
+      "theta": {
+        "seed": 628745,
+        "cfg_scale": 10.79815921865784,
+        "steps": 30
+      },
+      "novelty": 0.370097279548645,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0120_n0.370.png"
+    },
+    {
+      "index": 121,
+      "theta": {
+        "seed": 84444,
+        "cfg_scale": 10.79815921865784,
+        "steps": 30
+      },
+      "novelty": 0.33109796047210693,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0121_n0.331.png"
+    },
+    {
+      "index": 122,
+      "theta": {
+        "seed": 757487,
+        "cfg_scale": 10.79815921865784,
+        "steps": 30
+      },
+      "novelty": 0.2921980023384094,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0122_n0.292.png"
+    },
+    {
+      "index": 123,
+      "theta": {
+        "seed": 415807,
+        "cfg_scale": 10.79815921865784,
+        "steps": 30
+      },
+      "novelty": 0.31828296184539795,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0123_n0.318.png"
+    },
+    {
+      "index": 124,
+      "theta": {
+        "seed": 188225,
+        "cfg_scale": 8.927889830934227,
+        "steps": 20
+      },
+      "novelty": 0.31014585494995117,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0124_n0.310.png"
+    },
+    {
+      "index": 125,
+      "theta": {
+        "seed": 329861,
+        "cfg_scale": 8.927889830934227,
+        "steps": 20
+      },
+      "novelty": 0.31686335802078247,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0125_n0.317.png"
+    },
+    {
+      "index": 126,
+      "theta": {
+        "seed": 660599,
+        "cfg_scale": 8.927889830934227,
+        "steps": 20
+      },
+      "novelty": 0.2382206916809082,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0126_n0.238.png"
+    },
+    {
+      "index": 127,
+      "theta": {
+        "seed": 144524,
+        "cfg_scale": 8.927889830934227,
+        "steps": 20
+      },
+      "novelty": 0.3312777876853943,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0127_n0.331.png"
+    },
+    {
+      "index": 128,
+      "theta": {
+        "seed": 793483,
+        "cfg_scale": 10.051734866132545,
+        "steps": 20
+      },
+      "novelty": 0.307214617729187,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0128_n0.307.png"
+    },
+    {
+      "index": 129,
+      "theta": {
+        "seed": 170592,
+        "cfg_scale": 10.051734866132545,
+        "steps": 20
+      },
+      "novelty": 0.3325193524360657,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0129_n0.333.png"
+    },
+    {
+      "index": 130,
+      "theta": {
+        "seed": 299992,
+        "cfg_scale": 10.051734866132545,
+        "steps": 20
+      },
+      "novelty": 0.3083531856536865,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0130_n0.308.png"
+    },
+    {
+      "index": 131,
+      "theta": {
+        "seed": 925120,
+        "cfg_scale": 10.051734866132545,
+        "steps": 20
+      },
+      "novelty": 0.36613965034484863,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0131_n0.366.png"
+    },
+    {
+      "index": 132,
+      "theta": {
+        "seed": 612451,
+        "cfg_scale": 7.162437654418045,
+        "steps": 30
+      },
+      "novelty": 0.2874937653541565,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0132_n0.287.png"
+    },
+    {
+      "index": 133,
+      "theta": {
+        "seed": 590915,
+        "cfg_scale": 7.162437654418045,
+        "steps": 30
+      },
+      "novelty": 0.3022615313529968,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0133_n0.302.png"
+    },
+    {
+      "index": 134,
+      "theta": {
+        "seed": 294753,
+        "cfg_scale": 7.162437654418045,
+        "steps": 30
+      },
+      "novelty": 0.4063457250595093,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0134_n0.406.png"
+    },
+    {
+      "index": 135,
+      "theta": {
+        "seed": 22803,
+        "cfg_scale": 7.162437654418045,
+        "steps": 30
+      },
+      "novelty": 0.22847187519073486,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0135_n0.228.png"
+    },
+    {
+      "index": 136,
+      "theta": {
+        "seed": 467107,
+        "cfg_scale": 8.787641243314802,
+        "steps": 40
+      },
+      "novelty": 0.3973713517189026,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0136_n0.397.png"
+    },
+    {
+      "index": 137,
+      "theta": {
+        "seed": 782735,
+        "cfg_scale": 8.787641243314802,
+        "steps": 40
+      },
+      "novelty": 0.3994761109352112,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0137_n0.399.png"
+    },
+    {
+      "index": 138,
+      "theta": {
+        "seed": 64956,
+        "cfg_scale": 8.787641243314802,
+        "steps": 40
+      },
+      "novelty": 0.2700340747833252,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0138_n0.270.png"
+    },
+    {
+      "index": 139,
+      "theta": {
+        "seed": 82729,
+        "cfg_scale": 8.787641243314802,
+        "steps": 40
+      },
+      "novelty": 0.3238018751144409,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0139_n0.324.png"
+    },
+    {
+      "index": 140,
+      "theta": {
+        "seed": 441168,
+        "cfg_scale": 8.888483932254251,
+        "steps": 25
+      },
+      "novelty": 0.27559274435043335,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0140_n0.276.png"
+    },
+    {
+      "index": 141,
+      "theta": {
+        "seed": 937826,
+        "cfg_scale": 8.888483932254251,
+        "steps": 25
+      },
+      "novelty": 0.3886985778808594,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0141_n0.389.png"
+    },
+    {
+      "index": 142,
+      "theta": {
+        "seed": 161018,
+        "cfg_scale": 8.888483932254251,
+        "steps": 25
+      },
+      "novelty": 0.3026282787322998,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0142_n0.303.png"
+    },
+    {
+      "index": 143,
+      "theta": {
+        "seed": 571728,
+        "cfg_scale": 8.888483932254251,
+        "steps": 25
+      },
+      "novelty": 0.3624614477157593,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0143_n0.362.png"
+    },
+    {
+      "index": 144,
+      "theta": {
+        "seed": 953772,
+        "cfg_scale": 6.203707957102723,
+        "steps": 25
+      },
+      "novelty": 0.4671354293823242,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0144_n0.467.png"
+    },
+    {
+      "index": 145,
+      "theta": {
+        "seed": 331568,
+        "cfg_scale": 6.203707957102723,
+        "steps": 25
+      },
+      "novelty": 0.3947528004646301,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0145_n0.395.png"
+    },
+    {
+      "index": 146,
+      "theta": {
+        "seed": 545004,
+        "cfg_scale": 6.203707957102723,
+        "steps": 25
+      },
+      "novelty": 0.2711606025695801,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0146_n0.271.png"
+    },
+    {
+      "index": 147,
+      "theta": {
+        "seed": 520672,
+        "cfg_scale": 6.203707957102723,
+        "steps": 25
+      },
+      "novelty": 0.3688271641731262,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0147_n0.369.png"
+    },
+    {
+      "index": 148,
+      "theta": {
+        "seed": 363678,
+        "cfg_scale": 3.259344958563965,
+        "steps": 25
+      },
+      "novelty": 0.41326045989990234,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0148_n0.413.png"
+    },
+    {
+      "index": 149,
+      "theta": {
+        "seed": 826291,
+        "cfg_scale": 3.259344958563965,
+        "steps": 25
+      },
+      "novelty": 0.2086130976676941,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0149_n0.209.png"
+    },
+    {
+      "index": 150,
+      "theta": {
+        "seed": 9916,
+        "cfg_scale": 3.259344958563965,
+        "steps": 25
+      },
+      "novelty": 0.535220205783844,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0150_n0.535.png"
+    },
+    {
+      "index": 151,
+      "theta": {
+        "seed": 896160,
+        "cfg_scale": 3.259344958563965,
+        "steps": 25
+      },
+      "novelty": 0.19808125495910645,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0151_n0.198.png"
+    },
+    {
+      "index": 152,
+      "theta": {
+        "seed": 315692,
+        "cfg_scale": 9.648433722468592,
+        "steps": 20
+      },
+      "novelty": 0.3874744176864624,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0152_n0.387.png"
+    },
+    {
+      "index": 153,
+      "theta": {
+        "seed": 108575,
+        "cfg_scale": 9.648433722468592,
+        "steps": 20
+      },
+      "novelty": 0.22566789388656616,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0153_n0.226.png"
+    },
+    {
+      "index": 154,
+      "theta": {
+        "seed": 665988,
+        "cfg_scale": 9.648433722468592,
+        "steps": 20
+      },
+      "novelty": 0.4168205261230469,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0154_n0.417.png"
+    },
+    {
+      "index": 155,
+      "theta": {
+        "seed": 672240,
+        "cfg_scale": 9.648433722468592,
+        "steps": 20
+      },
+      "novelty": 0.36549919843673706,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0155_n0.365.png"
+    },
+    {
+      "index": 156,
+      "theta": {
+        "seed": 730295,
+        "cfg_scale": 10.91307161630282,
+        "steps": 25
+      },
+      "novelty": 0.25038033723831177,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0156_n0.250.png"
+    },
+    {
+      "index": 157,
+      "theta": {
+        "seed": 726994,
+        "cfg_scale": 10.91307161630282,
+        "steps": 25
+      },
+      "novelty": 0.37550926208496094,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0157_n0.376.png"
+    },
+    {
+      "index": 158,
+      "theta": {
+        "seed": 938761,
+        "cfg_scale": 10.91307161630282,
+        "steps": 25
+      },
+      "novelty": 0.38113313913345337,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0158_n0.381.png"
+    },
+    {
+      "index": 159,
+      "theta": {
+        "seed": 768647,
+        "cfg_scale": 10.91307161630282,
+        "steps": 25
+      },
+      "novelty": 0.24189919233322144,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0159_n0.242.png"
+    },
+    {
+      "index": 160,
+      "theta": {
+        "seed": 975155,
+        "cfg_scale": 13.992142141651295,
+        "steps": 20
+      },
+      "novelty": 0.2414807677268982,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0160_n0.241.png"
+    },
+    {
+      "index": 161,
+      "theta": {
+        "seed": 230213,
+        "cfg_scale": 13.992142141651295,
+        "steps": 20
+      },
+      "novelty": 0.33637672662734985,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0161_n0.336.png"
+    },
+    {
+      "index": 162,
+      "theta": {
+        "seed": 236455,
+        "cfg_scale": 13.992142141651295,
+        "steps": 20
+      },
+      "novelty": 0.5045859217643738,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0162_n0.505.png"
+    },
+    {
+      "index": 163,
+      "theta": {
+        "seed": 37412,
+        "cfg_scale": 13.992142141651295,
+        "steps": 20
+      },
+      "novelty": 0.32637137174606323,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0163_n0.326.png"
+    },
+    {
+      "index": 164,
+      "theta": {
+        "seed": 309955,
+        "cfg_scale": 7.4510674063492655,
+        "steps": 30
+      },
+      "novelty": 0.2785988450050354,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0164_n0.279.png"
+    },
+    {
+      "index": 165,
+      "theta": {
+        "seed": 829789,
+        "cfg_scale": 7.4510674063492655,
+        "steps": 30
+      },
+      "novelty": 0.20007050037384033,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0165_n0.200.png"
+    },
+    {
+      "index": 166,
+      "theta": {
+        "seed": 460033,
+        "cfg_scale": 7.4510674063492655,
+        "steps": 30
+      },
+      "novelty": 0.291054904460907,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0166_n0.291.png"
+    },
+    {
+      "index": 167,
+      "theta": {
+        "seed": 808251,
+        "cfg_scale": 7.4510674063492655,
+        "steps": 30
+      },
+      "novelty": 0.28111934661865234,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0167_n0.281.png"
+    },
+    {
+      "index": 168,
+      "theta": {
+        "seed": 634831,
+        "cfg_scale": 14.43479274083694,
+        "steps": 25
+      },
+      "novelty": 0.4608685374259949,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0168_n0.461.png"
+    },
+    {
+      "index": 169,
+      "theta": {
+        "seed": 290917,
+        "cfg_scale": 14.43479274083694,
+        "steps": 25
+      },
+      "novelty": 0.32565099000930786,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0169_n0.326.png"
+    },
+    {
+      "index": 170,
+      "theta": {
+        "seed": 621859,
+        "cfg_scale": 14.43479274083694,
+        "steps": 25
+      },
+      "novelty": 0.38386666774749756,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0170_n0.384.png"
+    },
+    {
+      "index": 171,
+      "theta": {
+        "seed": 515057,
+        "cfg_scale": 14.43479274083694,
+        "steps": 25
+      },
+      "novelty": 0.33931994438171387,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0171_n0.339.png"
+    },
+    {
+      "index": 172,
+      "theta": {
+        "seed": 180701,
+        "cfg_scale": 14.23252284058756,
+        "steps": 25
+      },
+      "novelty": 0.3765485882759094,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0172_n0.377.png"
+    },
+    {
+      "index": 173,
+      "theta": {
+        "seed": 164607,
+        "cfg_scale": 14.23252284058756,
+        "steps": 25
+      },
+      "novelty": 0.27577072381973267,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0173_n0.276.png"
+    },
+    {
+      "index": 174,
+      "theta": {
+        "seed": 533156,
+        "cfg_scale": 14.23252284058756,
+        "steps": 25
+      },
+      "novelty": 0.30447518825531006,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0174_n0.304.png"
+    },
+    {
+      "index": 175,
+      "theta": {
+        "seed": 44910,
+        "cfg_scale": 14.23252284058756,
+        "steps": 25
+      },
+      "novelty": 0.2974863052368164,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0175_n0.297.png"
+    },
+    {
+      "index": 176,
+      "theta": {
+        "seed": 151539,
+        "cfg_scale": 14.908506768670044,
+        "steps": 25
+      },
+      "novelty": 0.23671472072601318,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0176_n0.237.png"
+    },
+    {
+      "index": 177,
+      "theta": {
+        "seed": 891677,
+        "cfg_scale": 14.908506768670044,
+        "steps": 25
+      },
+      "novelty": 0.2979176640510559,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0177_n0.298.png"
+    },
+    {
+      "index": 178,
+      "theta": {
+        "seed": 90928,
+        "cfg_scale": 14.908506768670044,
+        "steps": 25
+      },
+      "novelty": 0.42762088775634766,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0178_n0.428.png"
+    },
+    {
+      "index": 179,
+      "theta": {
+        "seed": 748608,
+        "cfg_scale": 14.908506768670044,
+        "steps": 25
+      },
+      "novelty": 0.22997170686721802,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0179_n0.230.png"
+    },
+    {
+      "index": 180,
+      "theta": {
+        "seed": 115980,
+        "cfg_scale": 13.721359676374359,
+        "steps": 40
+      },
+      "novelty": 0.3127405643463135,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0180_n0.313.png"
+    },
+    {
+      "index": 181,
+      "theta": {
+        "seed": 518858,
+        "cfg_scale": 13.721359676374359,
+        "steps": 40
+      },
+      "novelty": 0.38480693101882935,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0181_n0.385.png"
+    },
+    {
+      "index": 182,
+      "theta": {
+        "seed": 469545,
+        "cfg_scale": 13.721359676374359,
+        "steps": 40
+      },
+      "novelty": 0.39269912242889404,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0182_n0.393.png"
+    },
+    {
+      "index": 183,
+      "theta": {
+        "seed": 315929,
+        "cfg_scale": 13.721359676374359,
+        "steps": 40
+      },
+      "novelty": 0.36562955379486084,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0183_n0.366.png"
+    },
+    {
+      "index": 184,
+      "theta": {
+        "seed": 410219,
+        "cfg_scale": 10.939935158013133,
+        "steps": 40
+      },
+      "novelty": 0.36635082960128784,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0184_n0.366.png"
+    },
+    {
+      "index": 185,
+      "theta": {
+        "seed": 373657,
+        "cfg_scale": 10.939935158013133,
+        "steps": 40
+      },
+      "novelty": 0.4009983539581299,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0185_n0.401.png"
+    },
+    {
+      "index": 186,
+      "theta": {
+        "seed": 886295,
+        "cfg_scale": 10.939935158013133,
+        "steps": 40
+      },
+      "novelty": 0.3571678400039673,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0186_n0.357.png"
+    },
+    {
+      "index": 187,
+      "theta": {
+        "seed": 94466,
+        "cfg_scale": 10.939935158013133,
+        "steps": 40
+      },
+      "novelty": 0.3204212188720703,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0187_n0.320.png"
+    },
+    {
+      "index": 188,
+      "theta": {
+        "seed": 5307,
+        "cfg_scale": 6.149526191074376,
+        "steps": 30
+      },
+      "novelty": 0.4436137080192566,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0188_n0.444.png"
+    },
+    {
+      "index": 189,
+      "theta": {
+        "seed": 936813,
+        "cfg_scale": 6.149526191074376,
+        "steps": 30
+      },
+      "novelty": 0.3328326940536499,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0189_n0.333.png"
+    },
+    {
+      "index": 190,
+      "theta": {
+        "seed": 947731,
+        "cfg_scale": 6.149526191074376,
+        "steps": 30
+      },
+      "novelty": 0.3421568274497986,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0190_n0.342.png"
+    },
+    {
+      "index": 191,
+      "theta": {
+        "seed": 240970,
+        "cfg_scale": 6.149526191074376,
+        "steps": 30
+      },
+      "novelty": 0.43864428997039795,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0191_n0.439.png"
+    },
+    {
+      "index": 192,
+      "theta": {
+        "seed": 891911,
+        "cfg_scale": 12.973352065498874,
+        "steps": 20
+      },
+      "novelty": 0.3814672827720642,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0192_n0.381.png"
+    },
+    {
+      "index": 193,
+      "theta": {
+        "seed": 153284,
+        "cfg_scale": 12.973352065498874,
+        "steps": 20
+      },
+      "novelty": 0.3769208788871765,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0193_n0.377.png"
+    },
+    {
+      "index": 194,
+      "theta": {
+        "seed": 746739,
+        "cfg_scale": 12.973352065498874,
+        "steps": 20
+      },
+      "novelty": 0.27930229902267456,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0194_n0.279.png"
+    },
+    {
+      "index": 195,
+      "theta": {
+        "seed": 179268,
+        "cfg_scale": 12.973352065498874,
+        "steps": 20
+      },
+      "novelty": 0.22822833061218262,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0195_n0.228.png"
+    },
+    {
+      "index": 196,
+      "theta": {
+        "seed": 44784,
+        "cfg_scale": 13.494744490049573,
+        "steps": 30
+      },
+      "novelty": 0.3485104441642761,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0196_n0.349.png"
+    },
+    {
+      "index": 197,
+      "theta": {
+        "seed": 196434,
+        "cfg_scale": 13.494744490049573,
+        "steps": 30
+      },
+      "novelty": 0.2345985770225525,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0197_n0.235.png"
+    },
+    {
+      "index": 198,
+      "theta": {
+        "seed": 280508,
+        "cfg_scale": 13.494744490049573,
+        "steps": 30
+      },
+      "novelty": 0.3358476758003235,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0198_n0.336.png"
+    },
+    {
+      "index": 199,
+      "theta": {
+        "seed": 310323,
+        "cfg_scale": 13.494744490049573,
+        "steps": 30
+      },
+      "novelty": 0.32913005352020264,
+      "image_path": "outputs/run_42691366/search_dino/images/img_0199_n0.329.png"
+    }
+  ]
+}

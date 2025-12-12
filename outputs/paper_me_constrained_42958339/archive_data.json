@@ -1,0 +1,23 @@
+{
+  "config": {
+    "grid_size": 15,
+    "iterations": 5000,
+    "wikiart_proximity_threshold": 0.3,
+    "wikiart_weight": 0.5
+  },
+  "stats": {
+    "coverage": 0.4266666666666667,
+    "num_elites": 96,
+    "total_evaluated": 5000,
+    "wikiart_rejections": 3,
+    "fitness_mean": 0.5698499883680294,
+    "fitness_max": 1.0,
+    "novelty_mean": 0.5698499883680294,
+    "novelty_max": 1.0,
+    "proximity_mean": 0.5953094400465488,
+    "proximity_min": 0.37057721614837646
+  },
+  "elites": [
+    {
+      "cell": [
+        

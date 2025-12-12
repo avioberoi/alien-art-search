@@ -1,0 +1,3285 @@
+{
+  "config": {
+    "grid_size": 15,
+    "iterations": 5000,
+    "auto_axes": true
+  },
+  "stats": {
+    "coverage": 0.92,
+    "num_elites": 207,
+    "novelty_mean": 0.5449797295861774
+  },
+  "elites": [
+    {
+      "cell": [
+        1,
+        3
+      ],
+      "prompt": "a painting of a landscape",
+      "novelty": 1.0,
+      "iteration": 0,
+      "theta": {
+        "seed": 536986,
+        "cfg_scale": 5.901966698271717,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0000.png"
+    },
+    {
+      "cell": [
+        5,
+        11
+      ],
+      "prompt": "a atmospheric water reflection, romanticism",
+      "novelty": 0.7150554656982422,
+      "iteration": 46,
+      "theta": {
+        "seed": 153501,
+        "cfg_scale": 11.487941716776108,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0046.png"
+    },
+    {
+      "cell": [
+        10,
+        7
+      ],
+      "prompt": "school cafeteria that dreams of being a emerging painting of a seascape that feels lonely, fusion of quantum mechanics and gothic architecture",
+      "novelty": 0.8576521873474121,
+      "iteration": 418,
+      "theta": {
+        "seed": 649429,
+        "cfg_scale": 10.560037698950762,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0418.png"
+    },
+    {
+      "cell": [
+        14,
+        2
+      ],
+      "prompt": "a painting of a river valley",
+      "novelty": 0.6617200970649719,
+      "iteration": 3,
+      "theta": {
+        "seed": 834445,
+        "cfg_scale": 5.901966698271717,
+        "steps": 30,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0003.png"
+    },
+    {
+      "cell": [
+        3,
+        11
+      ],
+      "prompt": "an impressionist landscape with trees",
+      "novelty": 0.6696469187736511,
+      "iteration": 4,
+      "theta": {
+        "seed": 663335,
+        "cfg_scale": 5.901966698271717,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0004.png"
+    },
+    {
+      "cell": [
+        11,
+        1
+      ],
+      "prompt": "a romantic painting of a stormy sea",
+      "novelty": 0.805009663105011,
+      "iteration": 5,
+      "theta": {
+        "seed": 992064,
+        "cfg_scale": 5.901966698271717,
+        "steps": 30,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0005.png"
+    },
+    {
+      "cell": [
+        12,
+        3
+      ],
+      "prompt": "a pastoral scene with meadows",
+      "novelty": 0.7804448008537292,
+      "iteration": 6,
+      "theta": {
+        "seed": 675245,
+        "cfg_scale": 5.901966698271717,
+        "steps": 30,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0006.png"
+    },
+    {
+      "cell": [
+        1,
+        11
+      ],
+      "prompt": "a painting of autumn trees by a lake",
+      "novelty": 0.6484499573707581,
+      "iteration": 7,
+      "theta": {
+        "seed": 197818,
+        "cfg_scale": 5.901966698271717,
+        "steps": 30,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0007.png"
+    },
+    {
+      "cell": [
+        1,
+        0
+      ],
+      "prompt": "muted a painting of a sunset over mountains",
+      "novelty": 0.6269420385360718,
+      "iteration": 8,
+      "theta": {
+        "seed": 311807,
+        "cfg_scale": 5.285941524172156,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0008.png"
+    },
+    {
+      "cell": [
+        2,
+        13
+      ],
+      "prompt": "a romantic painting of a stormy sea, fusion of microscopic organisms and cosmic structures",
+      "novelty": 0.7815064787864685,
+      "iteration": 9,
+      "theta": {
+        "seed": 986602,
+        "cfg_scale": 5.285941524172156,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0009.png"
+    },
+    {
+      "cell": [
+        12,
+        7
+      ],
+      "prompt": "a painting of a forest clearing",
+      "novelty": 0.6655076742172241,
+      "iteration": 10,
+      "theta": {
+        "seed": 15820,
+        "cfg_scale": 5.285941524172156,
+        "steps": 20,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0010.png"
+    },
+    {
+      "cell": [
+        10,
+        14
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine",
+      "novelty": 0.7776476144790649,
+      "iteration": 11,
+      "theta": {
+        "seed": 794533,
+        "cfg_scale": 5.285941524172156,
+        "steps": 20,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0011.png"
+    },
+    {
+      "cell": [
+        11,
+        8
+      ],
+      "prompt": "a painting of a sunset over mountains, with a price tag still attached",
+      "novelty": 0.639853835105896,
+      "iteration": 12,
+      "theta": {
+        "seed": 130044,
+        "cfg_scale": 5.285941524172156,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0012.png"
+    },
+    {
+      "cell": [
+        9,
+        4
+      ],
+      "prompt": "a painting of a seascape, in the style of Turner",
+      "novelty": 0.6674147844314575,
+      "iteration": 271,
+      "theta": {
+        "seed": 905077,
+        "cfg_scale": 6.516022960949374,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0271.png"
+    },
+    {
+      "cell": [
+        6,
+        0
+      ],
+      "prompt": "a painting of autumn trees by a lake",
+      "novelty": 0.7888825535774231,
+      "iteration": 14,
+      "theta": {
+        "seed": 588124,
+        "cfg_scale": 5.285941524172156,
+        "steps": 20,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0014.png"
+    },
+    {
+      "cell": [
+        12,
+        6
+      ],
+      "prompt": "a painting of a landscape, merged with clouds",
+      "novelty": 0.5115635395050049,
+      "iteration": 15,
+      "theta": {
+        "seed": 246343,
+        "cfg_scale": 5.285941524172156,
+        "steps": 20,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0015.png"
+    },
+    {
+      "cell": [
+        3,
+        3
+      ],
+      "prompt": "a painting of autumn trees by a lake, fusion of evolutionary biology and impossible geometry",
+      "novelty": 0.49218234419822693,
+      "iteration": 16,
+      "theta": {
+        "seed": 660555,
+        "cfg_scale": 8.309085055743047,
+        "steps": 30,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0016.png"
+    },
+    {
+      "cell": [
+        13,
+        12
+      ],
+      "prompt": "nostalgically futuristic a painting of a forest clearing",
+      "novelty": 0.4896257519721985,
+      "iteration": 18,
+      "theta": {
+        "seed": 948768,
+        "cfg_scale": 8.309085055743047,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0018.png"
+    },
+    {
+      "cell": [
+        13,
+        2
+      ],
+      "prompt": "a painting of a ruins with garden scene in the distance",
+      "novelty": 0.7768142819404602,
+      "iteration": 19,
+      "theta": {
+        "seed": 294197,
+        "cfg_scale": 8.309085055743047,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0019.png"
+    },
+    {
+      "cell": [
+        10,
+        4
+      ],
+      "prompt": "a romantic painting of a stormy sea, fusion of microscopic organisms and cosmic structures, expressed as a quantum superposition",
+      "novelty": 0.7923852205276489,
+      "iteration": 20,
+      "theta": {
+        "seed": 20293,
+        "cfg_scale": 8.309085055743047,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0020.png"
+    },
+    {
+      "cell": [
+        3,
+        5
+      ],
+      "prompt": "a painting of a forest clearing",
+      "novelty": 0.503218412399292,
+      "iteration": 28,
+      "theta": {
+        "seed": 567302,
+        "cfg_scale": 7.409838437958264,
+        "steps": 25,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0028.png"
+    },
+    {
+      "cell": [
+        9,
+        13
+      ],
+      "prompt": "a painting of a river valley inside a computer",
+      "novelty": 0.5536624193191528,
+      "iteration": 22,
+      "theta": {
+        "seed": 314082,
+        "cfg_scale": 8.309085055743047,
+        "steps": 30,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0022.png"
+    },
+    {
+      "cell": [
+        7,
+        5
+      ],
+      "prompt": "a classical interior scene with reflected light",
+      "novelty": 0.845439076423645,
+      "iteration": 23,
+      "theta": {
+        "seed": 826785,
+        "cfg_scale": 8.309085055743047,
+        "steps": 30,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0023.png"
+    },
+    {
+      "cell": [
+        0,
+        4
+      ],
+      "prompt": "a painting of a forest clearing, without symmetry",
+      "novelty": 0.4512290954589844,
+      "iteration": 24,
+      "theta": {
+        "seed": 502678,
+        "cfg_scale": 7.409838437958264,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0024.png"
+    },
+    {
+      "cell": [
+        14,
+        0
+      ],
+      "prompt": "a romantic painting of a stormy sea where light bends in spirals",
+      "novelty": 0.715002179145813,
+      "iteration": 25,
+      "theta": {
+        "seed": 826280,
+        "cfg_scale": 7.409838437958264,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0025.png"
+    },
+    {
+      "cell": [
+        8,
+        6
+      ],
+      "prompt": "a painting of a still life in snow",
+      "novelty": 0.8366180658340454,
+      "iteration": 279,
+      "theta": {
+        "seed": 652954,
+        "cfg_scale": 10.790565825662547,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0279.png"
+    },
+    {
+      "cell": [
+        7,
+        9
+      ],
+      "prompt": "an impressionist flowers with trees, with IKEA assembly instructions, but it's somehow also a kitchen appliance at absolute zero",
+      "novelty": 0.8817904591560364,
+      "iteration": 4449,
+      "theta": {
+        "seed": 865277,
+        "cfg_scale": 8.275167832693953,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4449.png"
+    },
+    {
+      "cell": [
+        10,
+        3
+      ],
+      "prompt": "fusion of microscopic organisms and cosmic structures, expressed as a quantum superposition",
+      "novelty": 0.8761539459228516,
+      "iteration": 30,
+      "theta": {
+        "seed": 873416,
+        "cfg_scale": 7.409838437958264,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0030.png"
+    },
+    {
+      "cell": [
+        13,
+        1
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole",
+      "novelty": 0.5909456610679626,
+      "iteration": 31,
+      "theta": {
+        "seed": 811977,
+        "cfg_scale": 7.409838437958264,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0031.png"
+    },
+    {
+      "cell": [
+        7,
+        8
+      ],
+      "prompt": "delicate hybrid of flowers and pastoral meadow",
+      "novelty": 0.8963688015937805,
+      "iteration": 1380,
+      "theta": {
+        "seed": 999165,
+        "cfg_scale": 6.087527145378559,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1380.png"
+    },
+    {
+      "cell": [
+        8,
+        5
+      ],
+      "prompt": "grocery store that dreams of being a painting of a forest clearing",
+      "novelty": 0.9314023852348328,
+      "iteration": 35,
+      "theta": {
+        "seed": 922571,
+        "cfg_scale": 10.892737018234502,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0035.png"
+    },
+    {
+      "cell": [
+        1,
+        5
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine at the event horizon",
+      "novelty": 0.4084687829017639,
+      "iteration": 34,
+      "theta": {
+        "seed": 754800,
+        "cfg_scale": 10.892737018234502,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0034.png"
+    },
+    {
+      "cell": [
+        4,
+        5
+      ],
+      "prompt": "vibrant hybrid of rocky shore and still life, that feels like a dentist's waiting room, formless yet structured",
+      "novelty": 0.5882381200790405,
+      "iteration": 472,
+      "theta": {
+        "seed": 507830,
+        "cfg_scale": 7.699532675655925,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0472.png"
+    },
+    {
+      "cell": [
+        7,
+        6
+      ],
+      "prompt": "classical laundry basket that dreams of being a painting of a river valley inside a computer",
+      "novelty": 0.8156177401542664,
+      "iteration": 1158,
+      "theta": {
+        "seed": 973220,
+        "cfg_scale": 10.04082466212166,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1158.png"
+    },
+    {
+      "cell": [
+        6,
+        9
+      ],
+      "prompt": "filing cabinet that dreams of being a seascape painted from memory, symbolism",
+      "novelty": 0.8815123438835144,
+      "iteration": 3765,
+      "theta": {
+        "seed": 270073,
+        "cfg_scale": 9.492944546441118,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3765.png"
+    },
+    {
+      "cell": [
+        6,
+        10
+      ],
+      "prompt": "romantic grocery store that dreams of being a painting of a forest clearing",
+      "novelty": 0.7699079513549805,
+      "iteration": 912,
+      "theta": {
+        "seed": 348722,
+        "cfg_scale": 8.943918756691481,
+        "steps": 30,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0912.png"
+    },
+    {
+      "cell": [
+        0,
+        13
+      ],
+      "prompt": "intimately vast but it's actually a vending machine, post-, merged with still life, symbolism, with no straight lines",
+      "novelty": 0.3331448435783386,
+      "iteration": 281,
+      "theta": {
+        "seed": 273286,
+        "cfg_scale": 5.941118873551021,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0281.png"
+    },
+    {
+      "cell": [
+        14,
+        12
+      ],
+      "prompt": "a romantic painting of a stormy sea, fusion of microscopic organisms and cosmic structures, that your grandmother would recognize",
+      "novelty": 0.5590039491653442,
+      "iteration": 43,
+      "theta": {
+        "seed": 946614,
+        "cfg_scale": 11.487941716776108,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0043.png"
+    },
+    {
+      "cell": [
+        5,
+        9
+      ],
+      "prompt": "fusion of microscopic organisms and cosmic structures, expressed as a quantum superposition, but it's somehow also a kitchen appliance",
+      "novelty": 0.8240035772323608,
+      "iteration": 1417,
+      "theta": {
+        "seed": 834691,
+        "cfg_scale": 10.344133158164881,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1417.png"
+    },
+    {
+      "cell": [
+        6,
+        8
+      ],
+      "prompt": "symbolism, fusion of time dilation and organic growth",
+      "novelty": 0.9141587018966675,
+      "iteration": 2046,
+      "theta": {
+        "seed": 683400,
+        "cfg_scale": 8.994777986129714,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2046.png"
+    },
+    {
+      "cell": [
+        4,
+        4
+      ],
+      "prompt": "a painting of a river valley, rendered as office furniture",
+      "novelty": 0.5396050810813904,
+      "iteration": 47,
+      "theta": {
+        "seed": 531182,
+        "cfg_scale": 11.487941716776108,
+        "steps": 25,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0047.png"
+    },
+    {
+      "cell": [
+        5,
+        7
+      ],
+      "prompt": "storage closet that dreams of being laundry basket that dreams of being a painting of a river valley inside a computer, that feels like a dentist's waiting room",
+      "novelty": 0.846917986869812,
+      "iteration": 631,
+      "theta": {
+        "seed": 651651,
+        "cfg_scale": 8.01716456601261,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0631.png"
+    },
+    {
+      "cell": [
+        7,
+        10
+      ],
+      "prompt": "grocery store that dreams of being a painting of a forest clearing",
+      "novelty": 0.8838127851486206,
+      "iteration": 50,
+      "theta": {
+        "seed": 674060,
+        "cfg_scale": 5.5859962328445745,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0050.png"
+    },
+    {
+      "cell": [
+        4,
+        2
+      ],
+      "prompt": "a painting looking across a pastoral meadow",
+      "novelty": 0.5184047818183899,
+      "iteration": 51,
+      "theta": {
+        "seed": 150864,
+        "cfg_scale": 5.5859962328445745,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0051.png"
+    },
+    {
+      "cell": [
+        10,
+        10
+      ],
+      "prompt": "a emerging painting of a stormy sea, fusion of microscopic organisms and cosmic structures, expressed as a quantum superposition",
+      "novelty": 0.7069624662399292,
+      "iteration": 53,
+      "theta": {
+        "seed": 444055,
+        "cfg_scale": 5.5859962328445745,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0053.png"
+    },
+    {
+      "cell": [
+        5,
+        2
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, with IKEA assembly instructions, as seen through x-ray crystallography, made of circuit boards",
+      "novelty": 0.4746316969394684,
+      "iteration": 664,
+      "theta": {
+        "seed": 316154,
+        "cfg_scale": 5.104370314873405,
+        "steps": 25,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0664.png"
+    },
+    {
+      "cell": [
+        0,
+        11
+      ],
+      "prompt": "a painting of a forest clearing, merged with water reflection",
+      "novelty": 0.34223103523254395,
+      "iteration": 55,
+      "theta": {
+        "seed": 562063,
+        "cfg_scale": 5.5859962328445745,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0055.png"
+    },
+    {
+      "cell": [
+        8,
+        8
+      ],
+      "prompt": "mysterious hybrid of cathedral and castle",
+      "novelty": 0.9092051386833191,
+      "iteration": 166,
+      "theta": {
+        "seed": 890442,
+        "cfg_scale": 9.477699723529305,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0166.png"
+    },
+    {
+      "cell": [
+        2,
+        9
+      ],
+      "prompt": "but it's actually a vending machine, post-impressionism, made of smoke, but it's actually a stairwell",
+      "novelty": 0.47887569665908813,
+      "iteration": 4512,
+      "theta": {
+        "seed": 612256,
+        "cfg_scale": 10.301387982536475,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4512.png"
+    },
+    {
+      "cell": [
+        12,
+        9
+      ],
+      "prompt": "a seascape painted from memory",
+      "novelty": 0.6016634702682495,
+      "iteration": 58,
+      "theta": {
+        "seed": 513470,
+        "cfg_scale": 6.0467755538717824,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0058.png"
+    },
+    {
+      "cell": [
+        8,
+        7
+      ],
+      "prompt": "a ruins painted from memory, fusion of evolutionary biology and impossible geometry",
+      "novelty": 0.8229583501815796,
+      "iteration": 170,
+      "theta": {
+        "seed": 377350,
+        "cfg_scale": 5.74955490721643,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0170.png"
+    },
+    {
+      "cell": [
+        10,
+        5
+      ],
+      "prompt": "a painting of a garden scene with flowers in the distance",
+      "novelty": 0.6232165098190308,
+      "iteration": 64,
+      "theta": {
+        "seed": 697479,
+        "cfg_scale": 5.963131301443622,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0064.png"
+    },
+    {
+      "cell": [
+        9,
+        6
+      ],
+      "prompt": "uncomfortably beautiful joyfully melancholic a seascape painted from memory, but it's actually a highway overpass",
+      "novelty": 0.6635635495185852,
+      "iteration": 1531,
+      "theta": {
+        "seed": 65695,
+        "cfg_scale": 9.036956944503004,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1531.png"
+    },
+    {
+      "cell": [
+        7,
+        11
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine at absolute zero",
+      "novelty": 0.7056999802589417,
+      "iteration": 85,
+      "theta": {
+        "seed": 111858,
+        "cfg_scale": 9.476848475014783,
+        "steps": 25,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0085.png"
+    },
+    {
+      "cell": [
+        7,
+        7
+      ],
+      "prompt": "a water reflection rendered in baroque",
+      "novelty": 0.8844563364982605,
+      "iteration": 843,
+      "theta": {
+        "seed": 577394,
+        "cfg_scale": 11.435490858113702,
+        "steps": 20,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0843.png"
+    },
+    {
+      "cell": [
+        9,
+        8
+      ],
+      "prompt": "shopping cart that dreams of being pastoral a seascape painted from memory",
+      "novelty": 0.8553625345230103,
+      "iteration": 239,
+      "theta": {
+        "seed": 27692,
+        "cfg_scale": 7.266529730371857,
+        "steps": 20,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0239.png"
+    },
+    {
+      "cell": [
+        13,
+        4
+      ],
+      "prompt": "an impressionist landscape with trees, renaissance",
+      "novelty": 0.3885938227176666,
+      "iteration": 74,
+      "theta": {
+        "seed": 590664,
+        "cfg_scale": 8.497228556128059,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0074.png"
+    },
+    {
+      "cell": [
+        5,
+        12
+      ],
+      "prompt": "but it's actually a vending machine, post-impressionism, merged with still life",
+      "novelty": 0.7225565910339355,
+      "iteration": 75,
+      "theta": {
+        "seed": 846522,
+        "cfg_scale": 8.497228556128059,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0075.png"
+    },
+    {
+      "cell": [
+        6,
+        6
+      ],
+      "prompt": "a fading cathedral with reflected light, merged with village street",
+      "novelty": 0.8703891634941101,
+      "iteration": 502,
+      "theta": {
+        "seed": 36492,
+        "cfg_scale": 8.373614172830449,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0502.png"
+    },
+    {
+      "cell": [
+        6,
+        3
+      ],
+      "prompt": "a painting of a rocky shore in overcast skies",
+      "novelty": 0.586064875125885,
+      "iteration": 77,
+      "theta": {
+        "seed": 297097,
+        "cfg_scale": 8.497228556128059,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0077.png"
+    },
+    {
+      "cell": [
+        9,
+        7
+      ],
+      "prompt": "classical hybrid of cathedral and bridge",
+      "novelty": 0.8879138231277466,
+      "iteration": 436,
+      "theta": {
+        "seed": 459743,
+        "cfg_scale": 9.015288732871486,
+        "steps": 20,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0436.png"
+    },
+    {
+      "cell": [
+        6,
+        7
+      ],
+      "prompt": "fusion of deep sea biology and space exploration between dimensions, without symmetry",
+      "novelty": 0.860785186290741,
+      "iteration": 2175,
+      "theta": {
+        "seed": 71693,
+        "cfg_scale": 8.156289410867709,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2175.png"
+    },
+    {
+      "cell": [
+        13,
+        5
+      ],
+      "prompt": "a painting of autumn trees by a lake, merged with clouds",
+      "novelty": 0.3876148462295532,
+      "iteration": 97,
+      "theta": {
+        "seed": 267561,
+        "cfg_scale": 8.334867480853344,
+        "steps": 20,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0097.png"
+    },
+    {
+      "cell": [
+        11,
+        4
+      ],
+      "prompt": "vibrant hybrid of rocky shore and still life",
+      "novelty": 0.6368204951286316,
+      "iteration": 229,
+      "theta": {
+        "seed": 548685,
+        "cfg_scale": 9.060427033556188,
+        "steps": 30,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0229.png"
+    },
+    {
+      "cell": [
+        10,
+        6
+      ],
+      "prompt": "fusion of deep sea biology and space exploration, without perspective where matter phases through matter",
+      "novelty": 0.7642669081687927,
+      "iteration": 364,
+      "theta": {
+        "seed": 134426,
+        "cfg_scale": 5.626339555367855,
+        "steps": 30,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0364.png"
+    },
+    {
+      "cell": [
+        5,
+        8
+      ],
+      "prompt": "mysterious hybrid of cathedral and castle, rendered as office furniture",
+      "novelty": 0.8763723373413086,
+      "iteration": 559,
+      "theta": {
+        "seed": 453828,
+        "cfg_scale": 5.978523912765971,
+        "steps": 25,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0559.png"
+    },
+    {
+      "cell": [
+        3,
+        4
+      ],
+      "prompt": "a fading painting of a stormy sea, fusion of microscopic organisms and cosmic structures, expressed as a quantum superposition",
+      "novelty": 0.6308348178863525,
+      "iteration": 92,
+      "theta": {
+        "seed": 31736,
+        "cfg_scale": 6.135969169737757,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0092.png"
+    },
+    {
+      "cell": [
+        8,
+        4
+      ],
+      "prompt": "a emerging painting of a seascape that feels lonely",
+      "novelty": 0.5917027592658997,
+      "iteration": 163,
+      "theta": {
+        "seed": 873366,
+        "cfg_scale": 9.477699723529305,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0163.png"
+    },
+    {
+      "cell": [
+        8,
+        11
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine at the event horizon, expressionism",
+      "novelty": 0.6804127097129822,
+      "iteration": 101,
+      "theta": {
+        "seed": 343206,
+        "cfg_scale": 8.334867480853344,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0101.png"
+    },
+    {
+      "cell": [
+        4,
+        1
+      ],
+      "prompt": "a seascape painted from memory, symbolism",
+      "novelty": 0.487831175327301,
+      "iteration": 102,
+      "theta": {
+        "seed": 369613,
+        "cfg_scale": 8.334867480853344,
+        "steps": 20,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0102.png"
+    },
+    {
+      "cell": [
+        6,
+        4
+      ],
+      "prompt": "a emerging painting of a seascape that feels lonely",
+      "novelty": 0.6288813352584839,
+      "iteration": 103,
+      "theta": {
+        "seed": 827992,
+        "cfg_scale": 8.334867480853344,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0103.png"
+    },
+    {
+      "cell": [
+        4,
+        11
+      ],
+      "prompt": "mysterious hybrid of cathedral and castle, but it's actually a gas station",
+      "novelty": 0.6715742945671082,
+      "iteration": 1671,
+      "theta": {
+        "seed": 976925,
+        "cfg_scale": 5.999613028828792,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1671.png"
+    },
+    {
+      "cell": [
+        6,
+        13
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, merged with still life, that feels like a dentist's waiting room",
+      "novelty": 0.5101255774497986,
+      "iteration": 106,
+      "theta": {
+        "seed": 683598,
+        "cfg_scale": 8.50415789312244,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0106.png"
+    },
+    {
+      "cell": [
+        10,
+        8
+      ],
+      "prompt": "delicate hybrid of portrait and cathedral",
+      "novelty": 0.88690185546875,
+      "iteration": 221,
+      "theta": {
+        "seed": 800412,
+        "cfg_scale": 6.819648819134881,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0221.png"
+    },
+    {
+      "cell": [
+        5,
+        3
+      ],
+      "prompt": "a painting of a rocky shore",
+      "novelty": 0.5807172060012817,
+      "iteration": 111,
+      "theta": {
+        "seed": 243322,
+        "cfg_scale": 8.50415789312244,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0111.png"
+    },
+    {
+      "cell": [
+        12,
+        5
+      ],
+      "prompt": "a hazy river valley, in the style of Turner, that smells like a new car",
+      "novelty": 0.4147849977016449,
+      "iteration": 4836,
+      "theta": {
+        "seed": 302035,
+        "cfg_scale": 5.006570282466212,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4836.png"
+    },
+    {
+      "cell": [
+        11,
+        3
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, dissolving and timeless",
+      "novelty": 0.5168221592903137,
+      "iteration": 214,
+      "theta": {
+        "seed": 92275,
+        "cfg_scale": 9.243631374759044,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0214.png"
+    },
+    {
+      "cell": [
+        5,
+        13
+      ],
+      "prompt": "delicate a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces",
+      "novelty": 0.5253998637199402,
+      "iteration": 115,
+      "theta": {
+        "seed": 261585,
+        "cfg_scale": 6.0812207023261315,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0115.png"
+    },
+    {
+      "cell": [
+        14,
+        5
+      ],
+      "prompt": "mysterious a painting of autumn trees by a lake, but it's actually a vending machine at absolute zero",
+      "novelty": 0.31633657217025757,
+      "iteration": 116,
+      "theta": {
+        "seed": 544916,
+        "cfg_scale": 6.0812207023261315,
+        "steps": 25,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0116.png"
+    },
+    {
+      "cell": [
+        3,
+        0
+      ],
+      "prompt": "a romantic painting of a stormy sea, in the style of Corot",
+      "novelty": 0.40103334188461304,
+      "iteration": 117,
+      "theta": {
+        "seed": 838021,
+        "cfg_scale": 6.0812207023261315,
+        "steps": 25,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0117.png"
+    },
+    {
+      "cell": [
+        6,
+        1
+      ],
+      "prompt": "a painting of a seascape",
+      "novelty": 0.4632247984409332,
+      "iteration": 119,
+      "theta": {
+        "seed": 575514,
+        "cfg_scale": 6.0812207023261315,
+        "steps": 25,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0119.png"
+    },
+    {
+      "cell": [
+        12,
+        14
+      ],
+      "prompt": "but it's actually a vending machine, post-impressionism, merged with still life, that your grandmother would recognize",
+      "novelty": 0.4579891264438629,
+      "iteration": 120,
+      "theta": {
+        "seed": 124270,
+        "cfg_scale": 9.092073228171778,
+        "steps": 30,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0120.png"
+    },
+    {
+      "cell": [
+        1,
+        7
+      ],
+      "prompt": "an impressionist landscape with trees, renaissance, with IKEA assembly instructions, but it's somehow also a kitchen appliance",
+      "novelty": 0.4520476758480072,
+      "iteration": 188,
+      "theta": {
+        "seed": 201522,
+        "cfg_scale": 5.056553672988524,
+        "steps": 25,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0188.png"
+    },
+    {
+      "cell": [
+        4,
+        3
+      ],
+      "prompt": "a painting of a clouds",
+      "novelty": 0.4636992812156677,
+      "iteration": 125,
+      "theta": {
+        "seed": 580478,
+        "cfg_scale": 9.092073228171778,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0125.png"
+    },
+    {
+      "cell": [
+        1,
+        4
+      ],
+      "prompt": "a painting of a forest clearing, baroque, romanticism",
+      "novelty": 0.3736790120601654,
+      "iteration": 126,
+      "theta": {
+        "seed": 643842,
+        "cfg_scale": 9.092073228171778,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0126.png"
+    },
+    {
+      "cell": [
+        8,
+        13
+      ],
+      "prompt": "a painting of autumn village street by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, devoid of life at absolute zero found inside a school cafeteria, merged with ruins, fusion of time dilation and organic growth, hudson river school",
+      "novelty": 0.4630124568939209,
+      "iteration": 4852,
+      "theta": {
+        "seed": 264268,
+        "cfg_scale": 9.543806030644518,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4852.png"
+    },
+    {
+      "cell": [
+        2,
+        5
+      ],
+      "prompt": "in the style of Constable painting of a trees",
+      "novelty": 0.4859224259853363,
+      "iteration": 129,
+      "theta": {
+        "seed": 589924,
+        "cfg_scale": 5.485253666127491,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0129.png"
+    },
+    {
+      "cell": [
+        11,
+        14
+      ],
+      "prompt": "bold a painting of autumn trees by a lake, but it's actually a vending machine at absolute zero, but it's somehow also a kitchen appliance",
+      "novelty": 0.3889310359954834,
+      "iteration": 257,
+      "theta": {
+        "seed": 112162,
+        "cfg_scale": 10.154696168292055,
+        "steps": 30,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0257.png"
+    },
+    {
+      "cell": [
+        6,
+        5
+      ],
+      "prompt": "fusion of deep sea biology and space exploration, without perspective at the event horizon",
+      "novelty": 0.7355079650878906,
+      "iteration": 4539,
+      "theta": {
+        "seed": 552588,
+        "cfg_scale": 10.326808383458445,
+        "steps": 25,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4539.png"
+    },
+    {
+      "cell": [
+        10,
+        2
+      ],
+      "prompt": "comfortingly disturbing a painting of a seascape",
+      "novelty": 0.5176784992218018,
+      "iteration": 133,
+      "theta": {
+        "seed": 505042,
+        "cfg_scale": 5.485253666127491,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0133.png"
+    },
+    {
+      "cell": [
+        2,
+        4
+      ],
+      "prompt": "a pastoral scene with meadows, in the style of Monet, with a 'for sale' sign where time flows backwards, in thermodynamic equilibrium",
+      "novelty": 0.3906456232070923,
+      "iteration": 135,
+      "theta": {
+        "seed": 759501,
+        "cfg_scale": 5.485253666127491,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0135.png"
+    },
+    {
+      "cell": [
+        11,
+        12
+      ],
+      "prompt": "intimately vast but it's actually a vending machine, post-, merged with still life, symbolism",
+      "novelty": 0.5551897287368774,
+      "iteration": 136,
+      "theta": {
+        "seed": 920189,
+        "cfg_scale": 11.174023053845819,
+        "steps": 20,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0136.png"
+    },
+    {
+      "cell": [
+        5,
+        4
+      ],
+      "prompt": "fusion of deep sea biology and space exploration, without perspective where matter phases through matter in a dream",
+      "novelty": 0.5277631282806396,
+      "iteration": 1191,
+      "theta": {
+        "seed": 810522,
+        "cfg_scale": 7.205674161612855,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1191.png"
+    },
+    {
+      "cell": [
+        5,
+        6
+      ],
+      "prompt": "a painting of a still life in snow, fusion of deep sea biology and space exploration",
+      "novelty": 0.734944224357605,
+      "iteration": 582,
+      "theta": {
+        "seed": 25854,
+        "cfg_scale": 9.48126526420622,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0582.png"
+    },
+    {
+      "cell": [
+        7,
+        2
+      ],
+      "prompt": "a emerging painting of a seascape that feels lonely, fusion of evolutionary biology and impossible geometry",
+      "novelty": 0.45299848914146423,
+      "iteration": 1378,
+      "theta": {
+        "seed": 424946,
+        "cfg_scale": 6.087527145378559,
+        "steps": 25,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1378.png"
+    },
+    {
+      "cell": [
+        2,
+        10
+      ],
+      "prompt": "delicate but it's actually a vending machine, post-impressionism, made of circuit boards, but it's actually a stairwell",
+      "novelty": 0.5218549370765686,
+      "iteration": 4429,
+      "theta": {
+        "seed": 598813,
+        "cfg_scale": 6.265551825030902,
+        "steps": 25,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4429.png"
+    },
+    {
+      "cell": [
+        9,
+        1
+      ],
+      "prompt": "a romantic painting of a stormy sea, fusion of microscopic organisms and cosmic structures in a universe with extra dimensions",
+      "novelty": 0.4022728502750397,
+      "iteration": 144,
+      "theta": {
+        "seed": 903743,
+        "cfg_scale": 9.583621900530304,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0144.png"
+    },
+    {
+      "cell": [
+        1,
+        10
+      ],
+      "prompt": "intimately vast but it's actually a vending machine, post-, merged with still life, symbolism, made of coral, fusion of fluid dynamics and crystalline structures",
+      "novelty": 0.4052388072013855,
+      "iteration": 4318,
+      "theta": {
+        "seed": 573345,
+        "cfg_scale": 6.758664996951715,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4318.png"
+    },
+    {
+      "cell": [
+        4,
+        6
+      ],
+      "prompt": "fusion of deep sea biology and space exploration between dimensions",
+      "novelty": 0.6766967177391052,
+      "iteration": 532,
+      "theta": {
+        "seed": 842764,
+        "cfg_scale": 10.941729146228322,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0532.png"
+    },
+    {
+      "cell": [
+        4,
+        8
+      ],
+      "prompt": "washing machine that dreams of being vending machine that dreams of being symbolism, fusion of time dilation and organic growth",
+      "novelty": 0.7775005102157593,
+      "iteration": 4843,
+      "theta": {
+        "seed": 780588,
+        "cfg_scale": 7.236031998926906,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4843.png"
+    },
+    {
+      "cell": [
+        4,
+        9
+      ],
+      "prompt": "but it's actually a vending machine, post-impressionism, made of circuit boards, but it's actually a stairwell",
+      "novelty": 0.7072556614875793,
+      "iteration": 2510,
+      "theta": {
+        "seed": 893519,
+        "cfg_scale": 7.678821631716202,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2510.png"
+    },
+    {
+      "cell": [
+        12,
+        13
+      ],
+      "prompt": "parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, merged with rocky shore",
+      "novelty": 0.3919927775859833,
+      "iteration": 4632,
+      "theta": {
+        "seed": 740498,
+        "cfg_scale": 9.062725534925056,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4632.png"
+    },
+    {
+      "cell": [
+        5,
+        5
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, with IKEA assembly instructions, fusion of fluid dynamics and crystalline structures, rendered as a phase diagram",
+      "novelty": 0.679267168045044,
+      "iteration": 918,
+      "theta": {
+        "seed": 4228,
+        "cfg_scale": 8.943918756691481,
+        "steps": 30,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0918.png"
+    },
+    {
+      "cell": [
+        2,
+        8
+      ],
+      "prompt": "a painting of autumn trees by a lake, without perspective",
+      "novelty": 0.4551312327384949,
+      "iteration": 389,
+      "theta": {
+        "seed": 66537,
+        "cfg_scale": 11.214462836466867,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0389.png"
+    },
+    {
+      "cell": [
+        0,
+        10
+      ],
+      "prompt": "an impressionist landscape with trees, renaissance, with IKEA assembly instructions",
+      "novelty": 0.3386266231536865,
+      "iteration": 171,
+      "theta": {
+        "seed": 985116,
+        "cfg_scale": 5.74955490721643,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0171.png"
+    },
+    {
+      "cell": [
+        4,
+        7
+      ],
+      "prompt": "storage closet that dreams of being laundry basket that dreams of being a painting of a river valley inside a computer",
+      "novelty": 0.906448483467102,
+      "iteration": 288,
+      "theta": {
+        "seed": 308967,
+        "cfg_scale": 5.178516412023394,
+        "steps": 20,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0288.png"
+    },
+    {
+      "cell": [
+        2,
+        7
+      ],
+      "prompt": "a impressionist painting of a river valley at night",
+      "novelty": 0.4814818501472473,
+      "iteration": 173,
+      "theta": {
+        "seed": 597860,
+        "cfg_scale": 5.74955490721643,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0173.png"
+    },
+    {
+      "cell": [
+        3,
+        7
+      ],
+      "prompt": "fusion of deep sea biology and space exploration where light bends in spirals",
+      "novelty": 0.6700661778450012,
+      "iteration": 284,
+      "theta": {
+        "seed": 217783,
+        "cfg_scale": 5.941118873551021,
+        "steps": 20,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0284.png"
+    },
+    {
+      "cell": [
+        8,
+        0
+      ],
+      "prompt": "silently deafening a romantic painting of a stormy sea, viewed from inside a black hole, serene and dissolving, mysterious and romantic, in the style of Bierstadt",
+      "novelty": 0.2993624210357666,
+      "iteration": 4964,
+      "theta": {
+        "seed": 166478,
+        "cfg_scale": 7.712537865020915,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4964.png"
+    },
+    {
+      "cell": [
+        9,
+        5
+      ],
+      "prompt": "fusion of deep sea biology and space exploration",
+      "novelty": 0.7073494791984558,
+      "iteration": 177,
+      "theta": {
+        "seed": 358483,
+        "cfg_scale": 8.817556162832185,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0177.png"
+    },
+    {
+      "cell": [
+        3,
+        9
+      ],
+      "prompt": "refrigerator interior that dreams of being a romantic painting of a stormy sea, viewed from inside a black hole, with IKEA assembly instructions, as seen through x-ray crystallography",
+      "novelty": 0.6682121753692627,
+      "iteration": 786,
+      "theta": {
+        "seed": 856413,
+        "cfg_scale": 11.980091557480119,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0786.png"
+    },
+    {
+      "cell": [
+        8,
+        2
+      ],
+      "prompt": "a painting of a sunset over mountains, with a price tag still attached, in the style of Monet",
+      "novelty": 0.42646703124046326,
+      "iteration": 181,
+      "theta": {
+        "seed": 84979,
+        "cfg_scale": 8.817556162832185,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0181.png"
+    },
+    {
+      "cell": [
+        3,
+        6
+      ],
+      "prompt": "a garden scene rendered in tonalism",
+      "novelty": 0.4538601040840149,
+      "iteration": 261,
+      "theta": {
+        "seed": 280379,
+        "cfg_scale": 10.154696168292055,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0261.png"
+    },
+    {
+      "cell": [
+        10,
+        11
+      ],
+      "prompt": "a painting of autumn village street by a lake, fusion of evolutionary biology and impossible geometry",
+      "novelty": 0.53600013256073,
+      "iteration": 4288,
+      "theta": {
+        "seed": 52093,
+        "cfg_scale": 7.932302538917673,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4288.png"
+    },
+    {
+      "cell": [
+        1,
+        9
+      ],
+      "prompt": "a painting of autumn trees by a lake, following fibonacci spiral patterns",
+      "novelty": 0.32242533564567566,
+      "iteration": 196,
+      "theta": {
+        "seed": 909895,
+        "cfg_scale": 11.858783615430221,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0196.png"
+    },
+    {
+      "cell": [
+        10,
+        1
+      ],
+      "prompt": "uncomfortably beautiful joyfully melancholic a seascape painted from memory",
+      "novelty": 0.4257448613643646,
+      "iteration": 201,
+      "theta": {
+        "seed": 455718,
+        "cfg_scale": 8.701131895855674,
+        "steps": 20,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0201.png"
+    },
+    {
+      "cell": [
+        9,
+        3
+      ],
+      "prompt": "a painting of a rocky shore, merged with portrait",
+      "novelty": 0.48088985681533813,
+      "iteration": 212,
+      "theta": {
+        "seed": 997817,
+        "cfg_scale": 9.243631374759044,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0212.png"
+    },
+    {
+      "cell": [
+        1,
+        6
+      ],
+      "prompt": "a painting of a forest clearing, with a price tag still attached, merged with landscape",
+      "novelty": 0.374748170375824,
+      "iteration": 402,
+      "theta": {
+        "seed": 244476,
+        "cfg_scale": 6.136759416619695,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0402.png"
+    },
+    {
+      "cell": [
+        13,
+        0
+      ],
+      "prompt": "uncomfortably beautiful joyfully melancholic a seascape painted from memory, formless yet structured",
+      "novelty": 0.25475871562957764,
+      "iteration": 220,
+      "theta": {
+        "seed": 280102,
+        "cfg_scale": 6.819648819134881,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0220.png"
+    },
+    {
+      "cell": [
+        11,
+        0
+      ],
+      "prompt": "uncomfortably beautiful joyfully melancholic a seascape painted from memory, realism",
+      "novelty": 0.2894308269023895,
+      "iteration": 222,
+      "theta": {
+        "seed": 744929,
+        "cfg_scale": 6.819648819134881,
+        "steps": 30,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0222.png"
+    },
+    {
+      "cell": [
+        13,
+        13
+      ],
+      "prompt": "intimately vast but it's actually a vending machine, post-, merged with still life, symbolism, made of coral",
+      "novelty": 0.4333367943763733,
+      "iteration": 233,
+      "theta": {
+        "seed": 808105,
+        "cfg_scale": 7.266529730371857,
+        "steps": 20,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0233.png"
+    },
+    {
+      "cell": [
+        1,
+        8
+      ],
+      "prompt": "an impressionist landscape with trees, with IKEA assembly instructions, but it's somehow also a kitchen appliance at absolute zero, in the style of C\u00e9zanne",
+      "novelty": 0.3401928246021271,
+      "iteration": 896,
+      "theta": {
+        "seed": 824962,
+        "cfg_scale": 9.734297880296516,
+        "steps": 25,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0896.png"
+    },
+    {
+      "cell": [
+        12,
+        4
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, with IKEA assembly instructions, as seen through x-ray crystallography",
+      "novelty": 0.49295544624328613,
+      "iteration": 413,
+      "theta": {
+        "seed": 55986,
+        "cfg_scale": 9.0754408842367,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0413.png"
+    },
+    {
+      "cell": [
+        2,
+        6
+      ],
+      "prompt": "a vibrant painting of a river valley that feels unsettling",
+      "novelty": 0.4024505615234375,
+      "iteration": 258,
+      "theta": {
+        "seed": 843049,
+        "cfg_scale": 10.154696168292055,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0258.png"
+    },
+    {
+      "cell": [
+        0,
+        5
+      ],
+      "prompt": "an impressionist landscape with trees, renaissance, with IKEA assembly instructions, fusion of deep sea biology and space exploration",
+      "novelty": 0.3508000075817108,
+      "iteration": 250,
+      "theta": {
+        "seed": 532961,
+        "cfg_scale": 5.619522060877305,
+        "steps": 25,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0250.png"
+    },
+    {
+      "cell": [
+        11,
+        2
+      ],
+      "prompt": "a emerging painting of a seascape that feels lonely, fusion of quantum mechanics and gothic architecture",
+      "novelty": 0.5129122138023376,
+      "iteration": 254,
+      "theta": {
+        "seed": 935226,
+        "cfg_scale": 5.619522060877305,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0254.png"
+    },
+    {
+      "cell": [
+        0,
+        6
+      ],
+      "prompt": "a painting of a forest clearing, without symmetry, merged with pastoral meadow, but it's somehow also a kitchen appliance, with a 'for sale' sign",
+      "novelty": 0.32544055581092834,
+      "iteration": 256,
+      "theta": {
+        "seed": 129536,
+        "cfg_scale": 10.154696168292055,
+        "steps": 30,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0256.png"
+    },
+    {
+      "cell": [
+        13,
+        14
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, merged with still life, that feels like a dentist's waiting room, with a 'for sale' sign",
+      "novelty": 0.3085617423057556,
+      "iteration": 270,
+      "theta": {
+        "seed": 547974,
+        "cfg_scale": 6.516022960949374,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0270.png"
+    },
+    {
+      "cell": [
+        14,
+        7
+      ],
+      "prompt": "an impressionist landscape with trees, with IKEA assembly instructions, but it's somehow also a kitchen appliance at absolute zero",
+      "novelty": 0.3403227627277374,
+      "iteration": 452,
+      "theta": {
+        "seed": 118045,
+        "cfg_scale": 5.533354113400401,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0452.png"
+    },
+    {
+      "cell": [
+        2,
+        2
+      ],
+      "prompt": "a romantic painting of a stormy sea, fusion of microscopic organisms and cosmic structures in a universe with extra dimensions inside a living creature",
+      "novelty": 0.40502825379371643,
+      "iteration": 291,
+      "theta": {
+        "seed": 490717,
+        "cfg_scale": 5.178516412023394,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0291.png"
+    },
+    {
+      "cell": [
+        1,
+        14
+      ],
+      "prompt": "intimately vast bold a painting of autumn trees by a lake, but it's actually a vending machine at absolute zero, but it's somehow also a kitchen appliance",
+      "novelty": 0.31614017486572266,
+      "iteration": 2655,
+      "theta": {
+        "seed": 255367,
+        "cfg_scale": 7.069132634455677,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2655.png"
+    },
+    {
+      "cell": [
+        3,
+        8
+      ],
+      "prompt": "grocery store that dreams of being a painting of a forest clearing",
+      "novelty": 0.8213408589363098,
+      "iteration": 294,
+      "theta": {
+        "seed": 68470,
+        "cfg_scale": 5.178516412023394,
+        "steps": 20,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0294.png"
+    },
+    {
+      "cell": [
+        4,
+        0
+      ],
+      "prompt": "silently deafening a romantic painting of a stormy sea, in the style of Corot, viewed from inside a black hole",
+      "novelty": 0.29098325967788696,
+      "iteration": 295,
+      "theta": {
+        "seed": 419018,
+        "cfg_scale": 5.178516412023394,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0295.png"
+    },
+    {
+      "cell": [
+        1,
+        13
+      ],
+      "prompt": "but it's actually a vending machine, post-impressionism, merged with still life, that your grandmother would recognize designed by someone who only knows washing machines",
+      "novelty": 0.4119153618812561,
+      "iteration": 301,
+      "theta": {
+        "seed": 598309,
+        "cfg_scale": 11.098832673600247,
+        "steps": 25,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0301.png"
+    },
+    {
+      "cell": [
+        8,
+        3
+      ],
+      "prompt": "silently deafening a bold painting of a stormy sea, in the style of Corot, viewed from inside a black hole",
+      "novelty": 0.5099143385887146,
+      "iteration": 799,
+      "theta": {
+        "seed": 634454,
+        "cfg_scale": 11.178826677975266,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0799.png"
+    },
+    {
+      "cell": [
+        11,
+        9
+      ],
+      "prompt": "a painting looking across a portrait",
+      "novelty": 0.5505625009536743,
+      "iteration": 4388,
+      "theta": {
+        "seed": 516561,
+        "cfg_scale": 10.183682998325542,
+        "steps": 30,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4388.png"
+    },
+    {
+      "cell": [
+        9,
+        9
+      ],
+      "prompt": "shopping cart that dreams of being pastoral a seascape painted from memory where light bends in spirals",
+      "novelty": 0.7548149824142456,
+      "iteration": 397,
+      "theta": {
+        "seed": 655072,
+        "cfg_scale": 8.84809230738757,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0397.png"
+    },
+    {
+      "cell": [
+        14,
+        8
+      ],
+      "prompt": "an impressionist landscape with trees, renaissance, with IKEA assembly instructions, but it's somehow also a kitchen appliance at absolute zero",
+      "novelty": 0.33152931928634644,
+      "iteration": 317,
+      "theta": {
+        "seed": 141360,
+        "cfg_scale": 10.85189852485244,
+        "steps": 20,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0317.png"
+    },
+    {
+      "cell": [
+        13,
+        6
+      ],
+      "prompt": "an impressionist landscape with trees, with IKEA assembly instructions, but it's somehow also a kitchen appliance, romanticism",
+      "novelty": 0.42271512746810913,
+      "iteration": 324,
+      "theta": {
+        "seed": 306664,
+        "cfg_scale": 10.994525649478822,
+        "steps": 20,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0324.png"
+    },
+    {
+      "cell": [
+        11,
+        5
+      ],
+      "prompt": "fusion of microscopic organisms and cosmic structures, expressed as a quantum superposition, fusion of neural networks and geological formations",
+      "novelty": 0.47988787293434143,
+      "iteration": 432,
+      "theta": {
+        "seed": 721389,
+        "cfg_scale": 9.015288732871486,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0432.png"
+    },
+    {
+      "cell": [
+        4,
+        10
+      ],
+      "prompt": "but it's actually a gas station, with an 'out of order' sign",
+      "novelty": 0.6964278221130371,
+      "iteration": 1989,
+      "theta": {
+        "seed": 762201,
+        "cfg_scale": 8.0384888726362,
+        "steps": 20,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1989.png"
+    },
+    {
+      "cell": [
+        2,
+        0
+      ],
+      "prompt": "delicate a romantic painting of a stormy sea, viewed from inside a black hole",
+      "novelty": 0.24974970519542694,
+      "iteration": 341,
+      "theta": {
+        "seed": 885139,
+        "cfg_scale": 8.267258432719801,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0341.png"
+    },
+    {
+      "cell": [
+        12,
+        8
+      ],
+      "prompt": "fusion of time dilation and organic growth, hudson river school",
+      "novelty": 0.480781227350235,
+      "iteration": 3107,
+      "theta": {
+        "seed": 778159,
+        "cfg_scale": 10.694827914192775,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3107.png"
+    },
+    {
+      "cell": [
+        13,
+        8
+      ],
+      "prompt": "an impressionist landscape with trees, with IKEA assembly instructions, but it's somehow also a kitchen appliance, romanticism, merged with rocky shore",
+      "novelty": 0.393957257270813,
+      "iteration": 737,
+      "theta": {
+        "seed": 335227,
+        "cfg_scale": 11.309813173550914,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0737.png"
+    },
+    {
+      "cell": [
+        3,
+        2
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, dissolving and timeless, with no straight lines, but it's actually a parking lot",
+      "novelty": 0.4630817770957947,
+      "iteration": 357,
+      "theta": {
+        "seed": 968493,
+        "cfg_scale": 11.534620657804757,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0357.png"
+    },
+    {
+      "cell": [
+        8,
+        9
+      ],
+      "prompt": "vibrant hybrid of landscape and village street in a universe with extra dimensions",
+      "novelty": 0.787696897983551,
+      "iteration": 2747,
+      "theta": {
+        "seed": 378247,
+        "cfg_scale": 6.382909527648728,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2747.png"
+    },
+    {
+      "cell": [
+        14,
+        1
+      ],
+      "prompt": "delicate a romantic painting of a stormy sea, viewed from inside a black hole, lacking color",
+      "novelty": 0.31482672691345215,
+      "iteration": 366,
+      "theta": {
+        "seed": 245569,
+        "cfg_scale": 5.626339555367855,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0366.png"
+    },
+    {
+      "cell": [
+        14,
+        13
+      ],
+      "prompt": "intimately vast but it's actually a vending machine, post-, merged with still life, symbolism, made of coral, merged with portrait",
+      "novelty": 0.3084961473941803,
+      "iteration": 367,
+      "theta": {
+        "seed": 765105,
+        "cfg_scale": 5.626339555367855,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0367.png"
+    },
+    {
+      "cell": [
+        11,
+        6
+      ],
+      "prompt": "fusion of deep sea biology and space exploration, without perspective in non-Euclidean space",
+      "novelty": 0.6227918863296509,
+      "iteration": 371,
+      "theta": {
+        "seed": 744777,
+        "cfg_scale": 8.847554599311694,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0371.png"
+    },
+    {
+      "cell": [
+        12,
+        1
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, with IKEA assembly instructions",
+      "novelty": 0.3132494390010834,
+      "iteration": 373,
+      "theta": {
+        "seed": 625884,
+        "cfg_scale": 8.847554599311694,
+        "steps": 25,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0373.png"
+    },
+    {
+      "cell": [
+        0,
+        7
+      ],
+      "prompt": "grocery store that dreams of being a painting of a forest clearing, renaissance",
+      "novelty": 0.24215713143348694,
+      "iteration": 381,
+      "theta": {
+        "seed": 571605,
+        "cfg_scale": 10.748344764165275,
+        "steps": 20,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0381.png"
+    },
+    {
+      "cell": [
+        9,
+        11
+      ],
+      "prompt": "a pastoral scene with meadows in inverted colors",
+      "novelty": 0.6047852635383606,
+      "iteration": 2733,
+      "theta": {
+        "seed": 714080,
+        "cfg_scale": 5.378730620251099,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2733.png"
+    },
+    {
+      "cell": [
+        14,
+        14
+      ],
+      "prompt": "but it's actually a vending machine",
+      "novelty": 0.26382818818092346,
+      "iteration": 438,
+      "theta": {
+        "seed": 496290,
+        "cfg_scale": 9.015288732871486,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0438.png"
+    },
+    {
+      "cell": [
+        8,
+        12
+      ],
+      "prompt": "parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, formless yet structured",
+      "novelty": 0.4847008287906647,
+      "iteration": 411,
+      "theta": {
+        "seed": 243035,
+        "cfg_scale": 9.0754408842367,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0411.png"
+    },
+    {
+      "cell": [
+        7,
+        4
+      ],
+      "prompt": "a emerging painting of a seascape that feels lonely, fusion of electromagnetic fields and dream logic",
+      "novelty": 0.56749427318573,
+      "iteration": 4123,
+      "theta": {
+        "seed": 403313,
+        "cfg_scale": 8.499289512435652,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4123.png"
+    },
+    {
+      "cell": [
+        9,
+        0
+      ],
+      "prompt": "silently deafening a romantic painting of a stormy sea, in the style of Corot, viewed from inside a black hole, serene and dissolving",
+      "novelty": 0.2674793004989624,
+      "iteration": 435,
+      "theta": {
+        "seed": 485566,
+        "cfg_scale": 9.015288732871486,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0435.png"
+    },
+    {
+      "cell": [
+        13,
+        7
+      ],
+      "prompt": "an impressionist landscape with trees, with IKEA assembly instructions, but it's somehow also a kitchen appliance at absolute zero, in the style of C\u00e9zanne",
+      "novelty": 0.39505812525749207,
+      "iteration": 653,
+      "theta": {
+        "seed": 836968,
+        "cfg_scale": 6.1190784387792725,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0653.png"
+    },
+    {
+      "cell": [
+        11,
+        7
+      ],
+      "prompt": "a hazy river valley, in the style of Turner",
+      "novelty": 0.5295075178146362,
+      "iteration": 3975,
+      "theta": {
+        "seed": 356832,
+        "cfg_scale": 11.664814960860115,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3975.png"
+    },
+    {
+      "cell": [
+        2,
+        14
+      ],
+      "prompt": "precisely chaotic classical a painting of autumn trees by a lake, but it's actually a vending machine where matter phases through matter",
+      "novelty": 0.3102678954601288,
+      "iteration": 784,
+      "theta": {
+        "seed": 233152,
+        "cfg_scale": 11.980091557480119,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0784.png"
+    },
+    {
+      "cell": [
+        4,
+        13
+      ],
+      "prompt": "classical parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, fusion of musical notation and topological spaces, formless yet structured, made of amber, merged with sunset horizon",
+      "novelty": 0.431448757648468,
+      "iteration": 4385,
+      "theta": {
+        "seed": 598200,
+        "cfg_scale": 10.183682998325542,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4385.png"
+    },
+    {
+      "cell": [
+        6,
+        2
+      ],
+      "prompt": "a emerging painting of a seascape that feels lonely, fusion of quantum mechanics and gothic architecture, made of clockwork",
+      "novelty": 0.4573794901371002,
+      "iteration": 1018,
+      "theta": {
+        "seed": 630477,
+        "cfg_scale": 8.568187288226055,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1018.png"
+    },
+    {
+      "cell": [
+        1,
+        2
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, with IKEA assembly instructions, as seen through x-ray crystallography, expressionism",
+      "novelty": 0.3443712890148163,
+      "iteration": 478,
+      "theta": {
+        "seed": 237610,
+        "cfg_scale": 7.699532675655925,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0478.png"
+    },
+    {
+      "cell": [
+        0,
+        14
+      ],
+      "prompt": "but it's actually a vending machine, post-impressionism",
+      "novelty": 0.2963528335094452,
+      "iteration": 738,
+      "theta": {
+        "seed": 150589,
+        "cfg_scale": 11.309813173550914,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0738.png"
+    },
+    {
+      "cell": [
+        2,
+        1
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, delicate and timeless",
+      "novelty": 0.263516366481781,
+      "iteration": 490,
+      "theta": {
+        "seed": 142609,
+        "cfg_scale": 10.086883750919775,
+        "steps": 20,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0490.png"
+    },
+    {
+      "cell": [
+        6,
+        12
+      ],
+      "prompt": "classical parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, formless yet structured, made of amber",
+      "novelty": 0.5393117070198059,
+      "iteration": 1139,
+      "theta": {
+        "seed": 290010,
+        "cfg_scale": 9.06232605606396,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1139.png"
+    },
+    {
+      "cell": [
+        10,
+        9
+      ],
+      "prompt": "a dreamlike painting of a still life",
+      "novelty": 0.6375234127044678,
+      "iteration": 4763,
+      "theta": {
+        "seed": 721804,
+        "cfg_scale": 5.764399500303668,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4763.png"
+    },
+    {
+      "cell": [
+        13,
+        9
+      ],
+      "prompt": "a painting of a still life in snow, in the style of Corot, merged with flowers",
+      "novelty": 0.43636399507522583,
+      "iteration": 1485,
+      "theta": {
+        "seed": 957448,
+        "cfg_scale": 8.22845588056258,
+        "steps": 20,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1485.png"
+    },
+    {
+      "cell": [
+        2,
+        12
+      ],
+      "prompt": "but it's actually a vending machine, post-, made of circuit boards, baroque",
+      "novelty": 0.5110167860984802,
+      "iteration": 2566,
+      "theta": {
+        "seed": 732643,
+        "cfg_scale": 10.129299232094493,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2566.png"
+    },
+    {
+      "cell": [
+        7,
+        3
+      ],
+      "prompt": "classical delicate a romantic painting of a stormy sea, viewed from inside a black hole, lacking color designed by someone who only knows storage closets",
+      "novelty": 0.5077528357505798,
+      "iteration": 4662,
+      "theta": {
+        "seed": 105169,
+        "cfg_scale": 5.481486765764538,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4662.png"
+    },
+    {
+      "cell": [
+        3,
+        1
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, with IKEA assembly instructions, fusion of fluid dynamics and crystalline structures",
+      "novelty": 0.3095979392528534,
+      "iteration": 522,
+      "theta": {
+        "seed": 5187,
+        "cfg_scale": 7.333526306719715,
+        "steps": 30,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0522.png"
+    },
+    {
+      "cell": [
+        3,
+        12
+      ],
+      "prompt": "classical parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, fusion of musical notation and topological spaces, formless yet structured, made of amber",
+      "novelty": 0.5520511865615845,
+      "iteration": 1507,
+      "theta": {
+        "seed": 978683,
+        "cfg_scale": 5.378529127262393,
+        "steps": 30,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1507.png"
+    },
+    {
+      "cell": [
+        5,
+        0
+      ],
+      "prompt": "delicate a romantic painting of a stormy sea, viewed from inside a black hole, fusion of time dilation and organic growth",
+      "novelty": 0.2740532457828522,
+      "iteration": 910,
+      "theta": {
+        "seed": 322400,
+        "cfg_scale": 10.465170752150774,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0910.png"
+    },
+    {
+      "cell": [
+        1,
+        12
+      ],
+      "prompt": "intimately vast but it's actually a vending machine, post-, merged with still life, symbolism, with no straight lines at absolute zero",
+      "novelty": 0.45794954895973206,
+      "iteration": 1489,
+      "theta": {
+        "seed": 705472,
+        "cfg_scale": 10.592022746025236,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1489.png"
+    },
+    {
+      "cell": [
+        3,
+        14
+      ],
+      "prompt": "bold a painting of autumn trees by a lake, but it's actually a vending machine at absolute zero, but it's somehow also a kitchen appliance designed by someone who only knows parking lots",
+      "novelty": 0.35762089490890503,
+      "iteration": 3968,
+      "theta": {
+        "seed": 300698,
+        "cfg_scale": 11.664814960860115,
+        "steps": 20,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3968.png"
+    },
+    {
+      "cell": [
+        14,
+        9
+      ],
+      "prompt": "a painting of a forest clearing, without symmetry, merged with pastoral meadow, but it's somehow also a kitchen appliance, with a 'for sale' sign, made of chitin",
+      "novelty": 0.3623463213443756,
+      "iteration": 580,
+      "theta": {
+        "seed": 345363,
+        "cfg_scale": 9.48126526420622,
+        "steps": 30,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_0580.png"
+    },
+    {
+      "cell": [
+        5,
+        1
+      ],
+      "prompt": "a romantic painting of a stormy sea, viewed from inside a black hole, with IKEA assembly instructions, devoid of life",
+      "novelty": 0.3435940742492676,
+      "iteration": 2292,
+      "theta": {
+        "seed": 761520,
+        "cfg_scale": 9.788809670568131,
+        "steps": 20,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2292.png"
+    },
+    {
+      "cell": [
+        3,
+        13
+      ],
+      "prompt": "joyfully melancholic parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, merged with rocky shore found inside a office printer",
+      "novelty": 0.415806382894516,
+      "iteration": 4140,
+      "theta": {
+        "seed": 377466,
+        "cfg_scale": 10.242916118682341,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4140.png"
+    },
+    {
+      "cell": [
+        9,
+        10
+      ],
+      "prompt": "ethereal hybrid of mountain vista and bridge",
+      "novelty": 0.6767505407333374,
+      "iteration": 4486,
+      "theta": {
+        "seed": 495788,
+        "cfg_scale": 7.628272080647842,
+        "steps": 25,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4486.png"
+    },
+    {
+      "cell": [
+        11,
+        10
+      ],
+      "prompt": "precisely chaotic a painting of a still life in snow, in the style of Corot, merged with flowers",
+      "novelty": 0.5669761896133423,
+      "iteration": 3574,
+      "theta": {
+        "seed": 352001,
+        "cfg_scale": 7.520242708811921,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3574.png"
+    },
+    {
+      "cell": [
+        8,
+        1
+      ],
+      "prompt": "uncomfortably beautiful joyfully melancholic a seascape painted from memory, but it's actually a highway overpass, from beyond the observable universe",
+      "novelty": 0.31932780146598816,
+      "iteration": 4810,
+      "theta": {
+        "seed": 327292,
+        "cfg_scale": 6.990635647346292,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4810.png"
+    },
+    {
+      "cell": [
+        9,
+        2
+      ],
+      "prompt": "silently deafening a romantic painting of a stormy sea, viewed from inside a black hole, serene and dissolving, hudson river school, mysterious and romantic",
+      "novelty": 0.3764614462852478,
+      "iteration": 4498,
+      "theta": {
+        "seed": 19114,
+        "cfg_scale": 8.186457040801539,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4498.png"
+    },
+    {
+      "cell": [
+        4,
+        12
+      ],
+      "prompt": "aggressively peaceful classical parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, formless yet structured, made of amber",
+      "novelty": 0.5194169282913208,
+      "iteration": 1249,
+      "theta": {
+        "seed": 425236,
+        "cfg_scale": 9.482202871265642,
+        "steps": 20,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1249.png"
+    },
+    {
+      "cell": [
+        13,
+        10
+      ],
+      "prompt": "a painting of a still life in snow, in the style of Corot, merged with flowers where matter phases through matter",
+      "novelty": 0.43092185258865356,
+      "iteration": 4766,
+      "theta": {
+        "seed": 347834,
+        "cfg_scale": 5.764399500303668,
+        "steps": 25,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4766.png"
+    },
+    {
+      "cell": [
+        12,
+        10
+      ],
+      "prompt": "in the style of Constable painting of a bridge",
+      "novelty": 0.4923095107078552,
+      "iteration": 4820,
+      "theta": {
+        "seed": 560037,
+        "cfg_scale": 7.718595129839859,
+        "steps": 30,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4820.png"
+    },
+    {
+      "cell": [
+        8,
+        10
+      ],
+      "prompt": "delicate hybrid of flowers and pastoral meadow, merged with trees",
+      "novelty": 0.7658325433731079,
+      "iteration": 3301,
+      "theta": {
+        "seed": 327505,
+        "cfg_scale": 6.839731617210972,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3301.png"
+    },
+    {
+      "cell": [
+        14,
+        10
+      ],
+      "prompt": "an impressionist landscape with trees, renaissance, undergoing entropy dissolution",
+      "novelty": 0.36902672052383423,
+      "iteration": 1576,
+      "theta": {
+        "seed": 626521,
+        "cfg_scale": 8.11920632598519,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1576.png"
+    },
+    {
+      "cell": [
+        13,
+        11
+      ],
+      "prompt": "an impressionist landscape with trees, renaissance, with IKEA assembly instructions, but it's somehow also a kitchen appliance at absolute zero, fusion of musical notation and topological spaces",
+      "novelty": 0.4016929268836975,
+      "iteration": 1538,
+      "theta": {
+        "seed": 866579,
+        "cfg_scale": 6.759274830870821,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1538.png"
+    },
+    {
+      "cell": [
+        0,
+        12
+      ],
+      "prompt": "intimately vast but it's actually a vending machine, post-, merged with still life, symbolism, with no straight lines where causality is reversed",
+      "novelty": 0.3585394620895386,
+      "iteration": 4994,
+      "theta": {
+        "seed": 349807,
+        "cfg_scale": 11.685928589014303,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4994.png"
+    },
+    {
+      "cell": [
+        14,
+        11
+      ],
+      "prompt": "timeless an impressionist landscape with trees, with IKEA assembly instructions, but it's somehow also a kitchen appliance, romanticism, merged with rocky shore",
+      "novelty": 0.3345004916191101,
+      "iteration": 3826,
+      "theta": {
+        "seed": 105688,
+        "cfg_scale": 5.229410080104646,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3826.png"
+    },
+    {
+      "cell": [
+        12,
+        12
+      ],
+      "prompt": "aggressively peaceful classical parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, formless yet structured, made of amber, following fibonacci spiral patterns",
+      "novelty": 0.4380250871181488,
+      "iteration": 4518,
+      "theta": {
+        "seed": 853375,
+        "cfg_scale": 10.301387982536475,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4518.png"
+    },
+    {
+      "cell": [
+        7,
+        1
+      ],
+      "prompt": "delicate a romantic painting of a stormy sea, viewed from inside a black hole, lacking color designed by someone who only knows storage closets",
+      "novelty": 0.36719202995300293,
+      "iteration": 1483,
+      "theta": {
+        "seed": 492074,
+        "cfg_scale": 8.22845588056258,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1483.png"
+    },
+    {
+      "cell": [
+        7,
+        12
+      ],
+      "prompt": "aggressively peaceful classical parking lot that dreams of being golden a painting of autumn interior scene by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, formless yet structured, made of amber",
+      "novelty": 0.5467606782913208,
+      "iteration": 3282,
+      "theta": {
+        "seed": 1115,
+        "cfg_scale": 5.64459738539632,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3282.png"
+    },
+    {
+      "cell": [
+        12,
+        11
+      ],
+      "prompt": "a painting of autumn village street by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, devoid of life at absolute zero found inside a school cafeteria, merged with ruins",
+      "novelty": 0.4434928894042969,
+      "iteration": 3315,
+      "theta": {
+        "seed": 946003,
+        "cfg_scale": 7.870830442626582,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3315.png"
+    },
+    {
+      "cell": [
+        2,
+        11
+      ],
+      "prompt": "but it's actually a vending machine, post-, made of circuit boards, baroque, as seen through x-ray crystallography",
+      "novelty": 0.5612739324569702,
+      "iteration": 2615,
+      "theta": {
+        "seed": 425003,
+        "cfg_scale": 11.836433454339618,
+        "steps": 20,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2615.png"
+    },
+    {
+      "cell": [
+        5,
+        10
+      ],
+      "prompt": "a classical interior scene with reflected light, fusion of ancient mythology and cybernetics, but it's somehow also a kitchen appliance",
+      "novelty": 0.7942556142807007,
+      "iteration": 1112,
+      "theta": {
+        "seed": 206387,
+        "cfg_scale": 5.47784119593188,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_1112.png"
+    },
+    {
+      "cell": [
+        3,
+        10
+      ],
+      "prompt": "distant but it's actually a vending machine, post-impressionism, made of circuit boards",
+      "novelty": 0.6073064208030701,
+      "iteration": 2091,
+      "theta": {
+        "seed": 587200,
+        "cfg_scale": 5.385950917500844,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2091.png"
+    },
+    {
+      "cell": [
+        7,
+        0
+      ],
+      "prompt": "silently deafening a romantic painting of a stormy sea, viewed from inside a black hole, serene and dissolving, hudson river school",
+      "novelty": 0.32491403818130493,
+      "iteration": 3803,
+      "theta": {
+        "seed": 973852,
+        "cfg_scale": 6.260694714170393,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3803.png"
+    },
+    {
+      "cell": [
+        6,
+        11
+      ],
+      "prompt": "filing cabinet that dreams of being an impressionist landscape with trees, renaissance, with IKEA assembly instructions, but it's somehow also a kitchen appliance at absolute zero, fusion of musical notation and topological spaces",
+      "novelty": 0.6662802696228027,
+      "iteration": 4633,
+      "theta": {
+        "seed": 794493,
+        "cfg_scale": 9.062725534925056,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4633.png"
+    },
+    {
+      "cell": [
+        11,
+        11
+      ],
+      "prompt": "a painting of a forest clearing, without symmetry, merged with serene meadow, fusion of neural networks and geological formations",
+      "novelty": 0.4916840195655823,
+      "iteration": 4017,
+      "theta": {
+        "seed": 792731,
+        "cfg_scale": 10.592452956288515,
+        "steps": 25
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4017.png"
+    },
+    {
+      "cell": [
+        4,
+        14
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, merged with still life, that feels like a dentist's waiting room, fusion of quantum mechanics and gothic architecture",
+      "novelty": 0.30357009172439575,
+      "iteration": 4210,
+      "theta": {
+        "seed": 826124,
+        "cfg_scale": 6.431815296544193,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_4210.png"
+    },
+    {
+      "cell": [
+        7,
+        13
+      ],
+      "prompt": "parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, merged with rocky shore, merged with cathedral",
+      "novelty": 0.435741126537323,
+      "iteration": 2125,
+      "theta": {
+        "seed": 889860,
+        "cfg_scale": 11.918364987869557,
+        "steps": 20,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_2125.png"
+    },
+    {
+      "cell": [
+        5,
+        14
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, devoid of life, that feels like a dentist's waiting room",
+      "novelty": 0.3951649069786072,
+      "iteration": 3073,
+      "theta": {
+        "seed": 136927,
+        "cfg_scale": 9.052887886536062,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3073.png"
+    },
+    {
+      "cell": [
+        10,
+        12
+      ],
+      "prompt": "a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, devoid of life where time flows backwards",
+      "novelty": 0.4964424967765808,
+      "iteration": 3938,
+      "theta": {
+        "seed": 418660,
+        "cfg_scale": 6.109745370398475,
+        "steps": 30
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3938.png"
+    },
+    {
+      "cell": [
+        10,
+        13
+      ],
+      "prompt": "violently serene aggressively peaceful classical parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, formless yet structured, made of amber, that smells like a new car",
+      "novelty": 0.37245434522628784,
+      "iteration": 3295,
+      "theta": {
+        "seed": 56619,
+        "cfg_scale": 8.02139289990275,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3295.png"
+    },
+    {
+      "cell": [
+        8,
+        14
+      ],
+      "prompt": "parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, formless yet structured, but it's actually a office printer",
+      "novelty": 0.37078794836997986,
+      "iteration": 3356,
+      "theta": {
+        "seed": 833046,
+        "cfg_scale": 8.115899780104133,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3356.png"
+    },
+    {
+      "cell": [
+        6,
+        14
+      ],
+      "prompt": "joyfully melancholic parking lot that dreams of being golden a painting of autumn trees by a lake, but it's actually a vending machine, post-impressionism, fusion of musical notation and topological spaces, merged with rocky shore",
+      "novelty": 0.39050373435020447,
+      "iteration": 3978,
+      "theta": {
+        "seed": 733192,
+        "cfg_scale": 5.290280050570713,
+        "steps": 20
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3978.png"
+    },
+    {
+      "cell": [
+        9,
+        12
+      ],
+      "prompt": "a painting of autumn still life by a lake, but it's actually a vending machine at the event horizon",
+      "novelty": 0.47418633103370667,
+      "iteration": 3955,
+      "theta": {
+        "seed": 587815,
+        "cfg_scale": 5.950441293226616,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/paper_mapelites_42948155/images/img_3955.png"
+    }
+  ]
+}

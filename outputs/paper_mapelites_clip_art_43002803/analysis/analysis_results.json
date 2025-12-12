@@ -1,0 +1,58 @@
+{
+  "config": {
+    "grid_size": 15,
+    "iterations": 5000,
+    "auto_axes": true,
+    "use_art_prompts": true,
+    "embedding_model": "clip"
+  },
+  "evolution": {
+    "num_cells_filled": 86,
+    "iteration_distribution": {
+      "early_quartile": 337.25,
+      "median": 1867.5,
+      "late_quartile": 3700.5,
+      "max": 4951
+    },
+    "novelty_iteration_correlation": 0.19053874422241962,
+    "avg_novelty_early": 0.2768195264561232,
+    "avg_novelty_late": 0.3166465679573458
+  },
+  "illumination": {
+    "avg_knn_distance_mean": 0.14694440364837646,
+    "avg_knn_distance_std": 0.056465525180101395,
+    "median_distance_percentile": 73.60000000000001,
+    "pct_above_75": 42.857142857142854,
+    "pct_above_90": 33.33333333333333
+  },
+  "offmanifold": {
+    "mahalanobis_mean": 26.651960372924805,
+    "mahalanobis_std": 6.5303239822387695,
+    "reconstruction_error_mean": 0.023179927840828896,
+    "knn_distance_mean": 0.14694440364837646,
+    "pct_high_mahal": 33.33333333333333
+  },
+  "correlations": {
+    "novelty_vs_mahalanobis": -0.15234461208147274,
+    "novelty_vs_knn_distance": -0.11178399163782493,
+    "novelty_vs_reconstruction_error": -0.15607900248228337
+  },
+  "top_alien_indices": [
+    16,
+    7,
+    19,
+    15,
+    4,
+    17,
+    20,
+    8,
+    3,
+    0,
+    12,
+    2,
+    10,
+    9,
+    5,
+    18
+  ]
+}

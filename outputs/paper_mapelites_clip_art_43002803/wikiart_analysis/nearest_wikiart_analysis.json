@@ -1,0 +1,646 @@
+{
+  "top_alien": [
+    {
+      "idx": 0,
+      "novelty": 1.0,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0000.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 27176,
+          "distance": 0.10400217771530151,
+          "style": "23"
+        },
+        {
+          "ref_idx": 38385,
+          "distance": 0.11178719997406006,
+          "style": "21"
+        },
+        {
+          "ref_idx": 24356,
+          "distance": 0.11370939016342163,
+          "style": "21"
+        },
+        {
+          "ref_idx": 38653,
+          "distance": 0.1137358546257019,
+          "style": "21"
+        },
+        {
+          "ref_idx": 44163,
+          "distance": 0.11859172582626343,
+          "style": "4"
+        }
+      ]
+    },
+    {
+      "idx": 64,
+      "novelty": 0.46736764907836914,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_2266.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 7906,
+          "distance": 0.12128090858459473,
+          "style": "24"
+        },
+        {
+          "ref_idx": 16522,
+          "distance": 0.12607526779174805,
+          "style": "24"
+        },
+        {
+          "ref_idx": 75047,
+          "distance": 0.1276998519897461,
+          "style": "3"
+        },
+        {
+          "ref_idx": 37287,
+          "distance": 0.1276998519897461,
+          "style": "24"
+        },
+        {
+          "ref_idx": 7537,
+          "distance": 0.13075780868530273,
+          "style": "24"
+        }
+      ]
+    },
+    {
+      "idx": 32,
+      "novelty": 0.43170565366744995,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3845.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 8428,
+          "distance": 0.11650872230529785,
+          "style": "12"
+        },
+        {
+          "ref_idx": 45858,
+          "distance": 0.12056589126586914,
+          "style": "12"
+        },
+        {
+          "ref_idx": 13416,
+          "distance": 0.12815356254577637,
+          "style": "12"
+        },
+        {
+          "ref_idx": 14958,
+          "distance": 0.12876832485198975,
+          "style": "12"
+        },
+        {
+          "ref_idx": 59323,
+          "distance": 0.13091373443603516,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 62,
+      "novelty": 0.42340612411499023,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3475.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 21760,
+          "distance": 0.19248640537261963,
+          "style": "21"
+        },
+        {
+          "ref_idx": 3989,
+          "distance": 0.19268429279327393,
+          "style": "21"
+        },
+        {
+          "ref_idx": 17949,
+          "distance": 0.20909720659255981,
+          "style": "21"
+        },
+        {
+          "ref_idx": 6418,
+          "distance": 0.2095513939857483,
+          "style": "21"
+        },
+        {
+          "ref_idx": 17823,
+          "distance": 0.2107400894165039,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 63,
+      "novelty": 0.42288026213645935,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3702.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 37997,
+          "distance": 0.12161916494369507,
+          "style": "20"
+        },
+        {
+          "ref_idx": 37862,
+          "distance": 0.12972307205200195,
+          "style": "20"
+        },
+        {
+          "ref_idx": 44137,
+          "distance": 0.13293713331222534,
+          "style": "12"
+        },
+        {
+          "ref_idx": 24970,
+          "distance": 0.13622528314590454,
+          "style": "12"
+        },
+        {
+          "ref_idx": 47836,
+          "distance": 0.13804471492767334,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 29,
+      "novelty": 0.4219159483909607,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4654.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 60366,
+          "distance": 0.10310226678848267,
+          "style": "12"
+        },
+        {
+          "ref_idx": 46911,
+          "distance": 0.1057361364364624,
+          "style": "10"
+        },
+        {
+          "ref_idx": 27270,
+          "distance": 0.10599750280380249,
+          "style": "10"
+        },
+        {
+          "ref_idx": 49621,
+          "distance": 0.10803830623626709,
+          "style": "3"
+        },
+        {
+          "ref_idx": 49501,
+          "distance": 0.10998415946960449,
+          "style": "3"
+        }
+      ]
+    },
+    {
+      "idx": 72,
+      "novelty": 0.40594568848609924,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3813.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 80873,
+          "distance": 0.13561773300170898,
+          "style": "19"
+        },
+        {
+          "ref_idx": 43606,
+          "distance": 0.14056050777435303,
+          "style": "9"
+        },
+        {
+          "ref_idx": 42254,
+          "distance": 0.1408843994140625,
+          "style": "19"
+        },
+        {
+          "ref_idx": 5047,
+          "distance": 0.14340513944625854,
+          "style": "24"
+        },
+        {
+          "ref_idx": 73288,
+          "distance": 0.146703839302063,
+          "style": "6"
+        }
+      ]
+    },
+    {
+      "idx": 61,
+      "novelty": 0.4028680920600891,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3630.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 60480,
+          "distance": 0.146243155002594,
+          "style": "21"
+        },
+        {
+          "ref_idx": 54058,
+          "distance": 0.1479412317276001,
+          "style": "22"
+        },
+        {
+          "ref_idx": 49369,
+          "distance": 0.14911895990371704,
+          "style": "21"
+        },
+        {
+          "ref_idx": 38653,
+          "distance": 0.1495133638381958,
+          "style": "21"
+        },
+        {
+          "ref_idx": 24179,
+          "distance": 0.14956450462341309,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 23,
+      "novelty": 0.39625802636146545,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_1035.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 69973,
+          "distance": 0.18249958753585815,
+          "style": "20"
+        },
+        {
+          "ref_idx": 19724,
+          "distance": 0.18429720401763916,
+          "style": "20"
+        },
+        {
+          "ref_idx": 38218,
+          "distance": 0.18575096130371094,
+          "style": "20"
+        },
+        {
+          "ref_idx": 11996,
+          "distance": 0.18595588207244873,
+          "style": "12"
+        },
+        {
+          "ref_idx": 70692,
+          "distance": 0.18824148178100586,
+          "style": "9"
+        }
+      ]
+    },
+    {
+      "idx": 76,
+      "novelty": 0.39352545142173767,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4706.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 28935,
+          "distance": 0.24849313497543335,
+          "style": "0"
+        },
+        {
+          "ref_idx": 61665,
+          "distance": 0.25255805253982544,
+          "style": "20"
+        },
+        {
+          "ref_idx": 75883,
+          "distance": 0.2602759599685669,
+          "style": "20"
+        },
+        {
+          "ref_idx": 68392,
+          "distance": 0.2620992660522461,
+          "style": "20"
+        },
+        {
+          "ref_idx": 24995,
+          "distance": 0.2660455107688904,
+          "style": "0"
+        }
+      ]
+    }
+  ],
+  "bottom_alien": [
+    {
+      "idx": 15,
+      "novelty": 0.1695074588060379,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0016.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 60640,
+          "distance": 0.10755109786987305,
+          "style": "23"
+        },
+        {
+          "ref_idx": 52467,
+          "distance": 0.11022919416427612,
+          "style": "23"
+        },
+        {
+          "ref_idx": 11398,
+          "distance": 0.11396372318267822,
+          "style": "21"
+        },
+        {
+          "ref_idx": 38364,
+          "distance": 0.11458587646484375,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59240,
+          "distance": 0.1165245771408081,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 51,
+      "novelty": 0.16324783861637115,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0407.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 17841,
+          "distance": 0.12137651443481445,
+          "style": "21"
+        },
+        {
+          "ref_idx": 22007,
+          "distance": 0.12595689296722412,
+          "style": "23"
+        },
+        {
+          "ref_idx": 60664,
+          "distance": 0.1277744174003601,
+          "style": "23"
+        },
+        {
+          "ref_idx": 26030,
+          "distance": 0.12875187397003174,
+          "style": "23"
+        },
+        {
+          "ref_idx": 61012,
+          "distance": 0.12930774688720703,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "novelty": 0.16121067106723785,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0003.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 19070,
+          "distance": 0.13098955154418945,
+          "style": "12"
+        },
+        {
+          "ref_idx": 71358,
+          "distance": 0.1316831111907959,
+          "style": "15"
+        },
+        {
+          "ref_idx": 45273,
+          "distance": 0.13320207595825195,
+          "style": "20"
+        },
+        {
+          "ref_idx": 50932,
+          "distance": 0.13464820384979248,
+          "style": "10"
+        },
+        {
+          "ref_idx": 51460,
+          "distance": 0.1358029842376709,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 44,
+      "novelty": 0.1608947515487671,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0177.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 6807,
+          "distance": 0.15725266933441162,
+          "style": "21"
+        },
+        {
+          "ref_idx": 2046,
+          "distance": 0.1646723747253418,
+          "style": "21"
+        },
+        {
+          "ref_idx": 6418,
+          "distance": 0.16926515102386475,
+          "style": "21"
+        },
+        {
+          "ref_idx": 7784,
+          "distance": 0.17333883047103882,
+          "style": "21"
+        },
+        {
+          "ref_idx": 50190,
+          "distance": 0.17846107482910156,
+          "style": "6"
+        }
+      ]
+    },
+    {
+      "idx": 49,
+      "novelty": 0.15448911488056183,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0248.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 77673,
+          "distance": 0.14501625299453735,
+          "style": "12"
+        },
+        {
+          "ref_idx": 77314,
+          "distance": 0.14691507816314697,
+          "style": "9"
+        },
+        {
+          "ref_idx": 50172,
+          "distance": 0.1548525094985962,
+          "style": "19"
+        },
+        {
+          "ref_idx": 76128,
+          "distance": 0.15616720914840698,
+          "style": "10"
+        },
+        {
+          "ref_idx": 59928,
+          "distance": 0.15848898887634277,
+          "style": "20"
+        }
+      ]
+    },
+    {
+      "idx": 17,
+      "novelty": 0.15172187983989716,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0019.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 28788,
+          "distance": 0.11009389162063599,
+          "style": "20"
+        },
+        {
+          "ref_idx": 35584,
+          "distance": 0.1197289228439331,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59240,
+          "distance": 0.13359183073043823,
+          "style": "23"
+        },
+        {
+          "ref_idx": 46562,
+          "distance": 0.13746756315231323,
+          "style": "21"
+        },
+        {
+          "ref_idx": 25978,
+          "distance": 0.1382516622543335,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 40,
+      "novelty": 0.14673757553100586,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0365.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 74264,
+          "distance": 0.20464330911636353,
+          "style": "15"
+        },
+        {
+          "ref_idx": 50172,
+          "distance": 0.21533089876174927,
+          "style": "19"
+        },
+        {
+          "ref_idx": 78387,
+          "distance": 0.22698533535003662,
+          "style": "10"
+        },
+        {
+          "ref_idx": 78819,
+          "distance": 0.2305024266242981,
+          "style": "9"
+        },
+        {
+          "ref_idx": 29724,
+          "distance": 0.231606125831604,
+          "style": "15"
+        }
+      ]
+    },
+    {
+      "idx": 20,
+      "novelty": 0.13280043005943298,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_0022.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 31590,
+          "distance": 0.10653454065322876,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59240,
+          "distance": 0.10828828811645508,
+          "style": "23"
+        },
+        {
+          "ref_idx": 60305,
+          "distance": 0.11478531360626221,
+          "style": "21"
+        },
+        {
+          "ref_idx": 61038,
+          "distance": 0.11482870578765869,
+          "style": "21"
+        },
+        {
+          "ref_idx": 6947,
+          "distance": 0.11517453193664551,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 80,
+      "novelty": 0.09966776520013809,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_4020.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 80873,
+          "distance": 0.14065074920654297,
+          "style": "19"
+        },
+        {
+          "ref_idx": 29649,
+          "distance": 0.14930057525634766,
+          "style": "19"
+        },
+        {
+          "ref_idx": 50172,
+          "distance": 0.15690970420837402,
+          "style": "19"
+        },
+        {
+          "ref_idx": 49175,
+          "distance": 0.15712034702301025,
+          "style": "0"
+        },
+        {
+          "ref_idx": 58114,
+          "distance": 0.15786892175674438,
+          "style": "20"
+        }
+      ]
+    },
+    {
+      "idx": 77,
+      "novelty": 0.09279663115739822,
+      "image_path": "outputs/paper_mapelites_clip_art_43002803/images/img_3865.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 60718,
+          "distance": 0.14491689205169678,
+          "style": "21"
+        },
+        {
+          "ref_idx": 13275,
+          "distance": 0.15098774433135986,
+          "style": "20"
+        },
+        {
+          "ref_idx": 30261,
+          "distance": 0.15246832370758057,
+          "style": "12"
+        },
+        {
+          "ref_idx": 13460,
+          "distance": 0.15498614311218262,
+          "style": "12"
+        },
+        {
+          "ref_idx": 1586,
+          "distance": 0.15650677680969238,
+          "style": "21"
+        }
+      ]
+    }
+  ]
+}

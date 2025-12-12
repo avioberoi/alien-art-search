@@ -1,0 +1,54 @@
+{
+  "experiment": "Expanded \u03b8 Search: Basic (3D) vs Expanded (7D)",
+  "date": "2025-12-05",
+  "job_id": 42744570,
+  "config": {
+    "iterations": 50,
+    "population": 6,
+    "total_images": 600,
+    "prompts": 4,
+    "basic_dims": [
+      "seed",
+      "cfg",
+      "steps"
+    ],
+    "expanded_dims": [
+      "seed",
+      "cfg",
+      "steps",
+      "eta",
+      "guidance_rescale",
+      "clip_skip",
+      "prompt_strength"
+    ]
+  },
+  "results": {
+    "basic_theta": {
+      "best_score": 0.8254949450492859,
+      "mean_score": 0.35625631147264497,
+      "std_score": 0.13261625555340714,
+      "archive_size": 300,
+      "diversity": 0.74866980471848,
+      "knn_distance": 1.1997384020991073,
+      "pca_range": 0.38917863368988037
+    },
+    "expanded_theta": {
+      "best_score": 0.8141460418701172,
+      "mean_score": 0.43581223129429664,
+      "std_score": 0.12478626270112285,
+      "archive_size": 300,
+      "diversity": 0.8605465259891725,
+      "knn_distance": 1.1908762533406458,
+      "pca_range": 0.45639193058013916
+    }
+  },
+  "comparison": {
+    "best_score_winner": "basic",
+    "mean_score_winner": "expanded",
+    "diversity_winner": "expanded",
+    "best_score_margin_pct": 1.393964055036112,
+    "mean_score_improvement_pct": 22.331090638870087,
+    "diversity_improvement_pct": 14.943399689100744
+  },
+  "conclusion": "Expanded \u03b8 provides higher mean scores (+22%), more diversity (+15%), and better coverage (+17%), though Basic \u03b8 found a slightly higher peak score (+1.4%). Internal diffusion controls DO open new regions of the manifold."
+}

@@ -1,0 +1,666 @@
+{
+  "most_novel": [
+    {
+      "idx": 0,
+      "novelty": 1.0,
+      "prompt": "a painting of a landscape",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0000.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 6969,
+          "distance": 0.2995796799659729,
+          "style": "12"
+        },
+        {
+          "ref_idx": 58984,
+          "distance": 0.31163352727890015,
+          "style": "20"
+        },
+        {
+          "ref_idx": 25570,
+          "distance": 0.31761419773101807,
+          "style": "12"
+        },
+        {
+          "ref_idx": 3736,
+          "distance": 0.31816238164901733,
+          "style": "23"
+        },
+        {
+          "ref_idx": 58669,
+          "distance": 0.3321916460990906,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 20,
+      "novelty": 0.9076055288314819,
+      "prompt": "a painting of a group cathedral interior",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0033.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 80469,
+          "distance": 0.33411484956741333,
+          "style": "23"
+        },
+        {
+          "ref_idx": 73502,
+          "distance": 0.3526535630226135,
+          "style": "21"
+        },
+        {
+          "ref_idx": 71229,
+          "distance": 0.37437713146209717,
+          "style": "23"
+        },
+        {
+          "ref_idx": 73553,
+          "distance": 0.40131676197052,
+          "style": "23"
+        },
+        {
+          "ref_idx": 52808,
+          "distance": 0.42814844846725464,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 22,
+      "novelty": 0.8962748646736145,
+      "prompt": "a misty morning flowers in vase",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0167.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 12864,
+          "distance": 0.25066637992858887,
+          "style": "24"
+        },
+        {
+          "ref_idx": 60155,
+          "distance": 0.2693749666213989,
+          "style": "24"
+        },
+        {
+          "ref_idx": 60356,
+          "distance": 0.27995729446411133,
+          "style": "24"
+        },
+        {
+          "ref_idx": 3988,
+          "distance": 0.28178882598876953,
+          "style": "24"
+        },
+        {
+          "ref_idx": 34096,
+          "distance": 0.28367865085601807,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 42,
+      "novelty": 0.8783711194992065,
+      "prompt": "a portrait with rocky shore",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0075.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 59250,
+          "distance": 0.20554161071777344,
+          "style": "21"
+        },
+        {
+          "ref_idx": 10437,
+          "distance": 0.21304422616958618,
+          "style": "12"
+        },
+        {
+          "ref_idx": 61150,
+          "distance": 0.2163676619529724,
+          "style": "12"
+        },
+        {
+          "ref_idx": 37816,
+          "distance": 0.22693181037902832,
+          "style": "12"
+        },
+        {
+          "ref_idx": 17177,
+          "distance": 0.22894036769866943,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 16,
+      "novelty": 0.852222740650177,
+      "prompt": "a classical landscape with ruins, expressionism",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0042.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 16333,
+          "distance": 0.31639212369918823,
+          "style": "24"
+        },
+        {
+          "ref_idx": 10397,
+          "distance": 0.3209529519081116,
+          "style": "24"
+        },
+        {
+          "ref_idx": 16654,
+          "distance": 0.34703516960144043,
+          "style": "24"
+        },
+        {
+          "ref_idx": 4087,
+          "distance": 0.3501991629600525,
+          "style": "24"
+        },
+        {
+          "ref_idx": 16670,
+          "distance": 0.35636866092681885,
+          "style": "24"
+        }
+      ]
+    },
+    {
+      "idx": 36,
+      "novelty": 0.8359597325325012,
+      "prompt": "golden painting blending seascape and ancient bridge at midnight",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0076.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 59005,
+          "distance": 0.1912110447883606,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59762,
+          "distance": 0.19974613189697266,
+          "style": "4"
+        },
+        {
+          "ref_idx": 21821,
+          "distance": 0.22664350271224976,
+          "style": "21"
+        },
+        {
+          "ref_idx": 25695,
+          "distance": 0.22683149576187134,
+          "style": "21"
+        },
+        {
+          "ref_idx": 58818,
+          "distance": 0.23363876342773438,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 66,
+      "novelty": 0.8356374502182007,
+      "prompt": "a group portrait with rocky shore",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0154.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 35508,
+          "distance": 0.2561454176902771,
+          "style": "23"
+        },
+        {
+          "ref_idx": 21961,
+          "distance": 0.28882044553756714,
+          "style": "3"
+        },
+        {
+          "ref_idx": 60511,
+          "distance": 0.303372859954834,
+          "style": "21"
+        },
+        {
+          "ref_idx": 19162,
+          "distance": 0.3054770231246948,
+          "style": "21"
+        },
+        {
+          "ref_idx": 21554,
+          "distance": 0.307667076587677,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 41,
+      "novelty": 0.8341588973999023,
+      "prompt": "emerging a painting of a figure study",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0073.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 7282,
+          "distance": 0.3321390151977539,
+          "style": "21"
+        },
+        {
+          "ref_idx": 25238,
+          "distance": 0.35496068000793457,
+          "style": "20"
+        },
+        {
+          "ref_idx": 16994,
+          "distance": 0.3619922399520874,
+          "style": "12"
+        },
+        {
+          "ref_idx": 54289,
+          "distance": 0.36274051666259766,
+          "style": "4"
+        },
+        {
+          "ref_idx": 35634,
+          "distance": 0.36319756507873535,
+          "style": "20"
+        }
+      ]
+    },
+    {
+      "idx": 31,
+      "novelty": 0.8049627542495728,
+      "prompt": "golden painting blending seascape and ancient bridge",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0052.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 6947,
+          "distance": 0.4220433831214905,
+          "style": "21"
+        },
+        {
+          "ref_idx": 17904,
+          "distance": 0.4418882131576538,
+          "style": "21"
+        },
+        {
+          "ref_idx": 17049,
+          "distance": 0.44525718688964844,
+          "style": "20"
+        },
+        {
+          "ref_idx": 27391,
+          "distance": 0.4590699076652527,
+          "style": "21"
+        },
+        {
+          "ref_idx": 17827,
+          "distance": 0.463747501373291,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 72,
+      "novelty": 0.8024625778198242,
+      "prompt": "a painting of a group cathedral interior, pre-raphaelite",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0206.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 73475,
+          "distance": 0.2211434245109558,
+          "style": "4"
+        },
+        {
+          "ref_idx": 26030,
+          "distance": 0.25595909357070923,
+          "style": "23"
+        },
+        {
+          "ref_idx": 58189,
+          "distance": 0.2773131728172302,
+          "style": "21"
+        },
+        {
+          "ref_idx": 30084,
+          "distance": 0.31578123569488525,
+          "style": "23"
+        },
+        {
+          "ref_idx": 58097,
+          "distance": 0.31707334518432617,
+          "style": "21"
+        }
+      ]
+    }
+  ],
+  "least_novel": [
+    {
+      "idx": 63,
+      "novelty": 0.4150998592376709,
+      "prompt": "atmospheric a painting of a group rocky shore",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0134.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 77329,
+          "distance": 0.37293553352355957,
+          "style": "20"
+        },
+        {
+          "ref_idx": 74926,
+          "distance": 0.37603694200515747,
+          "style": "21"
+        },
+        {
+          "ref_idx": 77123,
+          "distance": 0.3787408471107483,
+          "style": "21"
+        },
+        {
+          "ref_idx": 71777,
+          "distance": 0.3845086097717285,
+          "style": "21"
+        },
+        {
+          "ref_idx": 78260,
+          "distance": 0.3890731930732727,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 26,
+      "novelty": 0.3885815143585205,
+      "prompt": "an impressionist landscape with trees, in the style of Corot, with a sense of solitude",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0046.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 25281,
+          "distance": 0.2872852683067322,
+          "style": "12"
+        },
+        {
+          "ref_idx": 17350,
+          "distance": 0.30733007192611694,
+          "style": "12"
+        },
+        {
+          "ref_idx": 52117,
+          "distance": 0.30771404504776,
+          "style": "21"
+        },
+        {
+          "ref_idx": 4284,
+          "distance": 0.3108147978782654,
+          "style": "20"
+        },
+        {
+          "ref_idx": 23912,
+          "distance": 0.314117431640625,
+          "style": "9"
+        }
+      ]
+    },
+    {
+      "idx": 47,
+      "novelty": 0.37677404284477234,
+      "prompt": "dreamlike a painting of autumn trees by a lake, in the style of Corot, with mysterious depth, under clear blue skies",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0082.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 29837,
+          "distance": 0.2923928499221802,
+          "style": "20"
+        },
+        {
+          "ref_idx": 50585,
+          "distance": 0.30624449253082275,
+          "style": "12"
+        },
+        {
+          "ref_idx": 6195,
+          "distance": 0.30948328971862793,
+          "style": "23"
+        },
+        {
+          "ref_idx": 7399,
+          "distance": 0.31356745958328247,
+          "style": "20"
+        },
+        {
+          "ref_idx": 24878,
+          "distance": 0.31987255811691284,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 73,
+      "novelty": 0.3722449839115143,
+      "prompt": "a painting of a sunset over mountains at midnight, in the style of Corot, with a sense of solitude",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0210.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 16637,
+          "distance": 0.25940805673599243,
+          "style": "24"
+        },
+        {
+          "ref_idx": 16536,
+          "distance": 0.2731815576553345,
+          "style": "24"
+        },
+        {
+          "ref_idx": 9491,
+          "distance": 0.27386653423309326,
+          "style": "3"
+        },
+        {
+          "ref_idx": 59875,
+          "distance": 0.2761625051498413,
+          "style": "21"
+        },
+        {
+          "ref_idx": 23736,
+          "distance": 0.2838451862335205,
+          "style": "23"
+        }
+      ]
+    },
+    {
+      "idx": 97,
+      "novelty": 0.371227502822876,
+      "prompt": "vibrant a misty morning landscape",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0447.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 13771,
+          "distance": 0.4883948564529419,
+          "style": "12"
+        },
+        {
+          "ref_idx": 13767,
+          "distance": 0.5257503986358643,
+          "style": "12"
+        },
+        {
+          "ref_idx": 11931,
+          "distance": 0.5317642688751221,
+          "style": "12"
+        },
+        {
+          "ref_idx": 49445,
+          "distance": 0.5586085915565491,
+          "style": "10"
+        },
+        {
+          "ref_idx": 59758,
+          "distance": 0.5612218379974365,
+          "style": "18"
+        }
+      ]
+    },
+    {
+      "idx": 62,
+      "novelty": 0.3665766716003418,
+      "prompt": "a painting of a portrait, a painting of a sunset over mountains, with serene stillness",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0133.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 38733,
+          "distance": 0.19771045446395874,
+          "style": "9"
+        },
+        {
+          "ref_idx": 27383,
+          "distance": 0.24107682704925537,
+          "style": "9"
+        },
+        {
+          "ref_idx": 30888,
+          "distance": 0.2441781759262085,
+          "style": "24"
+        },
+        {
+          "ref_idx": 44999,
+          "distance": 0.2692108154296875,
+          "style": "9"
+        },
+        {
+          "ref_idx": 50258,
+          "distance": 0.27790188789367676,
+          "style": "20"
+        }
+      ]
+    },
+    {
+      "idx": 70,
+      "novelty": 0.36308836936950684,
+      "prompt": "a painting of a river valley, with melancholic beauty",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0192.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 17945,
+          "distance": 0.5113305449485779,
+          "style": "21"
+        },
+        {
+          "ref_idx": 13650,
+          "distance": 0.5285224914550781,
+          "style": "12"
+        },
+        {
+          "ref_idx": 39094,
+          "distance": 0.5285863876342773,
+          "style": "12"
+        },
+        {
+          "ref_idx": 10266,
+          "distance": 0.5381838083267212,
+          "style": "12"
+        },
+        {
+          "ref_idx": 9989,
+          "distance": 0.5729130506515503,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 75,
+      "novelty": 0.35757073760032654,
+      "prompt": "a painting of a river valley, with layered planes, in the style of Turner, with dramatic tension",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0215.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 76878,
+          "distance": 0.37839895486831665,
+          "style": "20"
+        },
+        {
+          "ref_idx": 73473,
+          "distance": 0.3808191418647766,
+          "style": "24"
+        },
+        {
+          "ref_idx": 27770,
+          "distance": 0.3845304846763611,
+          "style": "20"
+        },
+        {
+          "ref_idx": 20608,
+          "distance": 0.386232852935791,
+          "style": "12"
+        },
+        {
+          "ref_idx": 48450,
+          "distance": 0.3929481506347656,
+          "style": "12"
+        }
+      ]
+    },
+    {
+      "idx": 68,
+      "novelty": 0.3519994020462036,
+      "prompt": "a painting of a sunset over mountains , in the style of corot under moonlight",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0168.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 38350,
+          "distance": 0.3164975643157959,
+          "style": "21"
+        },
+        {
+          "ref_idx": 58679,
+          "distance": 0.3240986466407776,
+          "style": "23"
+        },
+        {
+          "ref_idx": 9545,
+          "distance": 0.3262588381767273,
+          "style": "12"
+        },
+        {
+          "ref_idx": 46003,
+          "distance": 0.3303412199020386,
+          "style": "12"
+        },
+        {
+          "ref_idx": 45873,
+          "distance": 0.3349418044090271,
+          "style": "21"
+        }
+      ]
+    },
+    {
+      "idx": 91,
+      "novelty": 0.3252922296524048,
+      "prompt": "a painting of a river valley, with layered planes, , watercolor, in the style of Monet",
+      "image_path": "outputs/paper_mapelites_art_42964578/images/img_0394.png",
+      "nearest_wikiart": [
+        {
+          "ref_idx": 37777,
+          "distance": 0.34702491760253906,
+          "style": "12"
+        },
+        {
+          "ref_idx": 44364,
+          "distance": 0.3942638635635376,
+          "style": "12"
+        },
+        {
+          "ref_idx": 58862,
+          "distance": 0.40413159132003784,
+          "style": "20"
+        },
+        {
+          "ref_idx": 59858,
+          "distance": 0.4069526791572571,
+          "style": "21"
+        },
+        {
+          "ref_idx": 59788,
+          "distance": 0.40816307067871094,
+          "style": "12"
+        }
+      ]
+    }
+  ]
+}

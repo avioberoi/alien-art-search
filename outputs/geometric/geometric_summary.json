@@ -1,0 +1,42 @@
+{
+  "mahalanobis": {
+    "random": 44.2858772277832,
+    "cma": 42.96036911010742,
+    "map_elites": 59.25389099121094
+  },
+  "mahalanobis_percentile": {
+    "random": 99.09819999999999,
+    "cma": 98.69625,
+    "map_elites": 99.96235294117646
+  },
+  "knn_distance": {
+    "random": 0.6085245609283447,
+    "cma": 0.5914909839630127,
+    "map_elites": 0.8134745955467224
+  },
+  "knn_percentile": {
+    "random": 98.664,
+    "cma": 98.17666666666666,
+    "map_elites": 99.92470588235294
+  },
+  "low_pc_magnitude": {
+    "random": 0.036103636026382446,
+    "cma": 0.03739515319466591,
+    "map_elites": 0.06462457031011581
+  },
+  "low_pc_percentile": {
+    "random": 96.2877,
+    "cma": 97.94833333333334,
+    "map_elites": 99.97549019607843
+  },
+  "reconstruction_error": {
+    "random": 0.15095581114292145,
+    "cma": 0.14209406077861786,
+    "map_elites": 0.31600308418273926
+  },
+  "combined_score": {
+    "random": 0.978804525398496,
+    "cma": 0.9823694890810591,
+    "map_elites": 0.999540155452346
+  }
+}

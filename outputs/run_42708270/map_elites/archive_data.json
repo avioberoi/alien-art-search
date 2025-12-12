@@ -1,0 +1,1620 @@
+{
+  "config": {
+    "grid_size": 12,
+    "iterations": 500,
+    "auto_axes": true
+  },
+  "stats": {
+    "coverage": 0.7083333333333334,
+    "num_elites": 102,
+    "novelty_mean": 0.5612660592750591
+  },
+  "elites": [
+    {
+      "cell": [
+        1,
+        10
+      ],
+      "prompt": "alien landscape with impossible geometry",
+      "novelty": 1.0,
+      "iteration": 0,
+      "theta": {
+        "seed": 627203,
+        "cfg_scale": 10.612350514166494,
+        "steps": 20,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0000.png"
+    },
+    {
+      "cell": [
+        1,
+        11
+      ],
+      "prompt": "precisely chaotic the back of a refrigerator dreaming of infinity, Zdzis\u0142aw Beksi\u0144ski, as remembered by a dying star",
+      "novelty": 0.6269049346446991,
+      "iteration": 136,
+      "theta": {
+        "seed": 771470,
+        "cfg_scale": 10.653833470617291,
+        "steps": 30,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0136.png"
+    },
+    {
+      "cell": [
+        2,
+        10
+      ],
+      "prompt": "dentist waiting room made of living coral where gravity pulls sideways",
+      "novelty": 0.9574962481856346,
+      "iteration": 2,
+      "theta": {
+        "seed": 948679,
+        "cfg_scale": 10.612350514166494,
+        "steps": 20,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0002.png"
+    },
+    {
+      "cell": [
+        6,
+        6
+      ],
+      "prompt": "the back of a refrigerator dreaming of infinity, Zdzis\u0142aw Beksi\u0144ski",
+      "novelty": 0.9399662353098392,
+      "iteration": 3,
+      "theta": {
+        "seed": 704375,
+        "cfg_scale": 10.612350514166494,
+        "steps": 20
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0003.png"
+    },
+    {
+      "cell": [
+        0,
+        6
+      ],
+      "prompt": "uncomfortably beautiful parking lot at the edge of reality",
+      "novelty": 0.9459849037230015,
+      "iteration": 4,
+      "theta": {
+        "seed": 351767,
+        "cfg_scale": 10.612350514166494,
+        "steps": 20,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0004.png"
+    },
+    {
+      "cell": [
+        4,
+        10
+      ],
+      "prompt": "office cubicle that is secretly a portal between dimensions",
+      "novelty": 0.7992437481880188,
+      "iteration": 5,
+      "theta": {
+        "seed": 935323,
+        "cfg_scale": 10.612350514166494,
+        "steps": 20,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0005.png"
+    },
+    {
+      "cell": [
+        5,
+        5
+      ],
+      "prompt": "intimately vast grocery store floating in void, surrealist painting",
+      "novelty": 0.9107629358768463,
+      "iteration": 6,
+      "theta": {
+        "seed": 2218,
+        "cfg_scale": 10.612350514166494,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0006.png"
+    },
+    {
+      "cell": [
+        8,
+        9
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light",
+      "novelty": 0.7908080518245697,
+      "iteration": 7,
+      "theta": {
+        "seed": 402036,
+        "cfg_scale": 10.612350514166494,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0007.png"
+    },
+    {
+      "cell": [
+        2,
+        9
+      ],
+      "prompt": "fractal cathedral in non-Euclidean space, but it's actually a airport terminal",
+      "novelty": 0.898968018591404,
+      "iteration": 8,
+      "theta": {
+        "seed": 544479,
+        "cfg_scale": 9.855045459422378,
+        "steps": 25,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0008.png"
+    },
+    {
+      "cell": [
+        5,
+        7
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, merged with landscape, rendered as a phase diagram",
+      "novelty": 0.4389841556549072,
+      "iteration": 284,
+      "theta": {
+        "seed": 84379,
+        "cfg_scale": 7.687958420549389,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0284.png"
+    },
+    {
+      "cell": [
+        5,
+        1
+      ],
+      "prompt": "transparent dentist waiting room made of living coral where gravity pulls sideways",
+      "novelty": 0.5007394254207611,
+      "iteration": 10,
+      "theta": {
+        "seed": 36201,
+        "cfg_scale": 9.855045459422378,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0010.png"
+    },
+    {
+      "cell": [
+        1,
+        2
+      ],
+      "prompt": "dentist waiting room made of hyperdimensional coral in non-Euclidean space",
+      "novelty": 0.6451845169067383,
+      "iteration": 206,
+      "theta": {
+        "seed": 478034,
+        "cfg_scale": 5.970651730110534,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0206.png"
+    },
+    {
+      "cell": [
+        11,
+        6
+      ],
+      "prompt": "uncomfortably beautiful parking lot at the edge of reality, fusion of ancient mythology and cybernetics",
+      "novelty": 0.6009304523468018,
+      "iteration": 12,
+      "theta": {
+        "seed": 344502,
+        "cfg_scale": 9.855045459422378,
+        "steps": 25,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0012.png"
+    },
+    {
+      "cell": [
+        8,
+        6
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, inverted and fractal in inverted colors",
+      "novelty": 0.38835930824279785,
+      "iteration": 242,
+      "theta": {
+        "seed": 983485,
+        "cfg_scale": 8.890941820683437,
+        "steps": 20,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0242.png"
+    },
+    {
+      "cell": [
+        2,
+        8
+      ],
+      "prompt": "alien landscape with impossible geometry, witnessed by probability itself",
+      "novelty": 0.8676449805498123,
+      "iteration": 14,
+      "theta": {
+        "seed": 848510,
+        "cfg_scale": 9.855045459422378,
+        "steps": 25,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0014.png"
+    },
+    {
+      "cell": [
+        10,
+        3
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light where time flows backwards",
+      "novelty": 0.14790695905685425,
+      "iteration": 15,
+      "theta": {
+        "seed": 117364,
+        "cfg_scale": 9.855045459422378,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0015.png"
+    },
+    {
+      "cell": [
+        5,
+        3
+      ],
+      "prompt": "transparent dentist waiting room made of living coral where gravity pulls sideways, Hieronymus Bosch",
+      "novelty": 0.6710377037525177,
+      "iteration": 16,
+      "theta": {
+        "seed": 683813,
+        "cfg_scale": 11.13273772437999,
+        "steps": 30,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0016.png"
+    },
+    {
+      "cell": [
+        5,
+        6
+      ],
+      "prompt": "intimately vast uncomfortably beautiful parking lot at the edge of reality, fusion of ancient mythology and cybernetics",
+      "novelty": 0.4553835988044739,
+      "iteration": 17,
+      "theta": {
+        "seed": 254997,
+        "cfg_scale": 11.13273772437999,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0017.png"
+    },
+    {
+      "cell": [
+        9,
+        11
+      ],
+      "prompt": "ceiling fan that is also a hyperdimensional portal",
+      "novelty": 0.9376996271312237,
+      "iteration": 18,
+      "theta": {
+        "seed": 985092,
+        "cfg_scale": 11.13273772437999,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0018.png"
+    },
+    {
+      "cell": [
+        10,
+        10
+      ],
+      "prompt": "impossibly familiar stairwell descending into another dimension",
+      "novelty": 0.9051451608538628,
+      "iteration": 19,
+      "theta": {
+        "seed": 110399,
+        "cfg_scale": 11.13273772437999,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0019.png"
+    },
+    {
+      "cell": [
+        2,
+        6
+      ],
+      "prompt": "fusion of ancient mythology and cybernetics",
+      "novelty": 0.9387404322624207,
+      "iteration": 21,
+      "theta": {
+        "seed": 826710,
+        "cfg_scale": 11.13273772437999,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0021.png"
+    },
+    {
+      "cell": [
+        2,
+        5
+      ],
+      "prompt": "office printer dreaming of being a temple",
+      "novelty": 0.896285854279995,
+      "iteration": 23,
+      "theta": {
+        "seed": 721207,
+        "cfg_scale": 11.13273772437999,
+        "steps": 30,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0023.png"
+    },
+    {
+      "cell": [
+        2,
+        7
+      ],
+      "prompt": "celestial airport terminal before time began, Zdzis\u0142aw Beksi\u0144ski",
+      "novelty": 0.7977550178766251,
+      "iteration": 35,
+      "theta": {
+        "seed": 301307,
+        "cfg_scale": 7.118123540792562,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0035.png"
+    },
+    {
+      "cell": [
+        7,
+        6
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light where time flows backwards found inside a bathroom tile",
+      "novelty": 0.498041033744812,
+      "iteration": 26,
+      "theta": {
+        "seed": 620469,
+        "cfg_scale": 11.56297508792461,
+        "steps": 20,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0026.png"
+    },
+    {
+      "cell": [
+        1,
+        4
+      ],
+      "prompt": "dentist waiting room made of hyperdimensional coral where gravity pulls sideways",
+      "novelty": 0.4906501770019531,
+      "iteration": 28,
+      "theta": {
+        "seed": 161111,
+        "cfg_scale": 11.56297508792461,
+        "steps": 20
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0028.png"
+    },
+    {
+      "cell": [
+        2,
+        3
+      ],
+      "prompt": "garden that is also a observatory",
+      "novelty": 0.8446277976036072,
+      "iteration": 146,
+      "theta": {
+        "seed": 446666,
+        "cfg_scale": 7.575308600445316,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0146.png"
+    },
+    {
+      "cell": [
+        1,
+        1
+      ],
+      "prompt": "the back of a refrigerator dreaming of infinity, Zdzis\u0142aw Beksi\u0144ski, as remembered by a dying star, fusion of fluid dynamics and crystalline structures",
+      "novelty": 0.7279154360294342,
+      "iteration": 112,
+      "theta": {
+        "seed": 182472,
+        "cfg_scale": 8.046335059339466,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0112.png"
+    },
+    {
+      "cell": [
+        4,
+        6
+      ],
+      "prompt": "intimately vast grocery store floating in void, surrealist painting, obeying non-commutative geometry",
+      "novelty": 0.4981822967529297,
+      "iteration": 32,
+      "theta": {
+        "seed": 952773,
+        "cfg_scale": 7.118123540792562,
+        "steps": 25,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0032.png"
+    },
+    {
+      "cell": [
+        4,
+        5
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile",
+      "novelty": 0.7053975164890289,
+      "iteration": 33,
+      "theta": {
+        "seed": 738086,
+        "cfg_scale": 7.118123540792562,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0033.png"
+    },
+    {
+      "cell": [
+        11,
+        5
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light, made of plasma",
+      "novelty": 0.17420315742492676,
+      "iteration": 177,
+      "theta": {
+        "seed": 574177,
+        "cfg_scale": 5.775967875379435,
+        "steps": 20,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0177.png"
+    },
+    {
+      "cell": [
+        9,
+        6
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, inverted and fractal",
+      "novelty": 0.34307122230529785,
+      "iteration": 127,
+      "theta": {
+        "seed": 291835,
+        "cfg_scale": 11.759925595496178,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0127.png"
+    },
+    {
+      "cell": [
+        1,
+        8
+      ],
+      "prompt": "ethereal forest disguised as a dentist waiting room",
+      "novelty": 0.6751251220703125,
+      "iteration": 92,
+      "theta": {
+        "seed": 477947,
+        "cfg_scale": 10.512622237368177,
+        "steps": 25,
+        "negative_prompt": "sci-fi, space, cosmic, nebula, galaxy, stars"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0092.png"
+    },
+    {
+      "cell": [
+        3,
+        4
+      ],
+      "prompt": "laundry basket that is secretly a library",
+      "novelty": 0.8837250247597694,
+      "iteration": 54,
+      "theta": {
+        "seed": 900190,
+        "cfg_scale": 11.187104614783458,
+        "steps": 25,
+        "negative_prompt": "purple glow, blue glow, neon, futuristic lighting"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0054.png"
+    },
+    {
+      "cell": [
+        2,
+        4
+      ],
+      "prompt": "comfortingly disturbing fractal cathedral in non-Euclidean space, but it's actually a office cubicle",
+      "novelty": 0.7489081025123596,
+      "iteration": 42,
+      "theta": {
+        "seed": 630952,
+        "cfg_scale": 11.384717951312087,
+        "steps": 30,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0042.png"
+    },
+    {
+      "cell": [
+        5,
+        4
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, inverted and fractal, without perspective, merged with landscape",
+      "novelty": 0.4801669716835022,
+      "iteration": 417,
+      "theta": {
+        "seed": 228153,
+        "cfg_scale": 10.120234758040414,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0417.png"
+    },
+    {
+      "cell": [
+        3,
+        3
+      ],
+      "prompt": "parasitic observatory made of vines where gravity pulls sideways",
+      "novelty": 0.8802124336361885,
+      "iteration": 48,
+      "theta": {
+        "seed": 468549,
+        "cfg_scale": 11.187104614783458,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0048.png"
+    },
+    {
+      "cell": [
+        10,
+        5
+      ],
+      "prompt": "uncomfortably beautiful vending machine containing a living ecosystem made of light, without recognizable forms",
+      "novelty": 0.24548965692520142,
+      "iteration": 224,
+      "theta": {
+        "seed": 303444,
+        "cfg_scale": 5.638044560197131,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0224.png"
+    },
+    {
+      "cell": [
+        2,
+        2
+      ],
+      "prompt": "subterranean nest, art nouveau, merged with cityscape, in the style of a corporate PowerPoint",
+      "novelty": 0.8377728909254074,
+      "iteration": 152,
+      "theta": {
+        "seed": 926356,
+        "cfg_scale": 10.831055394145453,
+        "steps": 25,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0152.png"
+    },
+    {
+      "cell": [
+        1,
+        5
+      ],
+      "prompt": "dentist waiting room made of living coral where gravity pulls sideways found inside a vending machine",
+      "novelty": 0.5353712141513824,
+      "iteration": 150,
+      "theta": {
+        "seed": 87146,
+        "cfg_scale": 7.575308600445316,
+        "steps": 25,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0150.png"
+    },
+    {
+      "cell": [
+        1,
+        7
+      ],
+      "prompt": "petrified office cubicle that is secretly a portal between dimensions, Roger Dean, merged with engine",
+      "novelty": 0.5367220640182495,
+      "iteration": 58,
+      "theta": {
+        "seed": 428687,
+        "cfg_scale": 10.148823499698612,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0058.png"
+    },
+    {
+      "cell": [
+        2,
+        1
+      ],
+      "prompt": "subterranean nest",
+      "novelty": 0.8303160071372986,
+      "iteration": 60,
+      "theta": {
+        "seed": 309279,
+        "cfg_scale": 10.148823499698612,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0060.png"
+    },
+    {
+      "cell": [
+        9,
+        5
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light, without recognizable forms, fusion of quantum mechanics and gothic architecture",
+      "novelty": 0.24451595544815063,
+      "iteration": 61,
+      "theta": {
+        "seed": 144343,
+        "cfg_scale": 10.148823499698612,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0061.png"
+    },
+    {
+      "cell": [
+        3,
+        2
+      ],
+      "prompt": "comfortingly disturbing fractal cathedral in non-Euclidean space, but it's actually a office cubicle, fusion of microscopic organisms and cosmic structures",
+      "novelty": 0.8269550055265427,
+      "iteration": 237,
+      "theta": {
+        "seed": 238941,
+        "cfg_scale": 7.985389325952252,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0237.png"
+    },
+    {
+      "cell": [
+        0,
+        10
+      ],
+      "prompt": "office cubicle that is secretly a portal between dimensions, fossilized and ancient",
+      "novelty": 0.16095024347305298,
+      "iteration": 212,
+      "theta": {
+        "seed": 278875,
+        "cfg_scale": 11.58941388443679,
+        "steps": 25,
+        "negative_prompt": "crystal, crystalline, gems, jewels, faceted"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0212.png"
+    },
+    {
+      "cell": [
+        4,
+        2
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light, Hieronymus Bosch",
+      "novelty": 0.654876172542572,
+      "iteration": 68,
+      "theta": {
+        "seed": 546876,
+        "cfg_scale": 8.33884162128926,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0068.png"
+    },
+    {
+      "cell": [
+        1,
+        3
+      ],
+      "prompt": "anciently modern the back of a refrigerator dreaming of infinity, Zdzis\u0142aw Beksi\u0144ski",
+      "novelty": 0.7640576660633087,
+      "iteration": 73,
+      "theta": {
+        "seed": 904638,
+        "cfg_scale": 11.313138100872234,
+        "steps": 30,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0073.png"
+    },
+    {
+      "cell": [
+        2,
+        0
+      ],
+      "prompt": "subterranean nest, art nouveau",
+      "novelty": 0.7339465320110321,
+      "iteration": 74,
+      "theta": {
+        "seed": 155341,
+        "cfg_scale": 11.313138100872234,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0074.png"
+    },
+    {
+      "cell": [
+        10,
+        4
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, merged with landscape",
+      "novelty": 0.24320286512374878,
+      "iteration": 77,
+      "theta": {
+        "seed": 371304,
+        "cfg_scale": 11.313138100872234,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0077.png"
+    },
+    {
+      "cell": [
+        6,
+        3
+      ],
+      "prompt": "impossibly familiar vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile",
+      "novelty": 0.6061541736125946,
+      "iteration": 157,
+      "theta": {
+        "seed": 464535,
+        "cfg_scale": 10.831055394145453,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0157.png"
+    },
+    {
+      "cell": [
+        4,
+        8
+      ],
+      "prompt": "uncomfortably beautiful parking lot at the edge of reality, but it's somehow also a kitchen appliance",
+      "novelty": 0.7938645035028458,
+      "iteration": 392,
+      "theta": {
+        "seed": 823794,
+        "cfg_scale": 11.556977743195453,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0392.png"
+    },
+    {
+      "cell": [
+        9,
+        7
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms",
+      "novelty": 0.32368314266204834,
+      "iteration": 81,
+      "theta": {
+        "seed": 450897,
+        "cfg_scale": 9.88178484038527,
+        "steps": 25,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0081.png"
+    },
+    {
+      "cell": [
+        3,
+        10
+      ],
+      "prompt": "symbiotic ocean made of rust where time flows backwards, Syd Mead",
+      "novelty": 0.8278897255659103,
+      "iteration": 271,
+      "theta": {
+        "seed": 68221,
+        "cfg_scale": 6.9853480764169165,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0271.png"
+    },
+    {
+      "cell": [
+        11,
+        7
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light, Hieronymus Bosch, but it's somehow also a kitchen appliance",
+      "novelty": 0.19426608085632324,
+      "iteration": 91,
+      "theta": {
+        "seed": 40397,
+        "cfg_scale": 10.512622237368177,
+        "steps": 25,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0091.png"
+    },
+    {
+      "cell": [
+        1,
+        9
+      ],
+      "prompt": "petrified office cubicle that is secretly a portal between dimensions, Roger Dean",
+      "novelty": 0.652127742767334,
+      "iteration": 99,
+      "theta": {
+        "seed": 55792,
+        "cfg_scale": 9.964403015910907,
+        "steps": 25,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0099.png"
+    },
+    {
+      "cell": [
+        0,
+        11
+      ],
+      "prompt": "office cubicle that is secretly a portal between dimensions",
+      "novelty": 0.13580024242401123,
+      "iteration": 226,
+      "theta": {
+        "seed": 246253,
+        "cfg_scale": 5.638044560197131,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0226.png"
+    },
+    {
+      "cell": [
+        11,
+        4
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, merged with landscape, fusion of quantum mechanics and gothic architecture",
+      "novelty": 0.208154559135437,
+      "iteration": 166,
+      "theta": {
+        "seed": 780290,
+        "cfg_scale": 6.468820566356378,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0166.png"
+    },
+    {
+      "cell": [
+        2,
+        11
+      ],
+      "prompt": "dreaming vending machine containing a microscopic ecosystem made of light, Hieronymus Bosch at the event horizon",
+      "novelty": 0.6506965458393097,
+      "iteration": 435,
+      "theta": {
+        "seed": 301521,
+        "cfg_scale": 7.643022192313832,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0435.png"
+    },
+    {
+      "cell": [
+        0,
+        1
+      ],
+      "prompt": "petrified office cubicle that is secretly a portal between dimensions, Roger Dean, merged with engine, that feels like a dentist's waiting room",
+      "novelty": 0.2711777091026306,
+      "iteration": 124,
+      "theta": {
+        "seed": 788252,
+        "cfg_scale": 11.759925595496178,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0124.png"
+    },
+    {
+      "cell": [
+        0,
+        0
+      ],
+      "prompt": "petrified office cubicle that is secretly a portal between dimensions, Roger Dean, fusion of quantum mechanics and gothic architecture",
+      "novelty": 0.1926904320716858,
+      "iteration": 268,
+      "theta": {
+        "seed": 640001,
+        "cfg_scale": 6.9853480764169165,
+        "steps": 25,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0268.png"
+    },
+    {
+      "cell": [
+        5,
+        8
+      ],
+      "prompt": "dentist waiting room made of living coral where gravity pulls sideways found inside a vending machine, as seen in a home improvement catalog",
+      "novelty": 0.6050449907779694,
+      "iteration": 276,
+      "theta": {
+        "seed": 267972,
+        "cfg_scale": 5.776867756572345,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0276.png"
+    },
+    {
+      "cell": [
+        4,
+        1
+      ],
+      "prompt": "the back of a refrigerator dreaming of infinity, as remembered by a dying star, H.R. Giger",
+      "novelty": 0.6849483251571655,
+      "iteration": 140,
+      "theta": {
+        "seed": 794010,
+        "cfg_scale": 10.653833470617291,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0140.png"
+    },
+    {
+      "cell": [
+        6,
+        4
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, inverted and fractal, without perspective",
+      "novelty": 0.3956373929977417,
+      "iteration": 181,
+      "theta": {
+        "seed": 455851,
+        "cfg_scale": 5.775967875379435,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0181.png"
+    },
+    {
+      "cell": [
+        3,
+        1
+      ],
+      "prompt": "ethereal vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, fusion of ancient mythology and cybernetics",
+      "novelty": 0.7111606299877167,
+      "iteration": 218,
+      "theta": {
+        "seed": 939803,
+        "cfg_scale": 5.638835850704954,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0218.png"
+    },
+    {
+      "cell": [
+        9,
+        4
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light, Hieronymus Bosch, microscopic and volcanic",
+      "novelty": 0.32604265213012695,
+      "iteration": 151,
+      "theta": {
+        "seed": 349371,
+        "cfg_scale": 7.575308600445316,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0151.png"
+    },
+    {
+      "cell": [
+        4,
+        3
+      ],
+      "prompt": "refrigerator interior made of circuit boards in a universe with extra dimensions",
+      "novelty": 0.5965486764907837,
+      "iteration": 221,
+      "theta": {
+        "seed": 784956,
+        "cfg_scale": 5.638835850704954,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0221.png"
+    },
+    {
+      "cell": [
+        7,
+        5
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, merged with library",
+      "novelty": 0.4043400287628174,
+      "iteration": 196,
+      "theta": {
+        "seed": 178222,
+        "cfg_scale": 9.373178839829484,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0196.png"
+    },
+    {
+      "cell": [
+        8,
+        4
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light where time flows backwards found inside a bathroom tile, merged with temple",
+      "novelty": 0.4231112003326416,
+      "iteration": 203,
+      "theta": {
+        "seed": 812559,
+        "cfg_scale": 5.970651730110534,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0203.png"
+    },
+    {
+      "cell": [
+        5,
+        2
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, fusion of ancient mythology and cybernetics",
+      "novelty": 0.5368609428405762,
+      "iteration": 210,
+      "theta": {
+        "seed": 779554,
+        "cfg_scale": 11.58941388443679,
+        "steps": 25,
+        "negative_prompt": "typical alien, expected weird, obvious surreal"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0210.png"
+    },
+    {
+      "cell": [
+        1,
+        6
+      ],
+      "prompt": "office printer dreaming of being a temple, that feels like a dentist's waiting room",
+      "novelty": 0.6223508715629578,
+      "iteration": 215,
+      "theta": {
+        "seed": 19404,
+        "cfg_scale": 11.58941388443679,
+        "steps": 25,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0215.png"
+    },
+    {
+      "cell": [
+        4,
+        4
+      ],
+      "prompt": "intimately vast grocery store floating in void, surrealist painting in inverted colors",
+      "novelty": 0.3016461133956909,
+      "iteration": 217,
+      "theta": {
+        "seed": 384445,
+        "cfg_scale": 5.638835850704954,
+        "steps": 25,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0217.png"
+    },
+    {
+      "cell": [
+        4,
+        7
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, with IKEA assembly instructions",
+      "novelty": 0.6390830278396606,
+      "iteration": 241,
+      "theta": {
+        "seed": 604016,
+        "cfg_scale": 8.890941820683437,
+        "steps": 20,
+        "negative_prompt": "tentacles, biomechanical, Giger, alien creature"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0241.png"
+    },
+    {
+      "cell": [
+        7,
+        7
+      ],
+      "prompt": "alien intimately vast grocery store floating in void, surrealist painting, obeying non-commutative geometry",
+      "novelty": 0.4379909038543701,
+      "iteration": 325,
+      "theta": {
+        "seed": 947728,
+        "cfg_scale": 5.312671114498439,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0325.png"
+    },
+    {
+      "cell": [
+        3,
+        9
+      ],
+      "prompt": "living hybrid of temple and portal",
+      "novelty": 0.8670308589935303,
+      "iteration": 269,
+      "theta": {
+        "seed": 590003,
+        "cfg_scale": 6.9853480764169165,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0269.png"
+    },
+    {
+      "cell": [
+        3,
+        6
+      ],
+      "prompt": "school cafeteria that dreams of being intimately vast uncomfortably beautiful parking lot at the edge of reality, fusion of ancient mythology and cybernetics",
+      "novelty": 0.7630296647548676,
+      "iteration": 307,
+      "theta": {
+        "seed": 755235,
+        "cfg_scale": 8.950510490046124,
+        "steps": 30,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0307.png"
+    },
+    {
+      "cell": [
+        6,
+        8
+      ],
+      "prompt": "impossibly familiar vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, rendered as a phase diagram",
+      "novelty": 0.5829206109046936,
+      "iteration": 246,
+      "theta": {
+        "seed": 711600,
+        "cfg_scale": 8.890941820683437,
+        "steps": 20
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0246.png"
+    },
+    {
+      "cell": [
+        10,
+        6
+      ],
+      "prompt": "uncomfortably beautiful vending machine containing a living ecosystem made of light, without recognizable forms where gravity pulls sideways, fusion of quantum mechanics and gothic architecture",
+      "novelty": 0.26241564750671387,
+      "iteration": 264,
+      "theta": {
+        "seed": 339433,
+        "cfg_scale": 6.9853480764169165,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0264.png"
+    },
+    {
+      "cell": [
+        3,
+        8
+      ],
+      "prompt": "transparent hybrid of nest and neural network",
+      "novelty": 0.8660753667354584,
+      "iteration": 329,
+      "theta": {
+        "seed": 190789,
+        "cfg_scale": 10.495452889353064,
+        "steps": 25,
+        "negative_prompt": "blurry, distorted, low resolution, artifacts"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0329.png"
+    },
+    {
+      "cell": [
+        3,
+        7
+      ],
+      "prompt": "fractal cathedral in non-Euclidean space, but it's actually a airport terminal, but it's actually a shopping cart",
+      "novelty": 0.5781666040420532,
+      "iteration": 291,
+      "theta": {
+        "seed": 907683,
+        "cfg_scale": 5.685271164904811,
+        "steps": 20
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0291.png"
+    },
+    {
+      "cell": [
+        4,
+        9
+      ],
+      "prompt": "impossibly familiar gas station, ukiyo-e",
+      "novelty": 0.7296937108039856,
+      "iteration": 272,
+      "theta": {
+        "seed": 234501,
+        "cfg_scale": 5.776867756572345,
+        "steps": 30,
+        "negative_prompt": "straight lines, geometric, structured, organized"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0272.png"
+    },
+    {
+      "cell": [
+        8,
+        8
+      ],
+      "prompt": "dreaming vending machine containing a microscopic ecosystem made of light, Hieronymus Bosch",
+      "novelty": 0.4577144384384155,
+      "iteration": 273,
+      "theta": {
+        "seed": 528738,
+        "cfg_scale": 5.776867756572345,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0273.png"
+    },
+    {
+      "cell": [
+        6,
+        7
+      ],
+      "prompt": "microscopic vending machine containing a microscopic ecosystem made of light where time flows backwards found inside a bathroom tile, witnessed by probability itself",
+      "novelty": 0.6107683777809143,
+      "iteration": 398,
+      "theta": {
+        "seed": 585540,
+        "cfg_scale": 11.556977743195453,
+        "steps": 30,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0398.png"
+    },
+    {
+      "cell": [
+        3,
+        11
+      ],
+      "prompt": "petrified office cubicle that is secretly a portal between dimensions, Roger Dean, fusion of quantum mechanics and gothic architecture, obeying non-commutative geometry",
+      "novelty": 0.6681713461875916,
+      "iteration": 345,
+      "theta": {
+        "seed": 951605,
+        "cfg_scale": 9.388383077859196,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, deformed"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0345.png"
+    },
+    {
+      "cell": [
+        4,
+        11
+      ],
+      "prompt": "the back of a refrigerator dreaming of infinity, as remembered by a dying star, H.R. Giger, fusion of ancient mythology and cybernetics, from the perspective of a photon",
+      "novelty": 0.6230905652046204,
+      "iteration": 497,
+      "theta": {
+        "seed": 511485,
+        "cfg_scale": 8.849474235996706,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0497.png"
+    },
+    {
+      "cell": [
+        6,
+        9
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of light where time flows backwards found inside a bathroom tile, sponsored by a fast food chain",
+      "novelty": 0.6238034665584564,
+      "iteration": 337,
+      "theta": {
+        "seed": 835720,
+        "cfg_scale": 9.144098120157011,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0337.png"
+    },
+    {
+      "cell": [
+        10,
+        7
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, inverted and fractal, without perspective, as seen in a home improvement catalog, with a motivational poster aesthetic, merged with neural network",
+      "novelty": 0.24675780534744263,
+      "iteration": 499,
+      "theta": {
+        "seed": 499888,
+        "cfg_scale": 8.849474235996706,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0499.png"
+    },
+    {
+      "cell": [
+        5,
+        10
+      ],
+      "prompt": "the back of a refrigerator dreaming of infinity, as remembered by a dying star, H.R. Giger, fusion of ancient mythology and cybernetics",
+      "novelty": 0.669299453496933,
+      "iteration": 375,
+      "theta": {
+        "seed": 692805,
+        "cfg_scale": 9.647201915850793,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0375.png"
+    },
+    {
+      "cell": [
+        8,
+        5
+      ],
+      "prompt": "intimately vast grocery store floating in void, surrealist painting found inside a washing machine",
+      "novelty": 0.29546934366226196,
+      "iteration": 390,
+      "theta": {
+        "seed": 566220,
+        "cfg_scale": 8.233549619943375,
+        "steps": 20,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0390.png"
+    },
+    {
+      "cell": [
+        5,
+        9
+      ],
+      "prompt": "vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, fusion of ancient mythology and cybernetics, viewed from inside a black hole",
+      "novelty": 0.4953906536102295,
+      "iteration": 391,
+      "theta": {
+        "seed": 169654,
+        "cfg_scale": 8.233549619943375,
+        "steps": 20,
+        "negative_prompt": "human faces, recognizable objects, earthly, mundane"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0391.png"
+    },
+    {
+      "cell": [
+        9,
+        9
+      ],
+      "prompt": "uncomfortably beautiful vending machine containing a living ecosystem made of light, without recognizable forms, H.R. Giger",
+      "novelty": 0.40887171030044556,
+      "iteration": 400,
+      "theta": {
+        "seed": 726417,
+        "cfg_scale": 5.967179430386208,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0400.png"
+    },
+    {
+      "cell": [
+        7,
+        10
+      ],
+      "prompt": "impossibly familiar vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, merged with landscape, rendered as a phase diagram",
+      "novelty": 0.40502816438674927,
+      "iteration": 407,
+      "theta": {
+        "seed": 23462,
+        "cfg_scale": 5.967179430386208,
+        "steps": 25
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0407.png"
+    },
+    {
+      "cell": [
+        10,
+        8
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, inverted and fractal in inverted colors, fusion of fluid dynamics and crystalline structures",
+      "novelty": 0.2241201400756836,
+      "iteration": 408,
+      "theta": {
+        "seed": 707576,
+        "cfg_scale": 11.151976944054535,
+        "steps": 25,
+        "negative_prompt": "realistic, photographic, normal, ordinary, familiar"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0408.png"
+    },
+    {
+      "cell": [
+        5,
+        11
+      ],
+      "prompt": "hyperdimensional refrigerator interior at quantum scale, art nouveau",
+      "novelty": 0.5989261269569397,
+      "iteration": 421,
+      "theta": {
+        "seed": 72000,
+        "cfg_scale": 10.120234758040414,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0421.png"
+    },
+    {
+      "cell": [
+        9,
+        8
+      ],
+      "prompt": "impossibly familiar dreaming vending machine containing a microscopic ecosystem made of light, Hieronymus Bosch",
+      "novelty": 0.392233669757843,
+      "iteration": 430,
+      "theta": {
+        "seed": 573489,
+        "cfg_scale": 9.739445994016112,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0430.png"
+    },
+    {
+      "cell": [
+        7,
+        3
+      ],
+      "prompt": "hyperdimensional engine disguised as a grocery store",
+      "novelty": 0.28385335206985474,
+      "iteration": 443,
+      "theta": {
+        "seed": 212561,
+        "cfg_scale": 7.799088608150876,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0443.png"
+    },
+    {
+      "cell": [
+        9,
+        10
+      ],
+      "prompt": "dreaming vending machine containing a microscopic ecosystem made of light, Hieronymus Bosch at the event horizon, petrified and living",
+      "novelty": 0.3467417359352112,
+      "iteration": 459,
+      "theta": {
+        "seed": 692701,
+        "cfg_scale": 5.844710630095062,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0459.png"
+    },
+    {
+      "cell": [
+        7,
+        8
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, inverted and fractal, without perspective, as seen in a home improvement catalog",
+      "novelty": 0.37799596786499023,
+      "iteration": 465,
+      "theta": {
+        "seed": 832608,
+        "cfg_scale": 9.093903363664635,
+        "steps": 30,
+        "negative_prompt": "portal, vortex, wormhole, dimensional rift"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0465.png"
+    },
+    {
+      "cell": [
+        11,
+        8
+      ],
+      "prompt": "comfortingly disturbing dreaming vending machine containing a microscopic ecosystem made of light, Hieronymus Bosch",
+      "novelty": 0.1779104471206665,
+      "iteration": 466,
+      "theta": {
+        "seed": 416913,
+        "cfg_scale": 9.093903363664635,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0466.png"
+    },
+    {
+      "cell": [
+        10,
+        9
+      ],
+      "prompt": "impossibly familiar vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, expressed as a quantum superposition",
+      "novelty": 0.3052164912223816,
+      "iteration": 467,
+      "theta": {
+        "seed": 781767,
+        "cfg_scale": 9.093903363664635,
+        "steps": 30
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0467.png"
+    },
+    {
+      "cell": [
+        11,
+        10
+      ],
+      "prompt": "uncomfortably beautiful vending machine containing a living ecosystem made of light, without recognizable forms, H.R. Giger found inside a kitchen sink",
+      "novelty": 0.186345636844635,
+      "iteration": 482,
+      "theta": {
+        "seed": 372945,
+        "cfg_scale": 10.65521911740169,
+        "steps": 20
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0482.png"
+    },
+    {
+      "cell": [
+        6,
+        10
+      ],
+      "prompt": "filing cabinet that dreams of being vending machine containing a living ecosystem made of light, without recognizable forms, inverted and fractal, without perspective, as seen in a home improvement catalog, with a motivational poster aesthetic",
+      "novelty": 0.5757279396057129,
+      "iteration": 483,
+      "theta": {
+        "seed": 732760,
+        "cfg_scale": 10.65521911740169,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0483.png"
+    },
+    {
+      "cell": [
+        8,
+        10
+      ],
+      "prompt": "impossibly familiar vending machine containing a microscopic ecosystem made of circuit boards where time flows backwards found inside a bathroom tile, rendered as a phase diagram, but it's actually a shopping cart",
+      "novelty": 0.2926482558250427,
+      "iteration": 484,
+      "theta": {
+        "seed": 803488,
+        "cfg_scale": 10.65521911740169,
+        "steps": 20,
+        "negative_prompt": "blurry, low quality, text, watermark, ugly"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0484.png"
+    },
+    {
+      "cell": [
+        0,
+        4
+      ],
+      "prompt": "comfortingly disturbing office cubicle, biomechanical art",
+      "novelty": 0.16611504554748535,
+      "iteration": 498,
+      "theta": {
+        "seed": 378439,
+        "cfg_scale": 8.849474235996706,
+        "steps": 30,
+        "negative_prompt": "symmetrical, repetitive, predictable, conventional"
+      },
+      "image_path": "outputs/run_42708270/map_elites/images/img_0498.png"
+    }
+  ]
+}

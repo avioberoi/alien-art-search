@@ -1,0 +1,57 @@
+{
+  "config": {
+    "grid_size": 15,
+    "iterations": 5000,
+    "auto_axes": true,
+    "use_art_prompts": true
+  },
+  "evolution": {
+    "num_cells_filled": 214,
+    "iteration_distribution": {
+      "early_quartile": 189.0,
+      "median": 718.0,
+      "late_quartile": 2676.75,
+      "max": 4988
+    },
+    "novelty_iteration_correlation": -0.15959848488831846,
+    "avg_novelty_early": 0.599526055783869,
+    "avg_novelty_late": 0.5482720231341425
+  },
+  "illumination": {
+    "avg_knn_distance_mean": 0.36860302090644836,
+    "avg_knn_distance_std": 0.1214226707816124,
+    "median_distance_percentile": 82.75,
+    "pct_above_75": 63.725490196078425,
+    "pct_above_90": 41.17647058823529
+  },
+  "offmanifold": {
+    "mahalanobis_mean": 33.09785461425781,
+    "mahalanobis_std": 7.433013916015625,
+    "reconstruction_error_mean": 0.06781663745641708,
+    "knn_distance_mean": 0.36860302090644836,
+    "pct_high_mahal": 61.76470588235294
+  },
+  "correlations": {
+    "novelty_vs_mahalanobis": -0.09541664533808643,
+    "novelty_vs_knn_distance": -0.16481153503733553,
+    "novelty_vs_reconstruction_error": -0.1288700790625601
+  },
+  "top_alien_indices": [
+    101,
+    88,
+    96,
+    29,
+    89,
+    46,
+    8,
+    20,
+    43,
+    93,
+    38,
+    31,
+    81,
+    82,
+    85,
+    48
+  ]
+}

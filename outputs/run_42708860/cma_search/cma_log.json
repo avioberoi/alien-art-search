@@ -1,0 +1,977 @@
+{
+  "config": {
+    "prompt": "abstract alien landscape, surreal, otherworldly",
+    "embedding_type": "dino",
+    "iterations": 100,
+    "population_size": 8
+  },
+  "stats": {
+    "mean_novelty": 0.3909717723727226,
+    "median_novelty": 0.3857874274253845,
+    "max_novelty": 1.0,
+    "min_novelty": 0.15551644563674927,
+    "std_novelty": 0.1118788470097372
+  },
+  "results": [
+    {
+      "iteration": 0,
+      "theta": {
+        "seed": 536168,
+        "cfg_scale": 8.0830445281878,
+        "steps": 49
+      },
+      "novelty": 1.0,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0000_n1.000.png"
+    },
+    {
+      "iteration": 1,
+      "theta": {
+        "seed": 179467,
+        "cfg_scale": 12.920374761197126,
+        "steps": 35
+      },
+      "novelty": 0.42858314514160156,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0001_n0.429.png"
+    },
+    {
+      "iteration": 2,
+      "theta": {
+        "seed": 199156,
+        "cfg_scale": 14.691167195045413,
+        "steps": 35
+      },
+      "novelty": 0.36146867275238037,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0002_n0.361.png"
+    },
+    {
+      "iteration": 3,
+      "theta": {
+        "seed": 242520,
+        "cfg_scale": 11.365692833853444,
+        "steps": 39
+      },
+      "novelty": 0.6169661581516266,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0003_n0.617.png"
+    },
+    {
+      "iteration": 4,
+      "theta": {
+        "seed": 446135,
+        "cfg_scale": 13.278228978441737,
+        "steps": 29
+      },
+      "novelty": 0.522250235080719,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0004_n0.522.png"
+    },
+    {
+      "iteration": 5,
+      "theta": {
+        "seed": 354418,
+        "cfg_scale": 10.810305797974156,
+        "steps": 30
+      },
+      "novelty": 0.39814162254333496,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0005_n0.398.png"
+    },
+    {
+      "iteration": 6,
+      "theta": {
+        "seed": 602235,
+        "cfg_scale": 3.003779303077799,
+        "steps": 36
+      },
+      "novelty": 0.39823371171951294,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0006_n0.398.png"
+    },
+    {
+      "iteration": 7,
+      "theta": {
+        "seed": 325545,
+        "cfg_scale": 12.847364160043703,
+        "steps": 30
+      },
+      "novelty": 0.5165822803974152,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0007_n0.517.png"
+    },
+    {
+      "iteration": 8,
+      "theta": {
+        "seed": 708636,
+        "cfg_scale": 8.527524087117094,
+        "steps": 45
+      },
+      "novelty": 0.44384658336639404,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0008_n0.444.png"
+    },
+    {
+      "iteration": 9,
+      "theta": {
+        "seed": 343773,
+        "cfg_scale": 8.92443805653268,
+        "steps": 31
+      },
+      "novelty": 0.2666614055633545,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0009_n0.267.png"
+    },
+    {
+      "iteration": 10,
+      "theta": {
+        "seed": 330219,
+        "cfg_scale": 10.286797924870612,
+        "steps": 48
+      },
+      "novelty": 0.28183722496032715,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0010_n0.282.png"
+    },
+    {
+      "iteration": 11,
+      "theta": {
+        "seed": 219789,
+        "cfg_scale": 6.9827256907774675,
+        "steps": 38
+      },
+      "novelty": 0.4050214886665344,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0011_n0.405.png"
+    },
+    {
+      "iteration": 12,
+      "theta": {
+        "seed": 890574,
+        "cfg_scale": 7.236439981741947,
+        "steps": 28
+      },
+      "novelty": 0.3049890398979187,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0012_n0.305.png"
+    },
+    {
+      "iteration": 13,
+      "theta": {
+        "seed": 241973,
+        "cfg_scale": 14.038036704978538,
+        "steps": 43
+      },
+      "novelty": 0.431964635848999,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0013_n0.432.png"
+    },
+    {
+      "iteration": 14,
+      "theta": {
+        "seed": 233216,
+        "cfg_scale": 8.831628345516535,
+        "steps": 29
+      },
+      "novelty": 0.5352291762828827,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0014_n0.535.png"
+    },
+    {
+      "iteration": 15,
+      "theta": {
+        "seed": 251348,
+        "cfg_scale": 11.830082556015578,
+        "steps": 49
+      },
+      "novelty": 0.2861212491989136,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0015_n0.286.png"
+    },
+    {
+      "iteration": 16,
+      "theta": {
+        "seed": 3634,
+        "cfg_scale": 3.6317330131898498,
+        "steps": 35
+      },
+      "novelty": 0.4957306385040283,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0016_n0.496.png"
+    },
+    {
+      "iteration": 17,
+      "theta": {
+        "seed": 377210,
+        "cfg_scale": 9.536073523985857,
+        "steps": 38
+      },
+      "novelty": 0.3795681595802307,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0017_n0.380.png"
+    },
+    {
+      "iteration": 18,
+      "theta": {
+        "seed": 346262,
+        "cfg_scale": 14.786368633059118,
+        "steps": 27
+      },
+      "novelty": 0.37930673360824585,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0018_n0.379.png"
+    },
+    {
+      "iteration": 19,
+      "theta": {
+        "seed": 496788,
+        "cfg_scale": 8.121067986043613,
+        "steps": 38
+      },
+      "novelty": 0.45674729347229004,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0019_n0.457.png"
+    },
+    {
+      "iteration": 20,
+      "theta": {
+        "seed": 693914,
+        "cfg_scale": 11.41572661578034,
+        "steps": 44
+      },
+      "novelty": 0.39473581314086914,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0020_n0.395.png"
+    },
+    {
+      "iteration": 21,
+      "theta": {
+        "seed": 724724,
+        "cfg_scale": 13.626057967329473,
+        "steps": 49
+      },
+      "novelty": 0.3122774362564087,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0021_n0.312.png"
+    },
+    {
+      "iteration": 22,
+      "theta": {
+        "seed": 462023,
+        "cfg_scale": 10.87412767263101,
+        "steps": 41
+      },
+      "novelty": 0.4641270041465759,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0022_n0.464.png"
+    },
+    {
+      "iteration": 23,
+      "theta": {
+        "seed": 340422,
+        "cfg_scale": 9.808299845415778,
+        "steps": 40
+      },
+      "novelty": 0.3514195680618286,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0023_n0.351.png"
+    },
+    {
+      "iteration": 24,
+      "theta": {
+        "seed": 366800,
+        "cfg_scale": 6.1481396624214035,
+        "steps": 36
+      },
+      "novelty": 0.4547398090362549,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0024_n0.455.png"
+    },
+    {
+      "iteration": 25,
+      "theta": {
+        "seed": 173226,
+        "cfg_scale": 5.6190592527515655,
+        "steps": 36
+      },
+      "novelty": 0.3920053243637085,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0025_n0.392.png"
+    },
+    {
+      "iteration": 26,
+      "theta": {
+        "seed": 275819,
+        "cfg_scale": 8.435719118704263,
+        "steps": 32
+      },
+      "novelty": 0.4176151752471924,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0026_n0.418.png"
+    },
+    {
+      "iteration": 27,
+      "theta": {
+        "seed": 830573,
+        "cfg_scale": 14.75071421282557,
+        "steps": 37
+      },
+      "novelty": 0.37089937925338745,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0027_n0.371.png"
+    },
+    {
+      "iteration": 28,
+      "theta": {
+        "seed": 194525,
+        "cfg_scale": 13.0004231777353,
+        "steps": 49
+      },
+      "novelty": 0.3957279920578003,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0028_n0.396.png"
+    },
+    {
+      "iteration": 29,
+      "theta": {
+        "seed": 987487,
+        "cfg_scale": 10.124840668305552,
+        "steps": 33
+      },
+      "novelty": 0.43992316722869873,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0029_n0.440.png"
+    },
+    {
+      "iteration": 30,
+      "theta": {
+        "seed": 88029,
+        "cfg_scale": 5.329473183409334,
+        "steps": 32
+      },
+      "novelty": 0.4044644236564636,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0030_n0.404.png"
+    },
+    {
+      "iteration": 31,
+      "theta": {
+        "seed": 103387,
+        "cfg_scale": 3.304279748053725,
+        "steps": 47
+      },
+      "novelty": 0.2919657826423645,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0031_n0.292.png"
+    },
+    {
+      "iteration": 32,
+      "theta": {
+        "seed": 254901,
+        "cfg_scale": 3.0605641769546037,
+        "steps": 39
+      },
+      "novelty": 0.4396301507949829,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0032_n0.440.png"
+    },
+    {
+      "iteration": 33,
+      "theta": {
+        "seed": 841864,
+        "cfg_scale": 9.367840376492481,
+        "steps": 40
+      },
+      "novelty": 0.42771005630493164,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0033_n0.428.png"
+    },
+    {
+      "iteration": 34,
+      "theta": {
+        "seed": 509950,
+        "cfg_scale": 10.50140975603809,
+        "steps": 38
+      },
+      "novelty": 0.20385313034057617,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0034_n0.204.png"
+    },
+    {
+      "iteration": 35,
+      "theta": {
+        "seed": 743419,
+        "cfg_scale": 13.505048400438556,
+        "steps": 33
+      },
+      "novelty": 0.6088632345199585,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0035_n0.609.png"
+    },
+    {
+      "iteration": 36,
+      "theta": {
+        "seed": 367334,
+        "cfg_scale": 6.222413091355511,
+        "steps": 48
+      },
+      "novelty": 0.6243538856506348,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0036_n0.624.png"
+    },
+    {
+      "iteration": 37,
+      "theta": {
+        "seed": 520835,
+        "cfg_scale": 8.009904969485433,
+        "steps": 27
+      },
+      "novelty": 0.5051363408565521,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0037_n0.505.png"
+    },
+    {
+      "iteration": 38,
+      "theta": {
+        "seed": 3468,
+        "cfg_scale": 6.308443588541955,
+        "steps": 24
+      },
+      "novelty": 0.32450616359710693,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0038_n0.325.png"
+    },
+    {
+      "iteration": 39,
+      "theta": {
+        "seed": 422700,
+        "cfg_scale": 11.935316272956086,
+        "steps": 40
+      },
+      "novelty": 0.3809390068054199,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0039_n0.381.png"
+    },
+    {
+      "iteration": 40,
+      "theta": {
+        "seed": 496118,
+        "cfg_scale": 7.477311098938415,
+        "steps": 46
+      },
+      "novelty": 0.31543266773223877,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0040_n0.315.png"
+    },
+    {
+      "iteration": 41,
+      "theta": {
+        "seed": 339451,
+        "cfg_scale": 6.225767745765489,
+        "steps": 49
+      },
+      "novelty": 0.43525052070617676,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0041_n0.435.png"
+    },
+    {
+      "iteration": 42,
+      "theta": {
+        "seed": 762437,
+        "cfg_scale": 8.010896832528665,
+        "steps": 39
+      },
+      "novelty": 0.4330269694328308,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0042_n0.433.png"
+    },
+    {
+      "iteration": 43,
+      "theta": {
+        "seed": 854195,
+        "cfg_scale": 10.651204135347134,
+        "steps": 49
+      },
+      "novelty": 0.21641993522644043,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0043_n0.216.png"
+    },
+    {
+      "iteration": 44,
+      "theta": {
+        "seed": 393748,
+        "cfg_scale": 6.986516198898803,
+        "steps": 42
+      },
+      "novelty": 0.37777775526046753,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0044_n0.378.png"
+    },
+    {
+      "iteration": 45,
+      "theta": {
+        "seed": 519012,
+        "cfg_scale": 9.50519586829147,
+        "steps": 42
+      },
+      "novelty": 0.3611680269241333,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0045_n0.361.png"
+    },
+    {
+      "iteration": 46,
+      "theta": {
+        "seed": 710658,
+        "cfg_scale": 8.097054680763572,
+        "steps": 43
+      },
+      "novelty": 0.5262727737426758,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0046_n0.526.png"
+    },
+    {
+      "iteration": 47,
+      "theta": {
+        "seed": 377553,
+        "cfg_scale": 6.779542801272012,
+        "steps": 49
+      },
+      "novelty": 0.30891501903533936,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0047_n0.309.png"
+    },
+    {
+      "iteration": 48,
+      "theta": {
+        "seed": 511204,
+        "cfg_scale": 6.642745781306753,
+        "steps": 40
+      },
+      "novelty": 0.3284996747970581,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0048_n0.328.png"
+    },
+    {
+      "iteration": 49,
+      "theta": {
+        "seed": 434,
+        "cfg_scale": 5.296285513422791,
+        "steps": 49
+      },
+      "novelty": 0.305439293384552,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0049_n0.305.png"
+    },
+    {
+      "iteration": 50,
+      "theta": {
+        "seed": 750705,
+        "cfg_scale": 8.791311027160909,
+        "steps": 34
+      },
+      "novelty": 0.3301260471343994,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0050_n0.330.png"
+    },
+    {
+      "iteration": 51,
+      "theta": {
+        "seed": 690961,
+        "cfg_scale": 4.3163667644380865,
+        "steps": 39
+      },
+      "novelty": 0.44450342655181885,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0051_n0.445.png"
+    },
+    {
+      "iteration": 52,
+      "theta": {
+        "seed": 902890,
+        "cfg_scale": 6.835927415986297,
+        "steps": 43
+      },
+      "novelty": 0.4150947332382202,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0052_n0.415.png"
+    },
+    {
+      "iteration": 53,
+      "theta": {
+        "seed": 534001,
+        "cfg_scale": 4.613604048406653,
+        "steps": 49
+      },
+      "novelty": 0.316447377204895,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0053_n0.316.png"
+    },
+    {
+      "iteration": 54,
+      "theta": {
+        "seed": 749050,
+        "cfg_scale": 8.989195732256697,
+        "steps": 40
+      },
+      "novelty": 0.2646251916885376,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0054_n0.265.png"
+    },
+    {
+      "iteration": 55,
+      "theta": {
+        "seed": 972167,
+        "cfg_scale": 11.16162265990642,
+        "steps": 46
+      },
+      "novelty": 0.4649229049682617,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0055_n0.465.png"
+    },
+    {
+      "iteration": 56,
+      "theta": {
+        "seed": 272252,
+        "cfg_scale": 4.313612320911372,
+        "steps": 26
+      },
+      "novelty": 0.515859067440033,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0056_n0.516.png"
+    },
+    {
+      "iteration": 57,
+      "theta": {
+        "seed": 990561,
+        "cfg_scale": 5.405207026323404,
+        "steps": 34
+      },
+      "novelty": 0.23920047283172607,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0057_n0.239.png"
+    },
+    {
+      "iteration": 58,
+      "theta": {
+        "seed": 733062,
+        "cfg_scale": 5.072263337929883,
+        "steps": 46
+      },
+      "novelty": 0.33130693435668945,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0058_n0.331.png"
+    },
+    {
+      "iteration": 59,
+      "theta": {
+        "seed": 778512,
+        "cfg_scale": 3.9845115107624927,
+        "steps": 45
+      },
+      "novelty": 0.15551644563674927,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0059_n0.156.png"
+    },
+    {
+      "iteration": 60,
+      "theta": {
+        "seed": 989801,
+        "cfg_scale": 8.952058374248196,
+        "steps": 33
+      },
+      "novelty": 0.30243611335754395,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0060_n0.302.png"
+    },
+    {
+      "iteration": 61,
+      "theta": {
+        "seed": 997171,
+        "cfg_scale": 11.174464398070214,
+        "steps": 49
+      },
+      "novelty": 0.3033238649368286,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0061_n0.303.png"
+    },
+    {
+      "iteration": 62,
+      "theta": {
+        "seed": 513099,
+        "cfg_scale": 4.492689869191232,
+        "steps": 40
+      },
+      "novelty": 0.5381715595722198,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0062_n0.538.png"
+    },
+    {
+      "iteration": 63,
+      "theta": {
+        "seed": 998002,
+        "cfg_scale": 8.361434714156323,
+        "steps": 45
+      },
+      "novelty": 0.40712612867355347,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0063_n0.407.png"
+    },
+    {
+      "iteration": 64,
+      "theta": {
+        "seed": 23416,
+        "cfg_scale": 8.239986216504345,
+        "steps": 32
+      },
+      "novelty": 0.5211583077907562,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0064_n0.521.png"
+    },
+    {
+      "iteration": 65,
+      "theta": {
+        "seed": 24406,
+        "cfg_scale": 4.908921159339449,
+        "steps": 38
+      },
+      "novelty": 0.4374035596847534,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0065_n0.437.png"
+    },
+    {
+      "iteration": 66,
+      "theta": {
+        "seed": 609243,
+        "cfg_scale": 12.099467228011038,
+        "steps": 45
+      },
+      "novelty": 0.4038141369819641,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0066_n0.404.png"
+    },
+    {
+      "iteration": 67,
+      "theta": {
+        "seed": 999581,
+        "cfg_scale": 3.316713330911534,
+        "steps": 44
+      },
+      "novelty": 0.34984076023101807,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0067_n0.350.png"
+    },
+    {
+      "iteration": 68,
+      "theta": {
+        "seed": 500023,
+        "cfg_scale": 3.256586811406731,
+        "steps": 28
+      },
+      "novelty": 0.37706857919692993,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0068_n0.377.png"
+    },
+    {
+      "iteration": 69,
+      "theta": {
+        "seed": 845367,
+        "cfg_scale": 4.52005304123956,
+        "steps": 45
+      },
+      "novelty": 0.30312782526016235,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0069_n0.303.png"
+    },
+    {
+      "iteration": 70,
+      "theta": {
+        "seed": 360774,
+        "cfg_scale": 3.891754993153228,
+        "steps": 43
+      },
+      "novelty": 0.3521968722343445,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0070_n0.352.png"
+    },
+    {
+      "iteration": 71,
+      "theta": {
+        "seed": 241378,
+        "cfg_scale": 5.148323134187826,
+        "steps": 41
+      },
+      "novelty": 0.417209267616272,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0071_n0.417.png"
+    },
+    {
+      "iteration": 72,
+      "theta": {
+        "seed": 264971,
+        "cfg_scale": 8.04986198750246,
+        "steps": 32
+      },
+      "novelty": 0.31371235847473145,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0072_n0.314.png"
+    },
+    {
+      "iteration": 73,
+      "theta": {
+        "seed": 159113,
+        "cfg_scale": 9.585103552709693,
+        "steps": 15
+      },
+      "novelty": 0.39478540420532227,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0073_n0.395.png"
+    },
+    {
+      "iteration": 74,
+      "theta": {
+        "seed": 137575,
+        "cfg_scale": 9.54948226632327,
+        "steps": 20
+      },
+      "novelty": 0.48666054010391235,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0074_n0.487.png"
+    },
+    {
+      "iteration": 75,
+      "theta": {
+        "seed": 105,
+        "cfg_scale": 3.2363437117051777,
+        "steps": 49
+      },
+      "novelty": 0.31142300367355347,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0075_n0.311.png"
+    },
+    {
+      "iteration": 76,
+      "theta": {
+        "seed": 331897,
+        "cfg_scale": 3.0069763465681296,
+        "steps": 44
+      },
+      "novelty": 0.513505756855011,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0076_n0.514.png"
+    },
+    {
+      "iteration": 77,
+      "theta": {
+        "seed": 33289,
+        "cfg_scale": 4.318037587117575,
+        "steps": 43
+      },
+      "novelty": 0.352688729763031,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0077_n0.353.png"
+    },
+    {
+      "iteration": 78,
+      "theta": {
+        "seed": 132597,
+        "cfg_scale": 3.01799876040791,
+        "steps": 38
+      },
+      "novelty": 0.3906358480453491,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0078_n0.391.png"
+    },
+    {
+      "iteration": 79,
+      "theta": {
+        "seed": 5133,
+        "cfg_scale": 3.025755560380498,
+        "steps": 44
+      },
+      "novelty": 0.36421728134155273,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0079_n0.364.png"
+    },
+    {
+      "iteration": 80,
+      "theta": {
+        "seed": 79036,
+        "cfg_scale": 10.588181483438063,
+        "steps": 21
+      },
+      "novelty": 0.2991463541984558,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0080_n0.299.png"
+    },
+    {
+      "iteration": 81,
+      "theta": {
+        "seed": 144231,
+        "cfg_scale": 3.106587220828457,
+        "steps": 38
+      },
+      "novelty": 0.3450576066970825,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0081_n0.345.png"
+    },
+    {
+      "iteration": 82,
+      "theta": {
+        "seed": 589176,
+        "cfg_scale": 7.98886776912134,
+        "steps": 35
+      },
+      "novelty": 0.28536444902420044,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0082_n0.285.png"
+    },
+    {
+      "iteration": 83,
+      "theta": {
+        "seed": 438787,
+        "cfg_scale": 6.585124419956621,
+        "steps": 36
+      },
+      "novelty": 0.3511224389076233,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0083_n0.351.png"
+    },
+    {
+      "iteration": 84,
+      "theta": {
+        "seed": 113649,
+        "cfg_scale": 10.605281103320353,
+        "steps": 23
+      },
+      "novelty": 0.29215455055236816,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0084_n0.292.png"
+    },
+    {
+      "iteration": 85,
+      "theta": {
+        "seed": 234382,
+        "cfg_scale": 13.293750407042511,
+        "steps": 30
+      },
+      "novelty": 0.31885790824890137,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0085_n0.319.png"
+    },
+    {
+      "iteration": 86,
+      "theta": {
+        "seed": 482131,
+        "cfg_scale": 11.563177978035597,
+        "steps": 16
+      },
+      "novelty": 0.33978378772735596,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0086_n0.340.png"
+    },
+    {
+      "iteration": 87,
+      "theta": {
+        "seed": 5629,
+        "cfg_scale": 8.930658568182128,
+        "steps": 23
+      },
+      "novelty": 0.46056413650512695,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0087_n0.461.png"
+    },
+    {
+      "iteration": 88,
+      "theta": {
+        "seed": 4475,
+        "cfg_scale": 4.749589655191242,
+        "steps": 27
+      },
+      "novelty": 0.366824746131897,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0088_n0.367.png"
+    },
+    {
+      "iteration": 89,
+      "theta": {
+        "seed": 246412,
+        "cfg_scale": 8.86000545938781,
+        "steps": 24
+      },
+      "novelty": 0.45760011672973633,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0089_n0.458.png"
+    },
+    {
+      "iteration": 90,
+      "theta": {
+        "seed": 363372,
+        "cfg_scale": 4.8979671816718735,
+        "steps": 47
+      },
+      "novelty": 0.1679474115371704,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0090_n0.168.png"
+    },
+    {
+      "iteration": 91,
+      "theta": {
+        "seed": 519964,
+        "cfg_scale": 3.8896808717119398,
+        "steps": 35
+      },
+      "novelty": 0.41605252027511597,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0091_n0.416.png"
+    },
+    {
+      "iteration": 92,
+      "theta": {
+        "seed": 72594,
+        "cfg_scale": 14.448111046596264,
+        "steps": 20
+      },
+      "novelty": 0.29659485816955566,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0092_n0.297.png"
+    },
+    {
+      "iteration": 93,
+      "theta": {
+        "seed": 256452,
+        "cfg_scale": 6.615425071130825,
+        "steps": 24
+      },
+      "novelty": 0.4648919105529785,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0093_n0.465.png"
+    },
+    {
+      "iteration": 94,
+      "theta": {
+        "seed": 289727,
+        "cfg_scale": 3.3570121196403324,
+        "steps": 29
+      },
+      "novelty": 0.20263969898223877,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0094_n0.203.png"
+    },
+    {
+      "iteration": 95,
+      "theta": {
+        "seed": 8081,
+        "cfg_scale": 8.641406317395562,
+        "steps": 25
+      },
+      "novelty": 0.4282342195510864,
+      "image_path": "outputs/run_42708860/cma_search/images/img_0095_n0.428.png"
+    }
+  ]
+}

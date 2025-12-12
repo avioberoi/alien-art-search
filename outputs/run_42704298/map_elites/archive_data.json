@@ -1,0 +1,24 @@
+{
+  "config": {
+    "grid_size": 12,
+    "iterations": 500,
+    "auto_axes": true
+  },
+  "stats": {
+    "coverage": 0.8541666666666666,
+    "num_elites": 123,
+    "novelty_mean": 0.5291860305620888
+  },
+  "elites": [
+    {
+      "cell": [
+        4,
+        1
+      ],
+      "prompt": "alien landscape with impossible geometry",
+      "novelty": 1.0,
+      "iteration": 0,
+      "theta": {
+        "seed": 313069,
+        "cfg_scale": 5.224836897528498,
+        "steps": 

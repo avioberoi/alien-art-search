@@ -1,0 +1,82 @@
+{
+  "methods": [
+    "random",
+    "cma",
+    "map_elites"
+  ],
+  "n_samples": {
+    "random": 1000,
+    "cma": 84,
+    "map_elites": 486
+  },
+  "metrics": {
+    "random": {
+      "n_samples": 1000,
+      "mahalanobis_mean": 26.90610122680664,
+      "mahalanobis_std": 2.6555023193359375,
+      "mahalanobis_percentile_mean": 54.193552625116645,
+      "reconstruction_error_mean": 0.036024559289216995,
+      "reconstruction_error_std": 0.009324131533503532,
+      "hotelling_t2_mean": 511.9584045410156,
+      "hotelling_t2_std": 94.9402847290039,
+      "low_pc_magnitude_mean": 0.01968969590961933,
+      "low_pc_magnitude_std": 0.005147479008883238,
+      "low_pc_percentile_mean": 48.52543956583665,
+      "knn_distance_mean": 0.3089665472507477,
+      "knn_distance_std": 0.049561794847249985,
+      "knn_percentile_mean": 76.0715,
+      "combined_alien_score_mean": 0.5598353056535142,
+      "combined_alien_score_std": 0.1716488590634082,
+      "search_novelty_mean": 0.2679595021903515
+    },
+    "cma": {
+      "n_samples": 84,
+      "mahalanobis_mean": 26.6155948638916,
+      "mahalanobis_std": 2.904845714569092,
+      "mahalanobis_percentile_mean": 51.92489844029552,
+      "reconstruction_error_mean": 0.03544999659061432,
+      "reconstruction_error_std": 0.009657837450504303,
+      "hotelling_t2_mean": 501.3092346191406,
+      "hotelling_t2_std": 105.71675109863281,
+      "low_pc_magnitude_mean": 0.019693365320563316,
+      "low_pc_magnitude_std": 0.005112263839691877,
+      "low_pc_percentile_mean": 48.568794567579005,
+      "knn_distance_mean": 0.2980787754058838,
+      "knn_distance_std": 0.04660346359014511,
+      "knn_percentile_mean": 72.68333333333332,
+      "combined_alien_score_mean": 0.5444613080733323,
+      "combined_alien_score_std": 0.17609111815555464,
+      "search_novelty_mean": 0.3637580021861054
+    },
+    "map_elites": {
+      "n_samples": 486,
+      "mahalanobis_mean": 37.60432052612305,
+      "mahalanobis_std": 10.303200721740723,
+      "mahalanobis_percentile_mean": 80.95993601501134,
+      "reconstruction_error_mean": 0.1037708967924118,
+      "reconstruction_error_std": 0.07980604469776154,
+      "hotelling_t2_mean": 878.3926391601562,
+      "hotelling_t2_std": 337.51007080078125,
+      "low_pc_magnitude_mean": 0.03122583217918873,
+      "low_pc_magnitude_std": 0.015512540936470032,
+      "low_pc_percentile_mean": 73.4969424319025,
+      "knn_distance_mean": 0.45968854427337646,
+      "knn_distance_std": 0.18405507504940033,
+      "knn_percentile_mean": 85.76893004115226,
+      "combined_alien_score_mean": 0.7861715757236558,
+      "combined_alien_score_std": 0.2254931777222664
+    }
+  },
+  "reference": {
+    "n_samples": 81444,
+    "embedding_dim": 768,
+    "n_pca_components": 526,
+    "pca_variance_explained": 0.9502198100090027
+  },
+  "winner": "map_elites",
+  "wins_by_metric": {
+    "random": 0,
+    "cma": 0,
+    "map_elites": 9
+  }
+}
