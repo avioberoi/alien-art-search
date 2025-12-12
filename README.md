@@ -9,19 +9,14 @@ We are interested in finding out what drawings, arts, pictures, or images would 
 
 This project operationalizes "alien art" as images that are:
 1. **Coherent** — valid outputs from a pretrained Stable Diffusion model (excluding trivial noise).
-2. **Novel** — far from previously seen images in DINO embedding space.
-3. **Low-density/Off-manifold** — distant from both search history AND a reference distribution of 81k WikiArt images.
+2. **Novel** — far from previously seen images in DINO/CLIP embedding space.
+3. **Low-density/Off-manifold** — distant from both search history AND a reference distribution of WikiArt images.
 
-We use DINO representations as a proxy for human-aligned visual novelty, and **MAP-Elites** to systematically illuminate low-density regions of the generative manifold.
+We use DINO/CLIP representations as a proxy for human-aligned visual novelty, and **MAP-Elites** to systematically illuminate low-density regions of the generative manifold.
 
 ## The Story Arc
 
-Random Search -> CMA-ES -> MAP-Elites (Prompt Evolution)
-      |              |                    |
-  Collapse       Still collapse      Sustained novelty
-  (wrong space)  (smart optimizer,   (right space!)
-                  wrong space)             +
-                                    Low-density illumination
+Random Search (Collapses) -> CMA-ES (Smart Optimizer, Still Collapses) -> MAP-Elites (Prompt Evolution, Sustained novelty + Low-density illumination)
 
 **Key Insight**: Language is the key lever for exploring concept space. Even sophisticated optimization (CMA-ES) on generation parameters (theta = seed, cfg, steps) cannot escape a semantic basin. You need to vary the *prompt* to jump between basins.
 
@@ -149,7 +144,7 @@ python cma_search.py --iterations 100 --embedding dino
 # MAP-Elites (shows sustained novelty!)
 python map_elites.py --iterations 300 --grid-size 10
 
-# Illumination analysis (optional, if you have WikiArt)
+# Illumination analysis
 python illumination.py build --source wikiart --path /path/to/wikiart --output ref_art.pkl
 python illumination.py analyze --search_dir outputs/map_elites --reference ref_art.pkl
 ```
@@ -225,7 +220,7 @@ python cma_search.py --compare \
 | MAP-Elites (CLIP) | 0.297 | 38.2% | Constrained by semantic manifold. |
 | **MAP-Elites (DINO)** | **0.574** | **95.1%** | **Sustained novelty and exploration.** |
 
-## Presentation Flow
+## Project Flow
 
 1. **Problem**: "How do we find alien art systematically?"
 
@@ -259,5 +254,6 @@ Avi Oberoi (aoberoi1@uchicago.edu)
 University of Chicago / TTIC
 
 ## License
+
 
 MIT
