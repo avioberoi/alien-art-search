@@ -1,0 +1,10 @@
+outputs/
+logs/
+__pycache__/
+geometric_data/
+illumination_results/
+*.pkl
+*.npy
+*.pyc
+.DS_Store
+.vscode/
