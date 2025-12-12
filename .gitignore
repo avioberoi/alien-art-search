@@ -2,6 +2,7 @@ logs/
 __pycache__/
 geometric_data/
 illumination_results/
+slurm_jobs/
 *.pkl
 *.npy
 *.pyc
